@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Simon DH",
+	"icon": "https://micro.blog/SimonDH/avatar.jpg",
+	"home_page_url": "https://microblog.dehaeck.eu/",
+	"feed_url": "https://microblog.dehaeck.eu/feed.json",
+	"items": [
+		
+			{
+				"id": "http://SimonDH.micro.blog/2021/12/05/suske-en-wiske.html",
+				
+				"content_html": "\n\n<h1 id=\"suske-en-wiske-chronlogisch\">Suske en Wiske, chronlogisch</h1>\n\n<p>Na het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.</p>\n\n<p>Van Riki tot waar ze vorig jaar ook geraakt zouden zijn.</p>\n\n<p>Van elk album zal ik hier kort - zeer kort noteren wat ik er van vond.</p>\n",
+				"content_text": "# Suske en Wiske, chronlogisch\n\nNa het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.\n\nVan Riki tot waar ze vorig jaar ook geraakt zouden zijn.\n\nVan elk album zal ik hier kort - zeer kort noteren wat ik er van vond.\n",
+				"date_published": "2021-12-11T15:52:25+01:00",
+				"url": "https://microblog.dehaeck.eu/2021/12/05/suske-en-wiske.html",
+				"tags": ["Suske en Wiske"]
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2021/12/03/als-we-straks.html",
+				"title": "De complete collectie is eindelijk aangekomen",
+				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n\n<p><img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" /></p>\n",
+				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
+				"date_published": "2021-12-03T12:41:00+01:00",
+				"url": "https://microblog.dehaeck.eu/2021/12/03/als-we-straks.html",
+				"tags": ["Suske en Wiske"]
+			}
+	]
+}
