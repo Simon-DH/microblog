@@ -7,26 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://SimonDH.micro.blog/2022/02/21/currently-reading-anomalie.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
+				"content_text": "Currently reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
+				"date_published": "2022-02-21T08:07:04+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/02/21/currently-reading-anomalie.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/02/14/finished-reading-een.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by  📚</p>\n",
+				"content_text": "Finished reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by  📚\n",
+				"date_published": "2022-02-14T12:46:09+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/02/14/finished-reading-een.html"
+			},
+			{
 				"id": "http://SimonDH.micro.blog/2022/02/09/two-pigeons-with.html",
 				
-				"content_html": "<p>Two pigeons, with their own preferences for a resting place</p>\n\n<p><img src=\"uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Two pigeons, with their own preferences for a resting place</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-09T15:31:15+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/09/two-pigeons-with.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/31/220346.html",
 				
-				"content_html": "<p>🐏🐑</p>\n\n<p><img src=\"uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
-				"content_text": "🐏🐑\n\n<img src=\"uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"content_html": "<p>🐏🐑</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🐏🐑\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2022-01-31T22:03:46+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/220346.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/31/a-i-think.html",
 				
-				"content_html": "<p>A, I think, sad donkey</p>\n\n<p><img src=\"uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A, I think, sad donkey\n\n<img src=\"uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A, I think, sad donkey</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A, I think, sad donkey\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-31T22:03:16+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/a-i-think.html"
 			},
@@ -41,56 +57,56 @@
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/20/bird-in-a.html",
 				
-				"content_html": "<p>Bird in a tree</p>\n\n<p><img src=\"uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Bird in a tree\n\n<img src=\"uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Bird in a tree</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Bird in a tree\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-20T21:31:23+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/20/bird-in-a.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/14/seagulls-having-a.html",
 				
-				"content_html": "<p>Seagulls having a conversation 🐤</p>\n\n<p><img src=\"uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>Seagulls having a conversation 🐤</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-01-14T12:50:45+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/14/seagulls-having-a.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/11/the-neighbors-cat.html",
 				
-				"content_html": "<p>The neighbor&rsquo;s cat in front of our window🐱</p>\n\n<p><img src=\"uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The neighbor&rsquo;s cat in front of our window🐱</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-11T21:19:09+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/11/the-neighbors-cat.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/09/meerhout.html",
 				
-				"content_html": "<p>Meerhout</p>\n\n<p><img src=\"uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Meerhout\n\n<img src=\"uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Meerhout</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Meerhout\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-09T19:30:11+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/09/meerhout.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/08/echternach.html",
 				
-				"content_html": "<p>Echternach, 2019</p>\n\n<p><img src=\"uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" /></p>\n",
-				"content_text": "Echternach, 2019\n\n<img src=\"uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
+				"content_html": "<p>Echternach, 2019</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" /></p>\n",
+				"content_text": "Echternach, 2019\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2022-01-08T19:19:11+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/08/echternach.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/03/nice-day-for.html",
 				
-				"content_html": "<p>Nice day for a walk 🚶</p>\n\n<p><img src=\"uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Nice day for a walk 🚶\n\n<img src=\"uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nice day for a walk 🚶</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nice day for a walk 🚶\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-03T20:11:24+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/03/nice-day-for.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/02/de-kat-van.html",
 				
-				"content_html": "<p>De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻</p>\n\n<p><img src=\"uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" /></p>\n",
-				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
+				"content_html": "<p>De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" /></p>\n",
+				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
 				"date_published": "2022-01-02T09:52:19+01:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/02/de-kat-van.html"
 			},
@@ -113,16 +129,16 @@
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/19/142112.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://microblog.dehaeck.eu/uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
 				"date_published": "2021-12-19T14:21:12+01:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/142112.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/19/135824.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://microblog.dehaeck.eu/uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
 				"date_published": "2021-12-19T13:58:24+01:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/135824.html"
 			},
@@ -147,8 +163,8 @@
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/03/als-we-straks.html",
 				"title": "De complete collectie is eindelijk aangekomen",
-				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n\n<p><img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" /></p>\n",
-				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
+				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" /></p>\n",
+				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
 				"date_published": "2021-12-03T12:41:00+01:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/03/als-we-straks.html",
 				"tags": ["Suske en Wiske"]
