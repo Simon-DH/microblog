@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://SimonDH.micro.blog/2022/02/27/finished-reading-anomalie.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
+				"content_text": "Finished reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
+				"date_published": "2022-02-27T18:40:33+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/02/27/finished-reading-anomalie.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/02/24/piran-by-day.html",
+				
+				"content_html": "<p>Piran by Day</p>\n\n<p><img src=\"uploads/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" /></p>\n",
+				"content_text": "Piran by Day\n\n<img src=\"uploads/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
+				"date_published": "2022-02-24T14:39:20+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/02/24/piran-by-day.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/02/24/brussels-by-night.html",
+				
+				"content_html": "<p>Brussels by Night</p>\n\n<p><img src=\"uploads/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" /></p>\n",
+				"content_text": "Brussels by Night\n\n<img src=\"uploads/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" />\n",
+				"date_published": "2022-02-24T14:08:36+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/02/24/brussels-by-night.html"
+			},
+			{
 				"id": "http://SimonDH.micro.blog/2022/02/21/currently-reading-anomalie.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
@@ -163,8 +187,8 @@
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/03/als-we-straks.html",
 				"title": "De complete collectie is eindelijk aangekomen",
-				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" /></p>\n",
-				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
+				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n\n<p><img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" /></p>\n",
+				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
 				"date_published": "2021-12-03T12:41:00+01:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/03/als-we-straks.html",
 				"tags": ["Suske en Wiske"]
