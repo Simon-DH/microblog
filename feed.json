@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://SimonDH.micro.blog/2022/03/18/finished-reading-liefhebben.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben / Druk 19</a> by Erich Pinchas Fromm 📚</p>\n",
+				"content_text": "Finished reading: [Liefhebben / Druk 19](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
+				"date_published": "2022-03-18T20:43:43+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/03/18/finished-reading-liefhebben.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/03/13/he-looks-so.html",
+				
+				"content_html": "<p>He looks so sad&hellip;</p>\n\n<p><img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "He looks so sad...\n\n<img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-13T22:16:55+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/03/13/he-looks-so.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/03/10/we-had-some.html",
+				
+				"content_html": "<p>We had some visitors today 🐈</p>\n\n<p><img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "We had some visitors today 🐈\n\n<img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-03-10T20:51:10+01:00",
+				"url": "https://microblog.dehaeck.eu/2022/03/10/we-had-some.html"
+			},
+			{
 				"id": "http://SimonDH.micro.blog/2022/03/08/spring-is-near.html",
 				
 				"content_html": "<p>Spring is near</p>\n\n<p><img src=\"uploads/2022/a0f071d77a.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
