@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://SimonDH.micro.blog/2022/04/09/finished-reading-cromagnon.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚 Vlort lezende pulp, klaar voor de niet meer bestaande minibib.</p>\n",
+				"content_text": "Finished reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚 Vlort lezende pulp, klaar voor de niet meer bestaande minibib.\n",
+				"date_published": "2022-04-09T21:13:00+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/04/09/finished-reading-cromagnon.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/04/03/currently-reading-cromagnon.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚</p>\n",
+				"content_text": "Currently reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚\n",
+				"date_published": "2022-04-03T08:48:07+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/04/03/currently-reading-cromagnon.html"
+			},
+			{
+				"id": "http://SimonDH.micro.blog/2022/04/03/finished-reading-i.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖\nIt could have been a fun but silly episode of early TNG.</p>\n",
+				"content_text": "Finished reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖 \nIt could have been a fun but silly episode of early TNG.\n",
+				"date_published": "2022-04-03T08:38:00+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/04/03/finished-reading-i.html"
+			},
+			{
 				"id": "http://SimonDH.micro.blog/2022/03/26/currently-reading-i.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖</p>\n",
@@ -33,16 +57,16 @@
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/13/he-looks-so.html",
 				
-				"content_html": "<p>He looks so sad&hellip;</p>\n\n<p><img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "He looks so sad...\n\n<img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>He looks so sad&hellip;</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "He looks so sad...\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-13T23:16:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/13/he-looks-so.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/10/we-had-some.html",
 				
-				"content_html": "<p>We had some visitors today 🐈</p>\n\n<p><img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "We had some visitors today 🐈\n\n<img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>We had some visitors today 🐈</p>\n\n<p><img src=\"https://microblog.dehaeck.eu/uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "We had some visitors today 🐈\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-10T21:51:10+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/10/we-had-some.html"
 			},
