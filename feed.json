@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2022/06/12/currently-reading-laatste.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by  Harlan Coben 📚</p>\n",
+				"content_text": "Currently reading: [Laatste Kans](https://micro.blog/books/9789022551677) by  Harlan Coben 📚\n",
+				"date_published": "2022-06-12T08:04:24+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/06/12/currently-reading-laatste.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/06/12/finished-reading-een.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
+				"content_text": "Finished reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
+				"date_published": "2022-06-12T08:02:55+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/06/12/finished-reading-een.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/06/05/on-my-walk.html",
 				
 				"content_html": "<p>On my walk yesterday, I found a little elf house&hellip;</p>\n<!-- raw HTML omitted -->\n",
