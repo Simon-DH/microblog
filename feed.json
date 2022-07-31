@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2022/07/18/lost-in-genoa.html",
+				
+				"content_html": "<p>Lost in Genoa</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lost in Genoa\n\n<img src=\"uploads/2022/ea9d8dac4a.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-18T12:42:21+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/07/18/lost-in-genoa.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/07/18/finished-reading-imperium.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023443544\">Imperium</a> by Robert Harris 📚</p>\n",
+				"content_text": "Finished reading: [Imperium](https://micro.blog/books/9789023443544) by Robert Harris 📚\n",
+				"date_published": "2022-07-18T12:27:24+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/07/18/finished-reading-imperium.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/06/18/finished-reading-laatste.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by Harlan Coben 📚, wat een, eh, slecht boek.</p>\n",
