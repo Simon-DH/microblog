@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2022/08/13/finished-reading-dictator.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307957962\">Dictator: A novel (Ancient Rome Trilogy Book 3)</a> by Robert Harris 📚</p>\n",
+				"content_text": "Finished reading: [Dictator: A novel (Ancient Rome Trilogy Book 3)](https://micro.blog/books/9780307957962) by Robert Harris 📚\n",
+				"date_published": "2022-08-13T13:44:50+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/08/13/finished-reading-dictator.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/07/31/finished-reading-lustrum.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099406327\">Lustrum</a> by Robert Harris 📚</p>\n",
+				"content_text": "Finished reading: [Lustrum](https://micro.blog/books/9780099406327) by Robert Harris 📚\n",
+				"date_published": "2022-07-31T15:31:30+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/07/31/finished-reading-lustrum.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/07/18/lost-in-genoa.html",
 				
 				"content_html": "<p>Lost in Genoa</p>\n<!-- raw HTML omitted -->\n",
