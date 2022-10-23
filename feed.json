@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2022/10/11/finished-reading-mysterin.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029518789\">Mysteriën</a> by Knut Hamsun 📚</p>\n",
+				"content_text": "Finished reading: [Mysteriën](https://micro.blog/books/9789029518789) by Knut Hamsun 📚\n",
+				"date_published": "2022-10-11T13:45:06+02:00",
+				"url": "https://microblog.dehaeck.eu/2022/10/11/finished-reading-mysterin.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/09/11/finished-reading-spqr.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041714282\">SPQR </a> by Mary Beard 📚</p>\n",
@@ -74,7 +82,7 @@
 				"id": "http://simondh.micro.blog/2022/06/05/on-my-walk.html",
 				
 				"content_html": "<p>On my walk yesterday, I found a little elf house&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On my walk yesterday, I found a little elf house...\n\n<img src=\"uploads/2022/64b6b8f0f6.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_text": "On my walk yesterday, I found a little elf house...\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/64b6b8f0f6.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-05T18:36:42+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/06/05/on-my-walk.html"
 			},
@@ -218,7 +226,7 @@
 				"id": "http://SimonDH.micro.blog/2022/03/13/he-looks-so.html",
 				
 				"content_html": "<p>He looks so sad&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "He looks so sad...\n\n<img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "He looks so sad...\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-13T23:16:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/13/he-looks-so.html"
 			},
@@ -226,7 +234,7 @@
 				"id": "http://SimonDH.micro.blog/2022/03/10/we-had-some.html",
 				
 				"content_html": "<p>We had some visitors today 🐈</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "We had some visitors today 🐈\n\n<img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We had some visitors today 🐈\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-10T21:51:10+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/10/we-had-some.html"
 			},
@@ -234,7 +242,7 @@
 				"id": "http://SimonDH.micro.blog/2022/03/08/spring-is-near.html",
 				
 				"content_html": "<p>Spring is near</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring is near\n\n<img src=\"uploads/2022/a0f071d77a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Spring is near\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/a0f071d77a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-03-08T22:32:01+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/08/spring-is-near.html"
 			},
@@ -266,7 +274,7 @@
 				"id": "http://SimonDH.micro.blog/2022/02/24/piran-by-day.html",
 				
 				"content_html": "<p>Piran by Day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Piran by Day\n\n<img src=\"uploads/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
+				"content_text": "Piran by Day\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
 				"date_published": "2022-02-24T15:39:20+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/24/piran-by-day.html"
 			},
@@ -274,7 +282,7 @@
 				"id": "http://SimonDH.micro.blog/2022/02/24/brussels-by-night.html",
 				
 				"content_html": "<p>Brussels by Night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brussels by Night\n\n<img src=\"uploads/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" />\n",
+				"content_text": "Brussels by Night\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" />\n",
 				"date_published": "2022-02-24T15:08:36+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/24/brussels-by-night.html"
 			},
@@ -298,7 +306,7 @@
 				"id": "http://SimonDH.micro.blog/2022/02/09/two-pigeons-with.html",
 				
 				"content_html": "<p>Two pigeons, with their own preferences for a resting place</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://microblog.dehaeck.eu/uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-09T16:31:15+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/09/two-pigeons-with.html"
 			},
@@ -306,7 +314,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/31/220346.html",
 				
 				"content_html": "<p>🐏🐑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🐏🐑\n\n<img src=\"uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"content_text": "🐏🐑\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2022-01-31T23:03:46+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/220346.html"
 			},
@@ -314,7 +322,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/31/a-i-think.html",
 				
 				"content_html": "<p>A, I think, sad donkey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A, I think, sad donkey\n\n<img src=\"uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A, I think, sad donkey\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-31T23:03:16+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/a-i-think.html"
 			},
@@ -330,7 +338,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/20/bird-in-a.html",
 				
 				"content_html": "<p>Bird in a tree</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bird in a tree\n\n<img src=\"uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Bird in a tree\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-20T22:31:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/20/bird-in-a.html"
 			},
@@ -338,7 +346,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/14/seagulls-having-a.html",
 				
 				"content_html": "<p>Seagulls having a conversation 🐤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-01-14T13:50:45+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/14/seagulls-having-a.html"
 			},
@@ -346,7 +354,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/11/the-neighbors-cat.html",
 				
 				"content_html": "<p>The neighbor&rsquo;s cat in front of our window🐱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-11T22:19:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/11/the-neighbors-cat.html"
 			},
@@ -354,7 +362,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/09/meerhout.html",
 				
 				"content_html": "<p>Meerhout</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meerhout\n\n<img src=\"uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Meerhout\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-09T20:30:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/09/meerhout.html"
 			},
@@ -362,7 +370,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/08/echternach.html",
 				
 				"content_html": "<p>Echternach, 2019</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Echternach, 2019\n\n<img src=\"uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
+				"content_text": "Echternach, 2019\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2022-01-08T20:19:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/08/echternach.html"
 			},
@@ -370,7 +378,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/03/nice-day-for.html",
 				
 				"content_html": "<p>Nice day for a walk 🚶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice day for a walk 🚶\n\n<img src=\"uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Nice day for a walk 🚶\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-03T21:11:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/03/nice-day-for.html"
 			},
@@ -378,7 +386,7 @@
 				"id": "http://SimonDH.micro.blog/2022/01/02/de-kat-van.html",
 				
 				"content_html": "<p>De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
+				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
 				"date_published": "2022-01-02T10:52:19+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/02/de-kat-van.html"
 			},
@@ -402,7 +410,7 @@
 				"id": "http://SimonDH.micro.blog/2021/12/19/142112.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
 				"date_published": "2021-12-19T15:21:12+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/142112.html"
 			},
@@ -410,7 +418,7 @@
 				"id": "http://SimonDH.micro.blog/2021/12/19/135824.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://microblog.dehaeck.eu/uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
 				"date_published": "2021-12-19T14:58:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/135824.html"
 			},
