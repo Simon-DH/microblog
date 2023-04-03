@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/04/03/en-deze-persoon.html",
+				
+				"content_html": "<p>En deze persoon gaat een fietsvakantie doen tijdens de zomer?\nDat komt niet goed&hellip;🤣</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "En deze persoon gaat een fietsvakantie doen tijdens de zomer?\r\nDat komt niet goed...🤣\n\n<img src=\"uploads/2023/0e3789ecf4.jpg\" width=\"600\" height=\"600\" alt=\"Fitbit screenshot van iemand die 55min gefietst heeft over 11 km. De foto is van een koe die wat dwazig in de camera kijkt.\">\n",
+				"date_published": "2023-04-03T19:32:21+02:00",
+				"url": "https://microblog.dehaeck.eu/2023/04/03/en-deze-persoon.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/03/27/after-six-episodes.html",
+				
+				"content_html": "<p>🖖 After six episodes, I&rsquo;m still not disappointed in &lsquo;Star Trek Picard&rsquo;.</p>\n",
+				"content_text": "🖖 After six episodes, I'm still not disappointed in 'Star Trek Picard'.\n",
+				"date_published": "2023-03-27T10:45:47+02:00",
+				"url": "https://microblog.dehaeck.eu/2023/03/27/after-six-episodes.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/03/24/rotterdam-na-een.html",
 				
 				"content_html": "<p>Rotterdam na een eerste vermoeiende dag: goedgekeurd 👍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Rotterdam na een eerste vermoeiende dag: goedgekeurd 👍\n\n<img src=\"uploads/2023/6ded2ddd99.jpg\" width=\"600\" height=\"400\" alt=\"Rotterdam Centraal Station\"><img src=\"uploads/2023/4e0e331090.jpg\" width=\"600\" height=\"400\" alt=\"Zicht op een deel van Rotterdam via de reflecterende buitenkant van Het Depot\"><img src=\"uploads/2023/46ffcdf16b.jpg\" width=\"600\" height=\"450\" alt=\"Zicht op de skyline van Rotterdam vanop de Euromast (Waar je vandaag bijna weg ging waaien)\"><img src=\"uploads/2023/5652a3d0f3.jpg\" width=\"400\" height=\"600\" alt=\"Een Kaapse Maria in een café\">\n",
-				"date_published": "2023-03-24T21:20:21+01:00",
+				"date_published": "2023-03-24T22:20:21+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/24/rotterdam-na-een.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>Vandaag een uitstap met als hoofddoel het Museum van Kunst en Geschiedenis, een soms vreemde amalgaam van werken uit de alle periodes en alle werelddelen. Sommige ruimtes waren overduidelijk recent gemoderniseerd of goed gedaan (de Winkel van Wolfers Frères), andere delen waren dan weer oubollig. Maar in de collectie zitten zeker zaken die de moeite waard zijn.<br>\nEr was nog tijd over, dus even Autoworld binnengestapt. Het was weer eens wat anders.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Vandaag een uitstap met als hoofddoel het Museum van Kunst en Geschiedenis, een soms vreemde amalgaam van werken uit de alle periodes en alle werelddelen. Sommige ruimtes waren overduidelijk recent gemoderniseerd of goed gedaan (de Winkel van Wolfers Frères), andere delen waren dan weer oubollig. Maar in de collectie zitten zeker zaken die de moeite waard zijn.  \nEr was nog tijd over, dus even Autoworld binnengestapt. Het was weer eens wat anders.\n\n<img src=\"uploads/2023/3e7851b944.jpg\" width=\"600\" height=\"563\" alt=\"Wandtapijt met de kruisafneming van Christus\"><img src=\"uploads/2023/6619c416bd.jpg\" width=\"342\" height=\"600\" alt=\"Ivoren beeldje waar Maria Jezus die gestorven is beweend.\"><img src=\"uploads/2023/0043c1d09e.jpg\" width=\"329\" height=\"600\" alt=\"Egyptisch standbeeld uit zeer lang vervlogen tijden die een of andere god zou uitbeelden.\"><img src=\"uploads/2023/1c6146e6a8.jpg\" width=\"600\" height=\"399\" alt=\"Een geel Volkswagenbusje waar de zijdeur van open staat in Autoworld\">\n",
-				"date_published": "2023-03-19T17:55:49+01:00",
+				"date_published": "2023-03-19T18:55:49+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/19/vandaag-een-uitstap.html",
 				"tags": ["museum"]
 			},
@@ -28,7 +44,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n<p>Meestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren&hellip;</p>\n",
 				"content_text": "Finished reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\r\n\r\nMeestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren...\n",
-				"date_published": "2023-03-18T09:01:03+01:00",
+				"date_published": "2023-03-18T10:01:03+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/18/finished-reading-de.html"
 			},
 			{
@@ -36,7 +52,7 @@
 				
 				"content_html": "<p>Naar een hypermarkt gaan heeft ook zo zijn nadelen.<br>\nDan kom je onverwacht thuis met een redelijk overbodige Zelda Game and Watch. Daar gaan mijn plannen voor dit weekend&hellip;</p>\n",
 				"content_text": "Naar een hypermarkt gaan heeft ook zo zijn nadelen.  \r\nDan kom je onverwacht thuis met een redelijk overbodige Zelda Game and Watch. Daar gaan mijn plannen voor dit weekend...\n",
-				"date_published": "2023-03-17T20:02:18+01:00",
+				"date_published": "2023-03-17T21:02:18+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/17/naar-een-hypermarkt.html"
 			},
 			{
@@ -44,7 +60,7 @@
 				
 				"content_html": "<p>Toen ze me vanmorgen vroegen wat we vandaag zouden kunnen gaan doen en ik al lachend zei dat er een carnavalsstoet in Mortsel was, was het niet mijn bedoeling daar ook effectief naar toe te gaan&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Toen ze me vanmorgen vroegen wat we vandaag zouden kunnen gaan doen en ik al lachend zei dat er een carnavalsstoet in Mortsel was, was het niet mijn bedoeling daar ook effectief naar toe te gaan...\n\n<img src=\"uploads/2023/e76aa136dd.jpg\" width=\"400\" height=\"600\" alt=\"Praalwagen met een grote lachende aap erop en twee vreemdsoortige kikkers. Op de tweede wagen is een oranje mens aan het dansen.\">\n",
-				"date_published": "2023-03-11T18:05:55+01:00",
+				"date_published": "2023-03-11T19:05:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/11/toen-ze-me.html"
 			},
 			{
@@ -52,7 +68,7 @@
 				
 				"content_html": "<p>Gisteren was het vrije vrijdag, dus museumdag. Omdat er ook andere verplichtingen waren hielden we het dicht bij huis: het MUHKA.<br>\nJe kan deze periode beter in de namiddag gaan als je de performances van Dora Garciá live wil zien (wat me nu niet gelukt is), maar ook de kleinere tentoonstellingen van Denmark en Slavs and Tatars vond ik de moeite.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Gisteren was het vrije vrijdag, dus museumdag. Omdat er ook andere verplichtingen waren hielden we het dicht bij huis: het MUHKA.  \nJe kan deze periode beter in de namiddag gaan als je de performances van Dora Garciá live wil zien (wat me nu niet gelukt is), maar ook de kleinere tentoonstellingen van Denmark en Slavs and Tatars vond ik de moeite.\n\n<img src=\"uploads/2023/8fdccfb52d.jpg\" width=\"600\" height=\"300\" alt=\"Werk van Denmark, dode letters. Vier boeken liggen er in het midden van een ronde zaal op een standaard. Daarachter hangen allemaal werken die bestaan uit op elkaar geplakte reepje bedrukt papier.\"><img src=\"uploads/2023/9a112287e1.jpg\" width=\"600\" height=\"450\" alt=\"Wandtapijten van Slavs and Tarters met teksten in het Pools, Engels en Perzisch op. Get meest prominente werk zegt: Help the militia, beat yourself up\"><img src=\"uploads/2023/a97d60181f.jpg\" width=\"450\" height=\"600\" alt=\"Met krijt beschreven bord uit een performance van Dora Garciá waar de nabije toekomst op voorspeld wordt. Zo leren we dat in 2032 er nog maar een gebruiker op Facebook zal zijn en dat de ecocolapse in 2050 zal plaatsvinden \">\n",
-				"date_published": "2023-03-11T08:36:49+01:00",
+				"date_published": "2023-03-11T09:36:49+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/11/gisteren-was-het.html",
 				"tags": ["museum"]
 			},
@@ -61,7 +77,7 @@
 				
 				"content_html": "<p>Na bijna tien jaar met de auto rijden,  eindelijk mijn eerste alcoholcontrole.<br>\nEen schandaal dat het zo lang geduurd heeft.</p>\n",
 				"content_text": "Na bijna tien jaar met de auto rijden,  eindelijk mijn eerste alcoholcontrole.  \r\nEen schandaal dat het zo lang geduurd heeft. \n",
-				"date_published": "2023-03-04T22:33:11+01:00",
+				"date_published": "2023-03-04T23:33:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/03/04/na-bijna-tien.html"
 			},
 			{
@@ -69,7 +85,7 @@
 				
 				"content_html": "<p>🎥 Gisteren gezien: Le Otto Montagne.</p>\n<p>Mooie film naar het overbekende boek.<br>\nDe cinematografie was prachtig,  de acteerprestaties ijzersterk,  het verhaal beklijvend.<br>\nDe film had wel iets gebalder gemogen, zeker het middenstuk was net iets te lang. En misschien had het soms allemaal wat subtieler gekund. Maar laat dat je zeker niet tegenhouden om te gaan kijken.</p>\n",
 				"content_text": "🎥 Gisteren gezien: Le Otto Montagne.\r\n\r\nMooie film naar het overbekende boek.   \r\nDe cinematografie was prachtig,  de acteerprestaties ijzersterk,  het verhaal beklijvend.   \r\nDe film had wel iets gebalder gemogen, zeker het middenstuk was net iets te lang. En misschien had het soms allemaal wat subtieler gekund. Maar laat dat je zeker niet tegenhouden om te gaan kijken. \n",
-				"date_published": "2023-02-26T08:17:42+01:00",
+				"date_published": "2023-02-26T09:17:42+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/26/gisteren-gezien-le.html"
 			},
 			{
@@ -77,7 +93,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n",
 				"content_text": "Currently reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\n",
-				"date_published": "2023-02-25T08:04:18+01:00",
+				"date_published": "2023-02-25T09:04:18+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/25/currently-reading-de.html"
 			},
 			{
@@ -85,7 +101,7 @@
 				
 				"content_html": "<p>Vrije vrijdag,  museumdag.<br>\nDeze keer naar het MSK Gent en de tentoonstelling van Rombouts.<br>\nDe tentoonstelling was kleiner dan ik verwacht had,  maar wel goed gedaan en de schilderijen waren de moeite. Zeker een aanrader. <br>\nOok de rest van het museum, was zeker de moeite van een bezoek waard.<br>\nVijf jaar in Gent op kot gezeten en tot mijn schande was ik er nog nooit geweest.<br>\nHet uitzicht en de geur van de Overpoort op een vrijdagochtend was 20 jaar later wel direct herkenbaar.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Vrije vrijdag,  museumdag.  \nDeze keer naar het MSK Gent en de tentoonstelling van Rombouts.  \nDe tentoonstelling was kleiner dan ik verwacht had,  maar wel goed gedaan en de schilderijen waren de moeite. Zeker een aanrader.    \nOok de rest van het museum, was zeker de moeite van een bezoek waard.   \nVijf jaar in Gent op kot gezeten en tot mijn schande was ik er nog nooit geweest.  \nHet uitzicht en de geur van de Overpoort op een vrijdagochtend was 20 jaar later wel direct herkenbaar. \n\n<img src=\"uploads/2023/7b6c6f3866.jpg\" width=\"600\" height=\"400\" alt=\"Vooraanzicht van het museum\">\n",
-				"date_published": "2023-02-24T15:38:27+01:00",
+				"date_published": "2023-02-24T16:38:27+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/24/vrije-vrijdag-museumdag.html",
 				"tags": ["museum"]
 			},
@@ -94,7 +110,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029506441\">Het leven een gebruiksaanwijzing</a> by Georges Perec 📚<br>\nAan de tijd dat ik nodig had om het boek te lezen kun je niet alleen afleiden dat ik het druk had, maar ook dat het niet altijd even vlot las - ik heb veel heen en weer moeten bladeren. Maar het was een bijzondere leeservaring.<br>\nEen nawoord was welkom geweest, waar bijvoorbeeld enkele zaken werden uitgelegd die bijvoorbeeld <a href=\"https://erikgveld.wordpress.com/2013/09/02/georges-perec-het-leven-een-gebruiksaanwijzing-1978/\">hier</a>  beschreven staan.</p>\n",
 				"content_text": "Finished reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚  \nAan de tijd dat ik nodig had om het boek te lezen kun je niet alleen afleiden dat ik het druk had, maar ook dat het niet altijd even vlot las - ik heb veel heen en weer moeten bladeren. Maar het was een bijzondere leeservaring.  \nEen nawoord was welkom geweest, waar bijvoorbeeld enkele zaken werden uitgelegd die bijvoorbeeld [hier](https://erikgveld.wordpress.com/2013/09/02/georges-perec-het-leven-een-gebruiksaanwijzing-1978/)  beschreven staan.\n",
-				"date_published": "2023-02-23T08:05:34+01:00",
+				"date_published": "2023-02-23T09:05:34+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/23/finished-reading-het.html",
 				"tags": ["recensie"]
 			},
@@ -103,7 +119,7 @@
 				
 				"content_html": "<p>Voor u uitgetest:<br>\nThe Antwerp Story in Het Steen is slechte reclame voor wat Antwerpen te bieden heeft en hiervoor betalen zou je geld weggooien zijn.<br>\nWat muziekinstrumenten met het Vleeshuis te maken heeft weet ik niet,  maar als je dat graag ziet zou het de moeite kunnen zijn.<br>\nAls je van litho&rsquo;s, etsen en gravures houdt is museum De Reede de moeite,  al is 15 euro wel aan de dure kant.</p>\n",
 				"content_text": "Voor u uitgetest:  \nThe Antwerp Story in Het Steen is slechte reclame voor wat Antwerpen te bieden heeft en hiervoor betalen zou je geld weggooien zijn.   \nWat muziekinstrumenten met het Vleeshuis te maken heeft weet ik niet,  maar als je dat graag ziet zou het de moeite kunnen zijn.   \nAls je van litho's, etsen en gravures houdt is museum De Reede de moeite,  al is 15 euro wel aan de dure kant. \n",
-				"date_published": "2023-02-11T16:31:09+01:00",
+				"date_published": "2023-02-11T17:31:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/11/voor-u-uitgetest.html",
 				"tags": ["museum"]
 			},
@@ -112,7 +128,7 @@
 				
 				"content_html": "<p>Ik kan wel wennen aan deze vrije vrijdagen.<br>\nEen half dagje Verborgen Parels in Mechelen was leuker dan werken.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Ik kan wel wennen aan deze vrije vrijdagen.   \nEen half dagje Verborgen Parels in Mechelen was leuker dan werken. \n\n<img src=\"uploads/2023/e72f68eeda.jpg\" width=\"600\" height=\"600\" alt=\"Vijf grote,  beetje creepy kijkende,  poppen. Gerangschikt van klein naar groot\"><img src=\"uploads/2023/3048fe8b90.jpg\" width=\"600\" height=\"600\" alt=\"Een hoop (barok) schilderijen aan palen in een depot \"><img src=\"uploads/2023/ebf8f34f92.jpg\" width=\"600\" height=\"337\" alt=\"Nog meer schilderijen,  sommige 20ste eeuw, in hetzelfde depot \"><img src=\"uploads/2023/c8de30a019.jpg\" width=\"410\" height=\"600\" alt=\"Interieur van de Sint Jan kerk in Mechelen,  met een monumentaal altaarstuk van Rubens\"><img src=\"uploads/2023/65a61c060d.jpg\" width=\"400\" height=\"600\" alt=\"Overdadig interieur van de Begijnhofkerk in Mechelen\">\n",
-				"date_published": "2023-02-10T17:17:59+01:00",
+				"date_published": "2023-02-10T18:17:59+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/02/10/ik-kan-wel.html",
 				"tags": ["museum"]
 			},
@@ -121,7 +137,7 @@
 				
 				"content_html": "<p>Finished Star Trek 🖖Strange New Worlds a couple days ago.<br>\nWhile I was not convinced at first, by the end I was a fan&hellip;</p>\n",
 				"content_text": "Finished Star Trek 🖖Strange New Worlds a couple days ago.  \r\nWhile I was not convinced at first, by the end I was a fan...\n",
-				"date_published": "2023-01-26T11:25:27+01:00",
+				"date_published": "2023-01-26T12:25:27+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/26/finished-star-trek.html"
 			},
 			{
@@ -129,7 +145,7 @@
 				
 				"content_html": "<p>Net de eindafrekening energie 2022 gekregen.<br>\nDe helft van de betaalde voorschotten moeten ze ons terugstorten -met een vast contract. Er werd minder verbruikt, maar zeker niet de helft minder. \nDieven zijn het die energiebedrijven&hellip;.<br>\nDaar bestaan geen andere woorden meer voor.</p>\n",
 				"content_text": "Net de eindafrekening energie 2022 gekregen.  \r\nDe helft van de betaalde voorschotten moeten ze ons terugstorten -met een vast contract. Er werd minder verbruikt, maar zeker niet de helft minder. \r\nDieven zijn het die energiebedrijven....  \r\nDaar bestaan geen andere woorden meer voor.\r\n\r\n",
-				"date_published": "2023-01-25T15:33:44+01:00",
+				"date_published": "2023-01-25T16:33:44+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/25/net-de-eindafrekening.html"
 			},
 			{
@@ -137,7 +153,7 @@
 				
 				"content_html": "<p>The boy next door doesn&rsquo;t understand what is happening&hellip;.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The boy next door doesn't understand what is happening....\n\n<img src=\"uploads/2023/9c0051555b.jpg\" width=\"600\" height=\"450\" alt=\"Orange cat wondering why our garden is suddenly white\">\n",
-				"date_published": "2023-01-20T10:25:58+01:00",
+				"date_published": "2023-01-20T11:25:58+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/20/the-boy-next.html"
 			},
 			{
@@ -145,7 +161,7 @@
 				"title": "Turnhout",
 				"content_html": "<p>Wat doet een mens op zondag? Turnhout eens gaan bekijken met de museumpas.<br>\nDe stad zelf heeft zeker zijn charme, alleen reden er wel wat teveel auto&rsquo;s rond en is het er redelijk dood op een zondag.<br>\nHet begijnhof was heel mooi en het Begijnhofmuseum was een leuk klein museum waar bijna niemand komt.<br>\nHet museum Taxandria kon er nog mee door, maar het speelkaartenmuseum was oninteressant.</p>\n",
 				"content_text": "Wat doet een mens op zondag? Turnhout eens gaan bekijken met de museumpas.  \nDe stad zelf heeft zeker zijn charme, alleen reden er wel wat teveel auto's rond en is het er redelijk dood op een zondag.  \nHet begijnhof was heel mooi en het Begijnhofmuseum was een leuk klein museum waar bijna niemand komt.  \nHet museum Taxandria kon er nog mee door, maar het speelkaartenmuseum was oninteressant.\n",
-				"date_published": "2023-01-08T17:24:31+01:00",
+				"date_published": "2023-01-08T18:24:31+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/08/turnhout.html",
 				"tags": ["museum"]
 			},
@@ -154,7 +170,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789029506441\">Het leven een gebruiksaanwijzing</a> by Georges Perec 📚\nEen boek dat me altijd geïntrigeerd heeft.</p>\n",
 				"content_text": "Currently reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚\r\nEen boek dat me altijd geïntrigeerd heeft. \n",
-				"date_published": "2023-01-07T08:53:58+01:00",
+				"date_published": "2023-01-07T09:53:58+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/07/currently-reading-het.html"
 			},
 			{
@@ -162,7 +178,7 @@
 				
 				"content_html": "<p>I&rsquo;ll be glad when I finish Star Trek Enterpise. More time to live my life again.\nBut I will be sad when I have to miss great episodes like In A Mirror Darkly again for another few years. 🖖</p>\n",
 				"content_text": "I'll be glad when I finish Star Trek Enterpise. More time to live my life again.\r\nBut I will be sad when I have to miss great episodes like In A Mirror Darkly again for another few years. 🖖\n",
-				"date_published": "2023-01-04T20:54:52+01:00",
+				"date_published": "2023-01-04T21:54:52+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/04/ill-be-glad.html"
 			},
 			{
@@ -170,7 +186,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9024513839\">Gorki Park</a> by Martin Cruz Smith 📚\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.</p>\n",
 				"content_text": "Finished reading: [Gorki Park](https://micro.blog/books/9024513839) by Martin Cruz Smith 📚\r\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.\n",
-				"date_published": "2023-01-02T13:27:41+01:00",
+				"date_published": "2023-01-02T14:27:41+02:00",
 				"url": "https://microblog.dehaeck.eu/2023/01/02/finished-reading-gorki.html"
 			},
 			{
@@ -178,7 +194,7 @@
 				"title": "Jonathan - KVS",
 				"content_html": "<p>Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.<br>\nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.</p>\n",
 				"content_text": "Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.  \nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.\n",
-				"date_published": "2022-12-11T13:21:31+01:00",
+				"date_published": "2022-12-11T14:21:31+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/12/11/jonathan-kvs.html",
 				"tags": ["theater","recensie"]
 			},
@@ -187,7 +203,7 @@
 				
 				"content_html": "<p>Wandeling in het fort van Edegem</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Wandeling in het fort van Edegem\r\n\r\n\r\n\n\n<img src=\"uploads/2022/765f8a2245.jpg\" width=\"569\" height=\"600\" alt=\"Verlaten roeiboot op door bladeren bedekt water in het fort\"><img src=\"uploads/2022/9221707471.jpg\" width=\"600\" height=\"600\" alt=\"Rustende ijsvogel\"><img src=\"uploads/2022/159aa17131.jpg\" width=\"600\" height=\"450\" alt=\"Zonnebadende aalscholver\"><img src=\"uploads/2022/7e09b15d45.jpg\" width=\"600\" height=\"450\" alt=\"Rustende reiger op een tak in het water\">\n",
-				"date_published": "2022-12-03T17:31:31+01:00",
+				"date_published": "2022-12-03T18:31:31+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/12/03/wandeling-in-het.html"
 			},
 			{
@@ -195,7 +211,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671537838\">The Murdered Sun (Star Trek Voyager, No 6)</a> by Christie Golden 📚\nWhen you need a silly Voyager adventure, but don&rsquo;t want to rewatch an episode. 🖖</p>\n",
 				"content_text": "Finished reading: [The Murdered Sun (Star Trek Voyager, No 6)](https://micro.blog/books/9780671537838) by Christie Golden 📚\r\nWhen you need a silly Voyager adventure, but don't want to rewatch an episode. 🖖\n",
-				"date_published": "2022-11-27T09:22:23+01:00",
+				"date_published": "2022-11-27T10:22:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/27/finished-reading-the.html"
 			},
 			{
@@ -203,7 +219,7 @@
 				
 				"content_html": "<p>I wonder if I should retain all my digital photos, or make a drastic selection and delete a lot of them.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I wonder if I should retain all my digital photos, or make a drastic selection and delete a lot of them.\n\n#mbnov\n",
-				"date_published": "2022-11-24T21:37:37+01:00",
+				"date_published": "2022-11-24T22:37:37+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/24/i-wonder-if.html"
 			},
 			{
@@ -211,7 +227,7 @@
 				
 				"content_html": "<p>I always wonder why I have to manually update an app from Fdroid?\nThey never seem to be able to get downloaded automatically.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I always wonder why I have to manually update an app from Fdroid? \nThey never seem to be able to get downloaded automatically.\n\n#mbnov\n",
-				"date_published": "2022-11-23T22:23:50+01:00",
+				"date_published": "2022-11-23T23:23:50+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/23/i-always-wonder.html"
 			},
 			{
@@ -219,7 +235,7 @@
 				
 				"content_html": "<p>Graze = grazen.\nDidn&rsquo;t know that without context or looking up. \nNever to old to learn that my english isn&rsquo;t so good 😐</p>\n<p>#mbnov</p>\n",
 				"content_text": "Graze = grazen.\r\nDidn't know that without context or looking up. \r\nNever to old to learn that my english isn't so good 😐\r\n\r\n#mbnov\n",
-				"date_published": "2022-11-22T21:53:07+01:00",
+				"date_published": "2022-11-22T22:53:07+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/22/graze-grazendidnt-know.html"
 			},
 			{
@@ -227,7 +243,7 @@
 				
 				"content_html": "<p>Ice, Ice baby. Our dancing Christmas penguin sings it on repeat. To the despair of my housemates.</p>\n<p>#mbnov</p>\n",
 				"content_text": "Ice, Ice baby. Our dancing Christmas penguin sings it on repeat. To the despair of my housemates.\n\n#mbnov\n",
-				"date_published": "2022-11-21T19:23:29+01:00",
+				"date_published": "2022-11-21T20:23:29+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/21/ice-ice-baby.html"
 			},
 			{
@@ -235,7 +251,7 @@
 				"title": "Mercatormuseum Sint-Niklaas",
 				"content_html": "<p>Wat doet een mens op een druilerige zondag? Naar een museum gaan.\nDeze keer het Mercatormuseum in Sint-Niklaas. Een beetje verwaarloosd museum over Mercator, met daarin de aard- en hemelglobe van hem.<br>\nVeel facsimile kaarten en niet alles werkte zoals het zou moeten.<br>\nAls je iets met cartografie hebt zal het wel de moeite zijn, ik vroeg me wel een beetje af wat ik daar deed.</p>\n",
 				"content_text": "Wat doet een mens op een druilerige zondag? Naar een museum gaan.\nDeze keer het Mercatormuseum in Sint-Niklaas. Een beetje verwaarloosd museum over Mercator, met daarin de aard- en hemelglobe van hem.  \nVeel facsimile kaarten en niet alles werkte zoals het zou moeten.  \nAls je iets met cartografie hebt zal het wel de moeite zijn, ik vroeg me wel een beetje af wat ik daar deed. \n",
-				"date_published": "2022-11-20T16:33:31+01:00",
+				"date_published": "2022-11-20T17:33:31+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/20/wat-doet-een.html",
 				"tags": ["museum"]
 			},
@@ -244,7 +260,7 @@
 				
 				"content_html": "<p>Coming up with a novel thing to write for #mbnov every day is more difficult than I imagined.</p>\n",
 				"content_text": "Coming up with a novel thing to write for #mbnov every day is more difficult than I imagined.\n",
-				"date_published": "2022-11-19T19:39:55+01:00",
+				"date_published": "2022-11-19T20:39:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/19/coming-up-with.html"
 			},
 			{
@@ -252,7 +268,7 @@
 				
 				"content_html": "<p>Hoe sommige kringloopwinkels de selectie van hun te verkopen spullen doen zal me altijd een raadsel blijven.<br>\nMaar als je volgeschreven adresboekjes wilt hebben met nog zescijferige telefoonnummers in, ik weet een adres</p>\n",
 				"content_text": "Hoe sommige kringloopwinkels de selectie van hun te verkopen spullen doen zal me altijd een raadsel blijven.   \nMaar als je volgeschreven adresboekjes wilt hebben met nog zescijferige telefoonnummers in, ik weet een adres\n",
-				"date_published": "2022-11-19T12:29:31+01:00",
+				"date_published": "2022-11-19T13:29:31+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/19/hoe-sommige-kringloopwinkels.html"
 			},
 			{
@@ -260,7 +276,7 @@
 				
 				"content_html": "<p>The #mbnov word of the day is tire.<br>\nI&rsquo;m a bit tired of searching to write something about tires.\nMaybe I should retire to bed so I can start again tomorrow with a fresh mind.</p>\n",
 				"content_text": "The #mbnov word of the day is tire.  \nI'm a bit tired of searching to write something about tires. \nMaybe I should retire to bed so I can start again tomorrow with a fresh mind.\n",
-				"date_published": "2022-11-18T19:15:17+01:00",
+				"date_published": "2022-11-18T20:15:17+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/18/the-mbnov-word.html"
 			},
 			{
@@ -268,7 +284,7 @@
 				
 				"content_html": "<p>I&rsquo;m wondering if a Duvel Barrel Aged is worth the price?<br>\nHow different is it from a regular Duvel&hellip; 🍺🍻<br>\n#mbnov</p>\n",
 				"content_text": "I'm wondering if a Duvel Barrel Aged is worth the price?   \r\nHow different is it from a regular Duvel... 🍺🍻  \r\n#mbnov\r\n",
-				"date_published": "2022-11-17T14:16:12+01:00",
+				"date_published": "2022-11-17T15:16:12+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/17/im-wondering-if.html"
 			},
 			{
@@ -276,7 +292,7 @@
 				
 				"content_html": "<p>Meetings in English, terwijl iedereen Nederlandstalig is. Why? 😫</p>\n",
 				"content_text": "Meetings in English, terwijl iedereen Nederlandstalig is. Why? 😫\n",
-				"date_published": "2022-11-17T11:31:17+01:00",
+				"date_published": "2022-11-17T12:31:17+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/17/meetings-in-english.html"
 			},
 			{
@@ -284,7 +300,7 @@
 				
 				"content_html": "<p>The #mbnov word of the day seems to be franchise.<br>\nToo tired to think if I want to write something about de belachelijke franchise van mijn hospitalisatieverzekering or my love for the Star Trek franchise 🖖</p>\n",
 				"content_text": "The #mbnov word of the day seems to be franchise.  \r\nToo tired to think if I want to write something about de belachelijke franchise van mijn hospitalisatieverzekering or my love for the Star Trek franchise 🖖\n",
-				"date_published": "2022-11-16T20:59:27+01:00",
+				"date_published": "2022-11-16T21:59:27+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/16/the-mbnov-word.html"
 			},
 			{
@@ -292,7 +308,7 @@
 				
 				"content_html": "<p>I have a very good lunch box, yet half the time I still wrap my lunch in aluminum foil.<br>\nWhy? no idea&hellip;<br>\nI do know that&rsquo;s one of the reasons why I consider myself an idiot from time to time.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I have a very good lunch box, yet half the time I still wrap my lunch in aluminum foil.   \r\nWhy? no idea...   \r\nI do know that's one of the reasons why I consider myself an idiot from time to time.\r\n\r\n#mbnov\n",
-				"date_published": "2022-11-15T19:06:35+01:00",
+				"date_published": "2022-11-15T20:06:35+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/15/i-have-a.html"
 			},
 			{
@@ -300,7 +316,7 @@
 				
 				"content_html": "<p>I didn&rsquo;t leave the house today. \nUsually these days are days to forget easily&hellip;.\n#mbnov</p>\n",
 				"content_text": "I didn't leave the house today. \r\nUsually these days are days to forget easily....\r\n#mbnov\n",
-				"date_published": "2022-11-14T20:56:42+01:00",
+				"date_published": "2022-11-14T21:56:42+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/14/i-didnt-leave.html"
 			},
 			{
@@ -308,7 +324,7 @@
 				
 				"content_html": "<p>Sometimes I don&rsquo;t want to adjust to the rest of the world. #mbnov</p>\n",
 				"content_text": "Sometimes I don't want to adjust to the rest of the world. #mbnov\n",
-				"date_published": "2022-11-13T20:34:39+01:00",
+				"date_published": "2022-11-13T21:34:39+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/13/sometimes-i-dont.html"
 			},
 			{
@@ -316,7 +332,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061317708\">Van het westelijk front geen nieuws</a> by Erich Maria Remarque 📚 \nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\nBenieuwd of de recente verfilming het boek eer aan doet.</p>\n",
 				"content_text": "Finished reading: [Van het westelijk front geen nieuws](https://micro.blog/books/9789061317708) by Erich Maria Remarque 📚 \r\nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\r\nBenieuwd of de recente verfilming het boek eer aan doet.\n",
-				"date_published": "2022-11-13T13:53:20+01:00",
+				"date_published": "2022-11-13T14:53:20+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/13/finished-reading-van.html"
 			},
 			{
@@ -324,7 +340,7 @@
 				
 				"content_html": "<p>Aalscholvers</p>\n<p>#fotografie #natuur #vogel #edegem</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Aalscholvers   \r\n\r\n#fotografie #natuur #vogel #edegem\n\n<img src=\"uploads/2022/d6dc4501c5.jpg\" width=\"600\" height=\"450\" alt=\"Aalscholver met uitgevouwen vleugels in de zon.\"><img src=\"uploads/2022/149796b5be.jpg\" width=\"600\" height=\"600\" alt=\"Aalscholver op een tak in het water.\">\n",
-				"date_published": "2022-11-13T12:47:21+01:00",
+				"date_published": "2022-11-13T13:47:21+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/13/aalscholvers-fotografie-natuur.html"
 			},
 			{
@@ -332,7 +348,7 @@
 				
 				"content_html": "<p>I have a suspicion that dinner is going to be fantastic. Fries, salad and vegetarian chicken pieces in front of the television. #mbnov</p>\n",
 				"content_text": "I have a suspicion that dinner is going to be fantastic. Fries, salad and vegetarian chicken pieces in front of the television. #mbnov\n",
-				"date_published": "2022-11-12T17:56:26+01:00",
+				"date_published": "2022-11-12T18:56:26+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/12/i-have-a.html"
 			},
 			{
@@ -340,7 +356,7 @@
 				
 				"content_html": "<p>Always wondered why a display on an alarm clock use bright red numbers that light up the entire room&hellip; #mbnov</p>\n",
 				"content_text": "Always wondered why a display on an alarm clock use bright red numbers that light up the entire room... #mbnov \n",
-				"date_published": "2022-11-11T21:43:52+01:00",
+				"date_published": "2022-11-11T22:43:52+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/11/always-wondered-why.html"
 			},
 			{
@@ -348,7 +364,7 @@
 				
 				"content_html": "<p>Can you participate at #mbnov in another language?\nBecause minister is even goed een Nederlandstalig woord als een Engelstalig</p>\n",
 				"content_text": "Can you participate at #mbnov in another language?\r\nBecause minister is even goed een Nederlandstalig woord als een Engelstalig\n",
-				"date_published": "2022-11-10T20:37:11+01:00",
+				"date_published": "2022-11-10T21:37:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/10/can-you-participate.html"
 			},
 			{
@@ -356,7 +372,7 @@
 				
 				"content_html": "<p>I&rsquo;m certain I need a vacation. Soon. #mbnov</p>\n",
 				"content_text": "I'm certain I need a vacation. Soon. #mbnov\n",
-				"date_published": "2022-11-09T16:12:58+01:00",
+				"date_published": "2022-11-09T17:12:58+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/09/im-certain-i.html"
 			},
 			{
@@ -364,7 +380,7 @@
 				
 				"content_html": "<p>Looking at everyone wearing a coat in my office, we can conclude that the consensus among my colleagues is that 19 degrees is just too cold to sit at your desk for an entire day. #mbnov</p>\n",
 				"content_text": "Looking at everyone wearing a coat in my office, we can conclude that the consensus among my colleagues is that 19 degrees is just too cold to sit at your desk for an entire day. #mbnov\n",
-				"date_published": "2022-11-08T19:33:32+01:00",
+				"date_published": "2022-11-08T20:33:32+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/08/looking-at-everyone.html"
 			},
 			{
@@ -372,7 +388,7 @@
 				
 				"content_html": "<p>After a day at work, I am too tired to share any useful insight of mine. #mbnov</p>\n",
 				"content_text": "After a day at work, I am too tired to share any useful insight of mine. #mbnov\n",
-				"date_published": "2022-11-07T19:45:53+01:00",
+				"date_published": "2022-11-07T20:45:53+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/07/after-a-day.html"
 			},
 			{
@@ -380,7 +396,7 @@
 				
 				"content_html": "<p>I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\nNow I like to do it also, probably embarrassing others around me but it&rsquo;s just a lot of fun. #mbnov</p>\n",
 				"content_text": "I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\r\nNow I like to do it also, probably embarrassing others around me but it's just a lot of fun. #mbnov\n",
-				"date_published": "2022-11-06T18:01:29+01:00",
+				"date_published": "2022-11-06T19:01:29+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/06/i-had-an.html"
 			},
 			{
@@ -388,7 +404,7 @@
 				
 				"content_html": "<p>I&rsquo;m giving myself an exemption today so I don&rsquo;t have to think about a text for #mbnov</p>\n",
 				"content_text": "I'm giving myself an exemption today so I don't have to think about a text for #mbnov\n",
-				"date_published": "2022-11-05T17:53:00+01:00",
+				"date_published": "2022-11-05T18:53:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/05/im-giving-myself.html"
 			},
 			{
@@ -396,7 +412,7 @@
 				
 				"content_html": "<p>Net met een houten vogel in #Lier mogen gooien. Waar die #Museumpas al niet goed voor is.\nMaar alle gekheid op een stokje, voor een stadsmuseum was het #StadsmuseumLier nog leuk gedaan.</p>\n",
 				"content_text": "Net met een houten vogel in #Lier mogen gooien. Waar die #Museumpas al niet goed voor is.\r\nMaar alle gekheid op een stokje, voor een stadsmuseum was het #StadsmuseumLier nog leuk gedaan.\n",
-				"date_published": "2022-11-05T16:01:35+01:00",
+				"date_published": "2022-11-05T17:01:35+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/05/net-met-een.html"
 			},
 			{
@@ -404,7 +420,7 @@
 				
 				"content_html": "<p>We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov</p>\n",
 				"content_text": "We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov\n",
-				"date_published": "2022-11-04T19:45:57+01:00",
+				"date_published": "2022-11-04T20:45:57+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/04/we-went-to.html"
 			},
 			{
@@ -412,7 +428,7 @@
 				
 				"content_html": "<p>Never wanted to have a driving licence, but now that I have one I still wonder from time to time how I could do without one. Unfortunately, you get to too few places if you can only use public transport&hellip;</p>\n",
 				"content_text": "Never wanted to have a driving licence, but now that I have one I still wonder from time to time how I could do without one. Unfortunately, you get to too few places if you can only use public transport...\n",
-				"date_published": "2022-11-03T19:44:02+01:00",
+				"date_published": "2022-11-03T20:44:02+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/03/never-wanted-to.html"
 			},
 			{
@@ -420,7 +436,7 @@
 				
 				"content_html": "<p>Bladblazers, bladblazers, bladblazers overal.\nWat een #herrie en #lawaai.\nLieve mensen laat de bladeren liggen waar ze liggen - insecten(eters) zullen je dankbaar zijn.\nMoet er toch wat weg, #watisermismetbezems of gebruik een #bladhark</p>\n",
 				"content_text": "Bladblazers, bladblazers, bladblazers overal.\r\nWat een #herrie en #lawaai.\r\nLieve mensen laat de bladeren liggen waar ze liggen - insecten(eters) zullen je dankbaar zijn.\r\nMoet er toch wat weg, #watisermismetbezems of gebruik een #bladhark \n",
-				"date_published": "2022-11-03T09:28:47+01:00",
+				"date_published": "2022-11-03T10:28:47+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/03/bladblazers-bladblazers-bladblazers.html"
 			},
 			{
@@ -428,7 +444,7 @@
 				
 				"content_html": "<p>Preparing for my first family feast in three years, I&rsquo;m not sure I&rsquo;m going to know who everybody is anymore :-)</p>\n",
 				"content_text": "Preparing for my first family feast in three years, I'm not sure I'm going to know who everybody is anymore :-) \n",
-				"date_published": "2022-11-02T12:05:42+01:00",
+				"date_published": "2022-11-02T13:05:42+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/02/preparing-for-my.html"
 			},
 			{
@@ -436,7 +452,7 @@
 				
 				"content_html": "<p>instax mini of the day ( or yesterday to be more precise).\n<!-- raw HTML omitted --></p>\n",
 				"content_text": "instax mini of the day ( or yesterday to be more precise). \n<img src=\"uploads/2022/66145189d6.png\" width=\"600\" height=\"375\" alt=\"four pigeons in black and white on a tram station\" />\n",
-				"date_published": "2022-11-02T09:38:32+01:00",
+				"date_published": "2022-11-02T10:38:32+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/02/instax-mimi-of.html"
 			},
 			{
@@ -444,7 +460,7 @@
 				
 				"content_html": "<p>Zoeken om iets te gaan doen met de puber deze vrijdag, wat een ramp&hellip;</p>\n",
 				"content_text": "Zoeken om iets te gaan doen met de puber deze vrijdag, wat een ramp...\n",
-				"date_published": "2022-11-02T08:40:28+01:00",
+				"date_published": "2022-11-02T09:40:28+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/02/zoeken-om-iets.html"
 			},
 			{
@@ -452,7 +468,7 @@
 				
 				"content_html": "<p>Should I start watching some #startrek fan series now that I&rsquo;ve seen the (for now) final episode of Lower Decks? 🤔🖖</p>\n",
 				"content_text": "Should I start watching some #startrek fan series now that I've seen the (for now) final episode of Lower Decks? 🤔🖖\n",
-				"date_published": "2022-11-01T15:33:21+01:00",
+				"date_published": "2022-11-01T16:33:21+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/01/should-i-start.html"
 			},
 			{
@@ -460,7 +476,7 @@
 				
 				"content_html": "<p>Trams die haasje over doen, het blijft een wonderbaarlijk gegeven.</p>\n",
 				"content_text": "Trams die haasje over doen, het blijft een wonderbaarlijk gegeven.\n",
-				"date_published": "2022-11-01T10:06:23+01:00",
+				"date_published": "2022-11-01T11:06:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/01/trams-die-haasje.html"
 			},
 			{
@@ -468,7 +484,7 @@
 				
 				"content_html": "<p>My girlfriend would rather go to a flea market than to a museum about old farm carts. Go figure.<br>\n#mbnov</p>\n",
 				"content_text": "My girlfriend would rather go to a flea market than to a museum about old farm carts. Go figure.  \n#mbnov\n",
-				"date_published": "2022-11-01T08:28:46+01:00",
+				"date_published": "2022-11-01T09:28:46+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/11/01/my-girlfriend-would.html"
 			},
 			{
@@ -476,7 +492,7 @@
 				
 				"content_html": "<p>🎃 Enkele kinderen in de war gebracht met de vraag of het al zes januari was&hellip;\nGelukkig hadden we nog ergens snoep liggen om het goed te maken 🎃😀</p>\n",
 				"content_text": "🎃 Enkele kinderen in de war gebracht met de vraag of het al zes januari was...\r\nGelukkig hadden we nog ergens snoep liggen om het goed te maken 🎃😀\n",
-				"date_published": "2022-10-31T19:44:09+01:00",
+				"date_published": "2022-10-31T20:44:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/10/31/enkele-kinderen-in.html"
 			},
 			{
@@ -484,7 +500,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024544523\">De Bezoeker (poema Pocket)</a> by Lee Child 📚</p>\n",
 				"content_text": "Finished reading: [De Bezoeker (poema Pocket)](https://micro.blog/books/9789024544523) by Lee Child 📚\n",
-				"date_published": "2022-10-23T18:57:00+01:00",
+				"date_published": "2022-10-23T19:57:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/10/23/finished-reading-de.html"
 			},
 			{
@@ -492,7 +508,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029518789\">Mysteriën</a> by Knut Hamsun 📚</p>\n",
 				"content_text": "Finished reading: [Mysteriën](https://micro.blog/books/9789029518789) by Knut Hamsun 📚\n",
-				"date_published": "2022-10-11T12:45:06+01:00",
+				"date_published": "2022-10-11T13:45:06+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/10/11/finished-reading-mysterin.html"
 			},
 			{
@@ -500,7 +516,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041714282\">SPQR </a> by Mary Beard 📚</p>\n",
 				"content_text": "Finished reading: [SPQR ](https://micro.blog/books/9789041714282) by Mary Beard 📚\n",
-				"date_published": "2022-09-11T08:32:48+01:00",
+				"date_published": "2022-09-11T09:32:48+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/09/11/finished-reading-spqr.html"
 			},
 			{
@@ -508,7 +524,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307957962\">Dictator: A novel (Ancient Rome Trilogy Book 3)</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Dictator: A novel (Ancient Rome Trilogy Book 3)](https://micro.blog/books/9780307957962) by Robert Harris 📚\n",
-				"date_published": "2022-08-13T12:44:50+01:00",
+				"date_published": "2022-08-13T13:44:50+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/08/13/finished-reading-dictator.html"
 			},
 			{
@@ -516,7 +532,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099406327\">Lustrum</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Lustrum](https://micro.blog/books/9780099406327) by Robert Harris 📚\n",
-				"date_published": "2022-07-31T14:31:30+01:00",
+				"date_published": "2022-07-31T15:31:30+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/07/31/finished-reading-lustrum.html"
 			},
 			{
@@ -524,7 +540,7 @@
 				
 				"content_html": "<p>Lost in Genoa</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Lost in Genoa\n\n<img src=\"uploads/2022/ea9d8dac4a.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-07-18T11:42:21+01:00",
+				"date_published": "2022-07-18T12:42:21+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/07/18/lost-in-genoa.html"
 			},
 			{
@@ -532,7 +548,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023443544\">Imperium</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Imperium](https://micro.blog/books/9789023443544) by Robert Harris 📚\n",
-				"date_published": "2022-07-18T11:27:24+01:00",
+				"date_published": "2022-07-18T12:27:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/07/18/finished-reading-imperium.html"
 			},
 			{
@@ -540,7 +556,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by Harlan Coben 📚, wat een, eh, slecht boek.</p>\n",
 				"content_text": "Finished reading: [Laatste Kans](https://micro.blog/books/9789022551677) by Harlan Coben 📚, wat een, eh, slecht boek.\n",
-				"date_published": "2022-06-18T15:11:20+01:00",
+				"date_published": "2022-06-18T16:11:20+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/06/18/finished-reading-laatste.html"
 			},
 			{
@@ -548,7 +564,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by  Harlan Coben 📚</p>\n",
 				"content_text": "Currently reading: [Laatste Kans](https://micro.blog/books/9789022551677) by  Harlan Coben 📚\n",
-				"date_published": "2022-06-12T07:04:24+01:00",
+				"date_published": "2022-06-12T08:04:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/06/12/currently-reading-laatste.html"
 			},
 			{
@@ -556,7 +572,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Finished reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
-				"date_published": "2022-06-12T07:02:55+01:00",
+				"date_published": "2022-06-12T08:02:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/06/12/finished-reading-een.html"
 			},
 			{
@@ -564,7 +580,7 @@
 				
 				"content_html": "<p>On my walk yesterday, I found a little elf house&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "On my walk yesterday, I found a little elf house...\n\n<img src=\"uploads/2022/64b6b8f0f6.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-06-05T17:36:42+01:00",
+				"date_published": "2022-06-05T18:36:42+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/06/05/on-my-walk.html"
 			},
 			{
@@ -572,7 +588,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Currently reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
-				"date_published": "2022-05-28T18:32:13+01:00",
+				"date_published": "2022-05-28T19:32:13+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/28/currently-reading-een.html"
 			},
 			{
@@ -580,7 +596,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.\n",
-				"date_published": "2022-05-27T14:25:35+01:00",
+				"date_published": "2022-05-27T15:25:35+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/27/finished-reading-land.html"
 			},
 			{
@@ -588,7 +604,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.</p>\n",
 				"content_text": "Finished reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.\n",
-				"date_published": "2022-05-22T17:54:28+01:00",
+				"date_published": "2022-05-22T18:54:28+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/22/finished-reading-de.html"
 			},
 			{
@@ -596,7 +612,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar Sundstøl 📚\n",
-				"date_published": "2022-05-16T21:00:37+01:00",
+				"date_published": "2022-05-16T22:00:37+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/16/currently-reading-de.html"
 			},
 			{
@@ -604,7 +620,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl  📚.<br>\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl  📚.  \r\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.\n",
-				"date_published": "2022-05-16T20:59:16+01:00",
+				"date_published": "2022-05-16T21:59:16+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/16/finished-reading-land.html"
 			},
 			{
@@ -612,7 +628,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl 📚\n",
-				"date_published": "2022-05-11T18:19:46+01:00",
+				"date_published": "2022-05-11T19:19:46+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/05/11/currently-reading-land.html"
 			},
 			{
@@ -620,7 +636,7 @@
 				
 				"content_html": "<p>Last night of quarantine, last night to binge watch Voyager 🖖</p>\n",
 				"content_text": "Last night of quarantine, last night to binge watch Voyager 🖖\n",
-				"date_published": "2022-04-30T20:09:02+01:00",
+				"date_published": "2022-04-30T21:09:02+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/30/last-night-of.html"
 			},
 			{
@@ -628,7 +644,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper een vertelling</a> by  Kader Abdolah 📚</p>\n",
 				"content_text": "Finished reading: [De boodschapper een vertelling](https://micro.blog/books/9789044509137) by  Kader Abdolah 📚\n",
-				"date_published": "2022-04-30T19:37:23+01:00",
+				"date_published": "2022-04-30T20:37:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/30/finished-reading-de.html"
 			},
 			{
@@ -636,7 +652,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches Van De Vlaamse Elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n<p>In heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\nEen must-read voor iedereen.</p>\n",
 				"content_text": "Finished reading: [Debatfiches Van De Vlaamse Elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\r\n\r\nIn heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\r\nEen must-read voor iedereen.\n",
-				"date_published": "2022-04-17T08:54:52+01:00",
+				"date_published": "2022-04-17T09:54:52+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/17/finished-reading-debatfiches.html"
 			},
 			{
@@ -644,7 +660,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches van de Vlaamse elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n",
 				"content_text": "Currently reading: [Debatfiches van de Vlaamse elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\n",
-				"date_published": "2022-04-12T05:46:52+01:00",
+				"date_published": "2022-04-12T06:46:52+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/12/currently-reading-debatfiches.html"
 			},
 			{
@@ -652,7 +668,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper: een vertelling</a> by Kader Abdolah 📚</p>\n",
 				"content_text": "Currently reading: [De boodschapper: een vertelling](https://micro.blog/books/9789044509137) by Kader Abdolah 📚\n",
-				"date_published": "2022-04-10T08:46:19+01:00",
+				"date_published": "2022-04-10T09:46:19+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/10/currently-reading-de.html"
 			},
 			{
@@ -660,7 +676,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.</p>\n",
 				"content_text": "Finished reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.\n",
-				"date_published": "2022-04-09T20:13:00+01:00",
+				"date_published": "2022-04-09T21:13:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/09/211300.html"
 			},
 			{
@@ -668,7 +684,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚</p>\n",
 				"content_text": "Currently reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚\n",
-				"date_published": "2022-04-03T07:48:07+01:00",
+				"date_published": "2022-04-03T08:48:07+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/03/currently-reading-cromagnon.html"
 			},
 			{
@@ -676,7 +692,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖\nIt could have been a fun but silly episode of early TNG.</p>\n",
 				"content_text": "Finished reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖 \nIt could have been a fun but silly episode of early TNG.\n",
-				"date_published": "2022-04-03T07:38:00+01:00",
+				"date_published": "2022-04-03T08:38:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/04/03/finished-reading-i.html"
 			},
 			{
@@ -684,7 +700,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖</p>\n",
 				"content_text": "Currently reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖\n",
-				"date_published": "2022-03-26T07:48:14+01:00",
+				"date_published": "2022-03-26T08:48:14+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/26/currently-reading-i.html"
 			},
 			{
@@ -692,7 +708,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789492478917\">Zelfverwoestingsboek</a> by Marian Donner 📚</p>\n",
 				"content_text": "Finished reading: [Zelfverwoestingsboek](https://micro.blog/books/9789492478917) by Marian Donner 📚\n",
-				"date_published": "2022-03-19T08:30:34+01:00",
+				"date_published": "2022-03-19T09:30:34+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/19/finished-reading-zelfverwoestingsboek.html"
 			},
 			{
@@ -700,7 +716,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben / Druk 19</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Finished reading: [Liefhebben / Druk 19](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
-				"date_published": "2022-03-18T20:43:43+01:00",
+				"date_published": "2022-03-18T21:43:43+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/18/finished-reading-liefhebben.html"
 			},
 			{
@@ -708,7 +724,7 @@
 				
 				"content_html": "<p>He looks so sad&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "He looks so sad...\n\n<img src=\"uploads/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-03-13T22:16:55+01:00",
+				"date_published": "2022-03-13T23:16:55+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/13/he-looks-so.html"
 			},
 			{
@@ -716,7 +732,7 @@
 				
 				"content_html": "<p>We had some visitors today 🐈</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "We had some visitors today 🐈\n\n<img src=\"uploads/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-03-10T20:51:10+01:00",
+				"date_published": "2022-03-10T21:51:10+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/10/we-had-some.html"
 			},
 			{
@@ -724,7 +740,7 @@
 				
 				"content_html": "<p>Spring is near</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spring is near\n\n<img src=\"uploads/2022/a0f071d77a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2022-03-08T21:32:01+01:00",
+				"date_published": "2022-03-08T22:32:01+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/08/spring-is-near.html"
 			},
 			{
@@ -732,7 +748,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben een kunst, een kunde</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Currently reading: [Liefhebben een kunst, een kunde](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
-				"date_published": "2022-03-04T12:39:18+01:00",
+				"date_published": "2022-03-04T13:39:18+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/03/04/currently-reading-liefhebben.html"
 			},
 			{
@@ -740,7 +756,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789002145124\">De zeer schone uren van Juffrouw Symforosa, begijntjen</a> by Felix Timmermans 📚</p>\n",
 				"content_text": "Finished reading: [De zeer schone uren van Juffrouw Symforosa, begijntjen](https://micro.blog/books/9789002145124) by Felix Timmermans 📚\n",
-				"date_published": "2022-02-28T10:00:17+01:00",
+				"date_published": "2022-02-28T11:00:17+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/28/finished-reading-de.html"
 			},
 			{
@@ -748,7 +764,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Finished reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
-				"date_published": "2022-02-27T18:40:33+01:00",
+				"date_published": "2022-02-27T19:40:33+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/27/finished-reading-anomalie.html"
 			},
 			{
@@ -756,7 +772,7 @@
 				
 				"content_html": "<p>Piran by Day</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Piran by Day\n\n<img src=\"uploads/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
-				"date_published": "2022-02-24T14:39:20+01:00",
+				"date_published": "2022-02-24T15:39:20+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/24/piran-by-day.html"
 			},
 			{
@@ -764,7 +780,7 @@
 				
 				"content_html": "<p>Brussels by Night</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Brussels by Night\n\n<img src=\"uploads/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" />\n",
-				"date_published": "2022-02-24T14:08:36+01:00",
+				"date_published": "2022-02-24T15:08:36+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/24/brussels-by-night.html"
 			},
 			{
@@ -772,7 +788,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Currently reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
-				"date_published": "2022-02-21T08:07:04+01:00",
+				"date_published": "2022-02-21T09:07:04+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/21/currently-reading-anomalie.html"
 			},
 			{
@@ -780,7 +796,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by  📚</p>\n",
 				"content_text": "Finished reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by  📚\n",
-				"date_published": "2022-02-14T12:46:09+01:00",
+				"date_published": "2022-02-14T13:46:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/14/finished-reading-een.html"
 			},
 			{
@@ -788,7 +804,7 @@
 				
 				"content_html": "<p>Two pigeons, with their own preferences for a resting place</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"uploads/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-02-09T15:31:15+01:00",
+				"date_published": "2022-02-09T16:31:15+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/02/09/two-pigeons-with.html"
 			},
 			{
@@ -796,7 +812,7 @@
 				
 				"content_html": "<p>🐏🐑</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🐏🐑\n\n<img src=\"uploads/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
-				"date_published": "2022-01-31T22:03:46+01:00",
+				"date_published": "2022-01-31T23:03:46+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/220346.html"
 			},
 			{
@@ -804,7 +820,7 @@
 				
 				"content_html": "<p>A, I think, sad donkey</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A, I think, sad donkey\n\n<img src=\"uploads/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-01-31T22:03:16+01:00",
+				"date_published": "2022-01-31T23:03:16+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/31/a-i-think.html"
 			},
 			{
@@ -812,7 +828,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by John le Carré 📚</p>\n",
 				"content_text": "Currently reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by John le Carré 📚\n",
-				"date_published": "2022-01-25T15:00:13+01:00",
+				"date_published": "2022-01-25T16:00:13+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/25/currently-reading-een.html"
 			},
 			{
@@ -820,7 +836,7 @@
 				
 				"content_html": "<p>Bird in a tree</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Bird in a tree\n\n<img src=\"uploads/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-01-20T21:31:23+01:00",
+				"date_published": "2022-01-20T22:31:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/20/bird-in-a.html"
 			},
 			{
@@ -828,7 +844,7 @@
 				
 				"content_html": "<p>Seagulls having a conversation 🐤</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"uploads/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
-				"date_published": "2022-01-14T12:50:45+01:00",
+				"date_published": "2022-01-14T13:50:45+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/14/seagulls-having-a.html"
 			},
 			{
@@ -836,7 +852,7 @@
 				
 				"content_html": "<p>The neighbor&rsquo;s cat in front of our window🐱</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"uploads/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-11T21:19:09+01:00",
+				"date_published": "2022-01-11T22:19:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/11/the-neighbors-cat.html"
 			},
 			{
@@ -844,7 +860,7 @@
 				
 				"content_html": "<p>Meerhout</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Meerhout\n\n<img src=\"uploads/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-01-09T19:30:11+01:00",
+				"date_published": "2022-01-09T20:30:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/09/meerhout.html"
 			},
 			{
@@ -852,7 +868,7 @@
 				
 				"content_html": "<p>Echternach, 2019</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Echternach, 2019\n\n<img src=\"uploads/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
-				"date_published": "2022-01-08T19:19:11+01:00",
+				"date_published": "2022-01-08T20:19:11+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/08/echternach.html"
 			},
 			{
@@ -860,7 +876,7 @@
 				
 				"content_html": "<p>Nice day for a walk 🚶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nice day for a walk 🚶\n\n<img src=\"uploads/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-01-03T20:11:24+01:00",
+				"date_published": "2022-01-03T21:11:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/03/nice-day-for.html"
 			},
 			{
@@ -868,7 +884,7 @@
 				
 				"content_html": "<p>De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"uploads/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
-				"date_published": "2022-01-02T09:52:19+01:00",
+				"date_published": "2022-01-02T10:52:19+02:00",
 				"url": "https://microblog.dehaeck.eu/2022/01/02/de-kat-van.html"
 			},
 			{
@@ -876,7 +892,7 @@
 				
 				"content_html": "<p>Maar heel de campagne was zo mogelijk nog beter georganiseerd dan deze zomer. Voor je het wist stond je weer buiten.\nDikke merci aan de vrijwilligers in Antwerpen Expo vandaag.💉💉💉</p>\n",
 				"content_text": "Maar heel de campagne was zo mogelijk nog beter georganiseerd dan deze zomer. Voor je het wist stond je weer buiten. \nDikke merci aan de vrijwilligers in Antwerpen Expo vandaag.💉💉💉\n",
-				"date_published": "2021-12-20T20:42:23+01:00",
+				"date_published": "2021-12-20T21:42:23+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/20/maar-heel-de.html"
 			},
 			{
@@ -884,7 +900,7 @@
 				
 				"content_html": "<p>Vandaag mijn boosterprik gekregen, beetje teleurgesteld dat ik niet ineens een afspraak kon maken voor booster 2. 💉💉</p>\n",
 				"content_text": "Vandaag mijn boosterprik gekregen, beetje teleurgesteld dat ik niet ineens een afspraak kon maken voor booster 2. 💉💉\n",
-				"date_published": "2021-12-20T20:35:52+01:00",
+				"date_published": "2021-12-20T21:35:52+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/20/vandaag-mijn-boosterprik.html"
 			},
 			{
@@ -892,7 +908,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"uploads/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
-				"date_published": "2021-12-19T14:21:12+01:00",
+				"date_published": "2021-12-19T15:21:12+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/142112.html"
 			},
 			{
@@ -900,7 +916,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"uploads/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
-				"date_published": "2021-12-19T13:58:24+01:00",
+				"date_published": "2021-12-19T14:58:24+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/19/135824.html"
 			},
 			{
@@ -908,7 +924,7 @@
 				
 				"content_html": "<p>Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱</p>\n",
 				"content_text": "Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱\n",
-				"date_published": "2021-12-15T20:25:09+01:00",
+				"date_published": "2021-12-15T21:25:09+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/15/soms-voel-je.html",
 				"tags": ["dagelijks"]
 			},
@@ -917,7 +933,7 @@
 				"title": "Suske en Wiske, chronlogisch",
 				"content_html": "<p>Na het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.</p>\n<p>Van Riki tot waar ze vorig jaar ook geraakt zouden zijn.</p>\n<p>Van elk album zal ik hier kort - zeer kort noteren wat ik er van vond op <a href=\"https://blog.simon.dehaeck.eu\">blog.simon.dehaeck.eu</a></p>\n",
 				"content_text": "Na het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.\n\nVan Riki tot waar ze vorig jaar ook geraakt zouden zijn.\n\nVan elk album zal ik hier kort - zeer kort noteren wat ik er van vond op [blog.simon.dehaeck.eu](https://blog.simon.dehaeck.eu)\n",
-				"date_published": "2021-12-11T15:52:00+01:00",
+				"date_published": "2021-12-11T16:52:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/05/suske-en-wiske.html",
 				"tags": ["Suske en Wiske"]
 			},
@@ -926,7 +942,7 @@
 				"title": "De complete collectie is eindelijk aangekomen",
 				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"uploads/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"uploads/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
-				"date_published": "2021-12-03T12:41:00+01:00",
+				"date_published": "2021-12-03T13:41:00+02:00",
 				"url": "https://microblog.dehaeck.eu/2021/12/03/als-we-straks.html",
 				"tags": ["Suske en Wiske"]
 			}
