@@ -2,17 +2,25 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Simon DH",
 	"icon": "https://micro.blog/SimonDH/avatar.jpg",
-	"home_page_url": "https://microblog.dehaeck.eu/",
-	"feed_url": "https://microblog.dehaeck.eu/feed.json",
+	"home_page_url": "https://microblog.prutser.lol/",
+	"feed_url": "https://microblog.prutser.lol/feed.json",
 	"items": [
 		
+			{
+				"id": "http://simondh.micro.blog/2023/06/02/vandaag-vogelepik-gedaan.html",
+				
+				"content_html": "<p>Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.<br>\nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.<br>\nDe tentoonstelling met de collectie van Neirynck was ook de moeite.<br>\nHerl het museum is een aanrader.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.  \r\nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.   \r\nDe tentoonstelling met de collectie van Neirynck was ook de moeite.  \r\nHerl het museum is een aanrader. \r\n\n\n<img src=\"uploads/2023/c8301c3b66.jpg\" width=\"600\" height=\"400\" alt=\"Schilderij Daglichten: De Avond\"><img src=\"uploads/2023/f0373c15df.jpg\" width=\"400\" height=\"600\" alt=\"kleinere werken van De Boeck\"><img src=\"uploads/2023/75baadf52e.jpg\" width=\"400\" height=\"600\" alt=\"Atelier van Felix De Boeck\"><img src=\"uploads/2023/dacf8de4e2.jpg\" width=\"600\" height=\"400\" alt=\"Koe in de boomgaard van Felix De Boeck\">\n",
+				"date_published": "2023-06-02T21:31:21+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/02/vandaag-vogelepik-gedaan.html"
+			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/27/finished-reading-de.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023499626\">De bekeerlinge</a> by Stefan Hertmans 📚</p>\n<p>Prachtig boek, zeker een aanrader om te lezen.</p>\n",
 				"content_text": "Finished reading: [De bekeerlinge](https://micro.blog/books/9789023499626) by Stefan Hertmans 📚\r\n\r\nPrachtig boek, zeker een aanrader om te lezen.\n",
 				"date_published": "2023-05-27T18:27:53+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/27/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/05/27/finished-reading-de.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/18/whos-looking-at.html",
@@ -20,7 +28,7 @@
 				"content_html": "<p>Who&rsquo;s looking at whom?</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Who's looking at whom?\n\n<img src=\"uploads/2023/d6627cea93.jpg\" width=\"600\" height=\"600\" alt=\"A family of wild deer looking at the camera\">\n",
 				"date_published": "2023-05-18T15:13:02+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/18/whos-looking-at.html"
+				"url": "https://microblog.prutser.lol/2023/05/18/whos-looking-at.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/18/meerhout.html",
@@ -28,7 +36,7 @@
 				"content_html": "<p>Meerhout&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Meerhout...\n\n<img src=\"uploads/2023/f08f033bc8.jpg\" width=\"600\" height=\"450\" alt=\"Bomen, een beek en een landweggetje\">\n",
 				"date_published": "2023-05-18T13:38:51+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/18/meerhout.html"
+				"url": "https://microblog.prutser.lol/2023/05/18/meerhout.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/16/evening-walk.html",
@@ -36,23 +44,23 @@
 				"content_html": "<p>Evening walk</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Evening walk\n\n<img src=\"uploads/2023/45502e8886.jpg\" width=\"600\" height=\"450\" alt=\"water surrounded by very green trees\">\n",
 				"date_published": "2023-05-16T19:17:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/16/evening-walk.html"
+				"url": "https://microblog.prutser.lol/2023/05/16/evening-walk.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/13/our-neighbours-cat.html",
 				
 				"content_html": "<p>Our neighbours cat was apparently having a good time&hellip;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our neighbours cat was apparently having a good time....\n\n<img src=\"uploads/2023/b8e3503457.jpg\" width=\"399\" height=\"600\" alt=\"Cat on a chair with a kicked down garden parasol\">\n",
+				"content_text": "Our neighbours cat was apparently having a good time....\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/b8e3503457.jpg\" width=\"399\" height=\"600\" alt=\"Cat on a chair with a kicked down garden parasol\">\n",
 				"date_published": "2023-05-13T17:46:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/13/our-neighbours-cat.html"
+				"url": "https://microblog.prutser.lol/2023/05/13/our-neighbours-cat.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/13/just-bought-it.html",
 				
 				"content_html": "<p>Just bought it at the used bookstore.\nSurely this cannot be anything but a literary masterpiece&hellip;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just bought it at the used bookstore.\r\nSurely this cannot be anything but a literary masterpiece....\n\n<img src=\"uploads/2023/7ff8d83a86.jpg\" width=\"450\" height=\"600\" alt=\"Book cover from an the a team pocket book with ba baracus on it\">\n",
+				"content_text": "Just bought it at the used bookstore.\r\nSurely this cannot be anything but a literary masterpiece....\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/7ff8d83a86.jpg\" width=\"450\" height=\"600\" alt=\"Book cover from an the a team pocket book with ba baracus on it\">\n",
 				"date_published": "2023-05-13T17:00:51+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/13/just-bought-it.html"
+				"url": "https://microblog.prutser.lol/2023/05/13/just-bought-it.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/07/finished-reading-whirlwind.html",
@@ -60,7 +68,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780006482055\">Whirlwind</a> by Charles Grant 📚</p>\n<p>Not as good as Goblins, but entertaining enough.</p>\n",
 				"content_text": "Finished reading: [Whirlwind](https://micro.blog/books/9780006482055) by Charles Grant 📚\r\n\r\nNot as good as Goblins, but entertaining enough.\n",
 				"date_published": "2023-05-07T11:54:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/07/finished-reading-whirlwind.html"
+				"url": "https://microblog.prutser.lol/2023/05/07/finished-reading-whirlwind.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/05/plantin-moretus-van.html",
@@ -68,7 +76,7 @@
 				"content_html": "<p>De afgelopen twee weken heb ik drie zeer verschillende musea bezocht:</p>\n<ul>\n<li><strong><a href=\"https://nl.wikipedia.org/wiki/Museum_Plantin-Moretus\">Plantin en Moretusmuseum</a></strong> in Antwerpen.<!-- raw HTML omitted -->Het museum geeft een inkijk in een van de eerst groot opgezette drukkerijen in de wereld. Ik had niet veel tijd en ben er doorgevlogen zonder de gids echt raad te plegen. En dat was waarschijnlijk niet zo&rsquo;n goed idee, want uit een vorig bezoek kan ik me herinneren dat ik het een mooi en interessant museum vond.</li>\n<li><strong><a href=\"https://nl.wikipedia.org/wiki/Van_Buuren\">Van Buuren Museum</a></strong> in Ukkel.<!-- raw HTML omitted -->Zeer mooie villa in art-deco stijl met de authentieke meubels er nog in. In het huis bevindt zich een waardevolle en mooie kunstcollectie. Ook de tuinen zijn een bezoek meer dan waard. Jammer genoeg kreeg je maar een beperkt aantal kamers te zien, we hadden gehoopt om heel het huis te kunnen bezichtigen. ALs je in de buurt bent is het zeker een aanrader om even binnen te springen.</li>\n<li><strong><a href=\"https://nl.wikipedia.org/wiki/Fort_van_Liezele\">Museum Fort van Liezele</a></strong> in Liezele.<!-- raw HTML omitted -->\nNieuw geopend museum dat over de geschiedenis van het fort en bij uitbreiding alle forten en WO1 gaat. Ze hebben moeite gedaan om er iets van proberen te maken en de opstelling van de eerste paar zalen was goed. Maar om eerlijk te zijn mis je niets als je het niet bezoekt. Als je een wandeling in de buurt zou doen kun je eventueel even binnenspringen - maar het is niet de moeite om er speciaal naartoe te gaan.</li>\n</ul>\n<p>Alle drie de musea kun je bezoeken met een museumkaart.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "De afgelopen twee weken heb ik drie zeer verschillende musea bezocht:\n\n* **[Plantin en Moretusmuseum](https://nl.wikipedia.org/wiki/Museum_Plantin-Moretus)** in Antwerpen.<br>Het museum geeft een inkijk in een van de eerst groot opgezette drukkerijen in de wereld. Ik had niet veel tijd en ben er doorgevlogen zonder de gids echt raad te plegen. En dat was waarschijnlijk niet zo'n goed idee, want uit een vorig bezoek kan ik me herinneren dat ik het een mooi en interessant museum vond.\n* **[Van Buuren Museum](https://nl.wikipedia.org/wiki/Van_Buuren)** in Ukkel.<br>Zeer mooie villa in art-deco stijl met de authentieke meubels er nog in. In het huis bevindt zich een waardevolle en mooie kunstcollectie. Ook de tuinen zijn een bezoek meer dan waard. Jammer genoeg kreeg je maar een beperkt aantal kamers te zien, we hadden gehoopt om heel het huis te kunnen bezichtigen. ALs je in de buurt bent is het zeker een aanrader om even binnen te springen.\n* **[Museum Fort van Liezele](https://nl.wikipedia.org/wiki/Fort_van_Liezele)** in Liezele.<br>\nNieuw geopend museum dat over de geschiedenis van het fort en bij uitbreiding alle forten en WO1 gaat. Ze hebben moeite gedaan om er iets van proberen te maken en de opstelling van de eerste paar zalen was goed. Maar om eerlijk te zijn mis je niets als je het niet bezoekt. Als je een wandeling in de buurt zou doen kun je eventueel even binnenspringen - maar het is niet de moeite om er speciaal naartoe te gaan.\n\nAlle drie de musea kun je bezoeken met een museumkaart.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/e075d57fe6.jpg\" width=\"600\" height=\"450\" alt=\"Bibliotheek in Palntin Moretus museum\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/7196c362c0.jpg\" width=\"600\" height=\"450\" alt=\"Oude drukpersen in het Plantin Moretus museum\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/f6f28ce41e.jpg\" width=\"600\" height=\"400\" alt=\"Salon in het Museum van Buuren\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/432e54bb53.jpg\" width=\"400\" height=\"600\" alt=\"Beeld van George Minne in de trappenhal van het Museum Van Buuren\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/233cb22d85.jpg\" width=\"400\" height=\"600\" alt=\"Art deco luchter in het museum Van buuren\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/8b1c4b235f.jpg\" width=\"600\" height=\"450\" alt=\"Minerva mitraileurwagen in het fort van Liezele\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/0bc0568346.jpg\" width=\"600\" height=\"450\" alt=\"Oude kranten\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/6fa0b65cb4.jpg\" width=\"353\" height=\"600\" alt=\"Bluspoeder (?) in het fort van Liezele\">\n",
 				"date_published": "2023-05-05T20:22:04+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/05/plantin-moretus-van.html",
+				"url": "https://microblog.prutser.lol/2023/05/05/plantin-moretus-van.html",
 				"tags": ["museum"]
 			},
 			{
@@ -77,7 +85,7 @@
 				"content_html": "<p>Even working becomes more pleasant with this weather.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Even working becomes more pleasant with this weather.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/cd92a86d91.jpg\" width=\"600\" height=\"400\" alt=\"laptop on a sunny terrace in the green\">\n",
 				"date_published": "2023-05-04T14:23:45+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/05/04/even-working-becomes.html"
+				"url": "https://microblog.prutser.lol/2023/05/04/even-working-becomes.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/30/welke-sadist-heeft.html",
@@ -85,7 +93,7 @@
 				"content_html": "<p>Welke sadist heeft ooit bedacht dat een rommelmarkt midden in de nacht moet beginnen?</p>\n",
 				"content_text": "Welke sadist heeft ooit bedacht dat een rommelmarkt midden in de nacht moet beginnen?\n",
 				"date_published": "2023-04-30T05:51:22+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/30/welke-sadist-heeft.html"
+				"url": "https://microblog.prutser.lol/2023/04/30/welke-sadist-heeft.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/22/finished-reading-goblins.html",
@@ -93,7 +101,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780006482048\">Goblins</a> by Charles Grant 📚</p>\n<p>Always had a soft spot for the X-files.\nMaybe not very highbrow, but it was a fun read</p>\n",
 				"content_text": "Finished reading: [Goblins](https://micro.blog/books/9780006482048) by Charles Grant 📚\r\n\r\nAlways had a soft spot for the X-files.\r\nMaybe not very highbrow, but it was a fun read\n",
 				"date_published": "2023-04-22T11:52:34+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/22/finished-reading-goblins.html"
+				"url": "https://microblog.prutser.lol/2023/04/22/finished-reading-goblins.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/21/just-watched-the.html",
@@ -101,7 +109,7 @@
 				"content_html": "<p>🖖 Just watched the last episode of Picard.<br>\nAnd although this season had problems, I still enjoyed it immensely.<br>\nToo bad we first had to endure two bad seasons&hellip;</p>\n",
 				"content_text": "🖖 Just watched the last episode of Picard.  \nAnd although this season had problems, I still enjoyed it immensely.  \nToo bad we first had to endure two bad seasons...\n",
 				"date_published": "2023-04-21T21:59:27+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/21/just-watched-the.html"
+				"url": "https://microblog.prutser.lol/2023/04/21/just-watched-the.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/21/feels-like-vacation.html",
@@ -109,7 +117,7 @@
 				"content_html": "<p>😎 Feels like vacation&hellip;.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "😎 Feels like vacation....\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/b068af5d21.jpg\" width=\"450\" height=\"600\" alt=\"Enjoying a beer in the sun in my hometown of Antwerp\">\n",
 				"date_published": "2023-04-21T12:19:58+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/21/feels-like-vacation.html"
+				"url": "https://microblog.prutser.lol/2023/04/21/feels-like-vacation.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/17/ziekenhuiskamer-zijn-niet.html",
@@ -117,7 +125,7 @@
 				"content_html": "<p>Ziekenhuiskamer zijn niet meer wat ze geweest zijn.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ziekenhuiskamer zijn niet meer wat ze geweest zijn.  \n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/32bcb81a56.jpg\" width=\"600\" height=\"450\" alt=\"Een ziekenhuiskamer dat eerder op een hotelkamer lijkt\">\n",
 				"date_published": "2023-04-17T14:36:32+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/17/ziekenhuiskamer-zijn-niet.html"
+				"url": "https://microblog.prutser.lol/2023/04/17/ziekenhuiskamer-zijn-niet.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/15/finished-reading-waterschapsheuvel.html",
@@ -125,7 +133,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781439176122\">Waterschapsheuvel</a> by Richard Adams 📚</p>\n<p>Ooit als kind gelezen,  en het was me altijd bijgebleven als een bijzondere leeservaring.<br>\nHet boek blijkt ook voor volwassenen te werken.  Ik zal de avonturen van Hazelaar en de zijnen missen.</p>\n",
 				"content_text": "Finished reading: [Waterschapsheuvel](https://micro.blog/books/9781439176122) by Richard Adams 📚\r\n\r\nOoit als kind gelezen,  en het was me altijd bijgebleven als een bijzondere leeservaring.   \r\nHet boek blijkt ook voor volwassenen te werken.  Ik zal de avonturen van Hazelaar en de zijnen missen.\r\n",
 				"date_published": "2023-04-15T09:13:32+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/15/finished-reading-waterschapsheuvel.html"
+				"url": "https://microblog.prutser.lol/2023/04/15/finished-reading-waterschapsheuvel.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/14/star-trek-picard.html",
@@ -133,7 +141,7 @@
 				"content_html": "<p>Star Trek Picard 🖖old and analogue 🤩</p>\n",
 				"content_text": "Star Trek Picard 🖖old and analogue 🤩  \r\n",
 				"date_published": "2023-04-14T21:37:17+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/14/star-trek-picard.html"
+				"url": "https://microblog.prutser.lol/2023/04/14/star-trek-picard.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/12/gisteren-een-mooie.html",
@@ -141,7 +149,7 @@
 				"content_html": "<p>Gisteren,  een mooie dag in onze vakantie.<br>\nWe gingen naar het karrenmuseum in Essen. Veel oude karren, je kon er ook oude volksspelen spelen en zelf je, gratis,  koffie malen. Leuk als je in de buurt bent.<br>\nEn we hebben ook een tussenstop gemaakt in het Arboretum van Kalmthout. Een mooi park, maar als je de volle pot zou moeten betalen wel duur.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Gisteren,  een mooie dag in onze vakantie.   \nWe gingen naar het karrenmuseum in Essen. Veel oude karren, je kon er ook oude volksspelen spelen en zelf je, gratis,  koffie malen. Leuk als je in de buurt bent.   \nEn we hebben ook een tussenstop gemaakt in het Arboretum van Kalmthout. Een mooi park, maar als je de volle pot zou moeten betalen wel duur.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/9c07fb0f0a.jpg\" width=\"600\" height=\"400\" alt=\"De binnenkant van een pipowagen\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/17e4006ddc.jpg\" width=\"400\" height=\"600\" alt=\"Koffiebonen, een koffiemolen en een kop verse koffie \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/f0ad3098c1.jpg\" width=\"600\" height=\"400\" alt=\"Een locomobiel\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/8372d2d994.jpg\" width=\"400\" height=\"600\" alt=\"Een bloeiende kerselaar in het arboretum\">\n",
 				"date_published": "2023-04-12T22:23:20+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/12/gisteren-een-mooie.html",
+				"url": "https://microblog.prutser.lol/2023/04/12/gisteren-een-mooie.html",
 				"tags": ["museum"]
 			},
 			{
@@ -150,7 +158,7 @@
 				"content_html": "<p>I just received my Evercade EXP - unfortunately, I still have to work until 5pm.</p>\n",
 				"content_text": "I just received my Evercade EXP - unfortunately, I still have to work until 5pm.\n",
 				"date_published": "2023-04-05T11:12:54+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/05/i-just-received.html"
+				"url": "https://microblog.prutser.lol/2023/04/05/i-just-received.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/05/rotterdam.html",
@@ -158,7 +166,7 @@
 				"content_html": "<p>Wij zijn anderhalve week geleden twee nachten naar Rotterdam geweest , maar ik merk nu op dat ik er nog niets over geschreven heb.\nEnkele korte bemerkingen en impressies over Rotterdam:</p>\n<p>We hebben voornamelijk heel veel rondgewandeld (56 km op die drie dagen) en ons laten overweldigen door de stad, die een totaal andere sfeer en uitzicht had dan de meeste steden in de Benelux. We vonden het een mooie stad waar het goed toeven was. Zeer leuk was ook dat de haven voelbaar was tot in het centrum , helemaal anders dan Antwerpen waar de haven eerder een grens van de stad is.</p>\n<p>Ik ben een fan van Rotterdam en wil zeker nog een keer teruggaan.</p>\n<p>Hotel: <a href=\"https://nl.wikipedia.org/wiki/Hotel_Atlanta\">NH Atlanta Rotterdam</a>. Dit was blijkbaar een gebouw dat na het bombardement op Rotterdam recht was blijven staan. Heel het hotel ademde vergane glorie uit. Veel viel niet op het hotel aan te merken, alleen was de matras steenhard waardoor we slecht geslapen hebben.</p>\n<p>Enkele hoogtepunten:</p>\n<ul>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Huis_Sonneveld\">Huis Sonneveld</a>: Functionalistische villa met (min of meer) de oorspronkelijke meubels nog. Zeer mooi en interessant, een aanrader.</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Depot_Boijmans_Van_Beuningen\">Depot Boijmans Van Beuningen</a>: Heel mooi gebouw, knap gedaan en interessant. Jammer dat het museum zelf dicht was, want een echte vervanging was dit toch niet. Misschien ook wat prijzig voor wat je effectief binnen te zien krijgt.</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Euromast\">Euromast</a>: Prachtig uitzicht. Het was wel duur om naar boven te gaan . Er stond ook zoveel wind dat ik schrik had om weg te waaien.</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Spido\">Spido</a>: Het uitzicht als je de stad opnieuw binnen voer was adembenemend</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Kubuswoningen_(Rotterdam)\">Kubuswoningen</a>: Claustrofobisch en klein. Ik snap niet dat mensen daar in willen wonen. Maar het was zeker de moeite om even binnen te gaan.</p>\n</li>\n<li>\n<p><a href=\"https://duckduckgo.com/?q=architectuur+Rotterdam&amp;iax=images&amp;ia=images\">De architectuur</a>: Die is in Rotterdam spectaculair, compleet anders dan wat we hier in België gewoon zijn.</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Delfshaven_(stadsdeel)\">Delfshaven</a>: Totaal anders dan de rest van Rotterdam dat we gezien hebben, maar wel mooi. Jammer dat het toen zo hard aan het regenen waren dat we daardoor de omliggende buurten niet wat beter hebben kunnen bekijken.</p>\n</li>\n</ul>\n<p>Eten en drinken:</p>\n<ul>\n<li>\n<p><a href=\"https://www.hotelbazar.nl/nl/restaurant/\">Bazar</a>: Een Gh’ti Koekoe gegeten (nog altijd niet echt een idee wat het is), maar lekker was het zeker. Het was er wel heel druk, gelukkig hadden we gereserveerd.</p>\n</li>\n<li>\n<p><a href=\"https://www.kaapsebrouwers.nl/en/venues/#KaapseMaria\">Kaapse Maria</a>: Alleen iets gaan drinken. Het was er gezellig en het bier was heel goed.</p>\n</li>\n<li>\n<p><a href=\"https://nl.wikipedia.org/wiki/Markthal_(Rotterdam)\">De Markthal</a>: Druk en niet alles was even interessant. We hebben er wel een lekkere Turkse pizza gegeten. Het ijs van het Ijssalon was ook ok heb ik me laten vertellen.</p>\n</li>\n<li>\n<p><a href=\"https://rotterdam.info/locaties/foodhallen/\">Foodhallen</a>: Eigenlijk alleen iets gedronken en wat nacho&rsquo;s gegeten, we hadden ons namelijk overeten bij het ontbijt. De setting was wel leuk.</p>\n</li>\n</ul>\n<p>Op de terugweg zijn we nog even in <a href=\"https://nl.wikipedia.org/wiki/Dordrecht\">Dordrecht</a> gestopt waar we het <a href=\"https://nl.wikipedia.org/wiki/Huis_Van_Gijn\">Huis Van Gijn</a> hebben bezocht. Het oude gedeelte was een mooi stadje. Maar je was er wel snel doorheen.</p>\n",
 				"content_text": "Wij zijn anderhalve week geleden twee nachten naar Rotterdam geweest , maar ik merk nu op dat ik er nog niets over geschreven heb.\r\nEnkele korte bemerkingen en impressies over Rotterdam:\r\n\r\nWe hebben voornamelijk heel veel rondgewandeld (56 km op die drie dagen) en ons laten overweldigen door de stad, die een totaal andere sfeer en uitzicht had dan de meeste steden in de Benelux. We vonden het een mooie stad waar het goed toeven was. Zeer leuk was ook dat de haven voelbaar was tot in het centrum , helemaal anders dan Antwerpen waar de haven eerder een grens van de stad is.\r\n\r\nIk ben een fan van Rotterdam en wil zeker nog een keer teruggaan.\r\n\r\nHotel: [NH Atlanta Rotterdam](https://nl.wikipedia.org/wiki/Hotel_Atlanta). Dit was blijkbaar een gebouw dat na het bombardement op Rotterdam recht was blijven staan. Heel het hotel ademde vergane glorie uit. Veel viel niet op het hotel aan te merken, alleen was de matras steenhard waardoor we slecht geslapen hebben.\r\n\r\nEnkele hoogtepunten:\r\n\r\n* [Huis Sonneveld](https://nl.wikipedia.org/wiki/Huis_Sonneveld): Functionalistische villa met (min of meer) de oorspronkelijke meubels nog. Zeer mooi en interessant, een aanrader.\r\n\r\n* [Depot Boijmans Van Beuningen](https://nl.wikipedia.org/wiki/Depot_Boijmans_Van_Beuningen): Heel mooi gebouw, knap gedaan en interessant. Jammer dat het museum zelf dicht was, want een echte vervanging was dit toch niet. Misschien ook wat prijzig voor wat je effectief binnen te zien krijgt.\r\n\r\n* [Euromast](https://nl.wikipedia.org/wiki/Euromast): Prachtig uitzicht. Het was wel duur om naar boven te gaan . Er stond ook zoveel wind dat ik schrik had om weg te waaien.\r\n\r\n* [Spido](https://nl.wikipedia.org/wiki/Spido): Het uitzicht als je de stad opnieuw binnen voer was adembenemend\r\n\r\n* [Kubuswoningen](https://nl.wikipedia.org/wiki/Kubuswoningen_(Rotterdam)): Claustrofobisch en klein. Ik snap niet dat mensen daar in willen wonen. Maar het was zeker de moeite om even binnen te gaan.\r\n\r\n* [De architectuur](https://duckduckgo.com/?q=architectuur+Rotterdam&iax=images&ia=images): Die is in Rotterdam spectaculair, compleet anders dan wat we hier in België gewoon zijn.\r\n\r\n* [Delfshaven](https://nl.wikipedia.org/wiki/Delfshaven_(stadsdeel)): Totaal anders dan de rest van Rotterdam dat we gezien hebben, maar wel mooi. Jammer dat het toen zo hard aan het regenen waren dat we daardoor de omliggende buurten niet wat beter hebben kunnen bekijken.\r\n\r\nEten en drinken:\r\n\r\n* [Bazar](https://www.hotelbazar.nl/nl/restaurant/): Een Gh’ti Koekoe gegeten (nog altijd niet echt een idee wat het is), maar lekker was het zeker. Het was er wel heel druk, gelukkig hadden we gereserveerd.\r\n\r\n* [Kaapse Maria](https://www.kaapsebrouwers.nl/en/venues/#KaapseMaria): Alleen iets gaan drinken. Het was er gezellig en het bier was heel goed.\r\n\r\n* [De Markthal](https://nl.wikipedia.org/wiki/Markthal_(Rotterdam)): Druk en niet alles was even interessant. We hebben er wel een lekkere Turkse pizza gegeten. Het ijs van het Ijssalon was ook ok heb ik me laten vertellen.\r\n\r\n* [Foodhallen](https://rotterdam.info/locaties/foodhallen/): Eigenlijk alleen iets gedronken en wat nacho's gegeten, we hadden ons namelijk overeten bij het ontbijt. De setting was wel leuk.\r\n\r\nOp de terugweg zijn we nog even in [Dordrecht](https://nl.wikipedia.org/wiki/Dordrecht) gestopt waar we het [Huis Van Gijn](https://nl.wikipedia.org/wiki/Huis_Van_Gijn) hebben bezocht. Het oude gedeelte was een mooi stadje. Maar je was er wel snel doorheen.\n",
 				"date_published": "2023-04-05T09:03:34+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/05/rotterdam.html"
+				"url": "https://microblog.prutser.lol/2023/04/05/rotterdam.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/03/en-deze-persoon.html",
@@ -166,7 +174,7 @@
 				"content_html": "<p>En deze persoon gaat een fietsvakantie doen tijdens de zomer?\nDat komt niet goed&hellip;🤣</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "En deze persoon gaat een fietsvakantie doen tijdens de zomer?\r\nDat komt niet goed...🤣\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/0e3789ecf4.jpg\" width=\"600\" height=\"600\" alt=\"Fitbit screenshot van iemand die 55min gefietst heeft over 11 km. De foto is van een koe die wat dwazig in de camera kijkt.\">\n",
 				"date_published": "2023-04-03T19:32:21+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/04/03/en-deze-persoon.html"
+				"url": "https://microblog.prutser.lol/2023/04/03/en-deze-persoon.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/27/after-six-episodes.html",
@@ -174,7 +182,7 @@
 				"content_html": "<p>🖖 After six episodes, I&rsquo;m still not disappointed in &lsquo;Star Trek Picard&rsquo;.</p>\n",
 				"content_text": "🖖 After six episodes, I'm still not disappointed in 'Star Trek Picard'.\n",
 				"date_published": "2023-03-27T10:45:47+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/27/after-six-episodes.html"
+				"url": "https://microblog.prutser.lol/2023/03/27/after-six-episodes.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/24/rotterdam-na-een.html",
@@ -182,7 +190,7 @@
 				"content_html": "<p>Rotterdam na een eerste vermoeiende dag: goedgekeurd 👍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Rotterdam na een eerste vermoeiende dag: goedgekeurd 👍\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/6ded2ddd99.jpg\" width=\"600\" height=\"400\" alt=\"Rotterdam Centraal Station\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/4e0e331090.jpg\" width=\"600\" height=\"400\" alt=\"Zicht op een deel van Rotterdam via de reflecterende buitenkant van Het Depot\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/46ffcdf16b.jpg\" width=\"600\" height=\"450\" alt=\"Zicht op de skyline van Rotterdam vanop de Euromast (Waar je vandaag bijna weg ging waaien)\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/5652a3d0f3.jpg\" width=\"400\" height=\"600\" alt=\"Een Kaapse Maria in een café\">\n",
 				"date_published": "2023-03-24T22:20:21+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/24/rotterdam-na-een.html"
+				"url": "https://microblog.prutser.lol/2023/03/24/rotterdam-na-een.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/19/vandaag-een-uitstap.html",
@@ -190,7 +198,7 @@
 				"content_html": "<p>Vandaag een uitstap met als hoofddoel het Museum van Kunst en Geschiedenis, een soms vreemde amalgaam van werken uit de alle periodes en alle werelddelen. Sommige ruimtes waren overduidelijk recent gemoderniseerd of goed gedaan (de Winkel van Wolfers Frères), andere delen waren dan weer oubollig. Maar in de collectie zitten zeker zaken die de moeite waard zijn.<br>\nEr was nog tijd over, dus even Autoworld binnengestapt. Het was weer eens wat anders.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Vandaag een uitstap met als hoofddoel het Museum van Kunst en Geschiedenis, een soms vreemde amalgaam van werken uit de alle periodes en alle werelddelen. Sommige ruimtes waren overduidelijk recent gemoderniseerd of goed gedaan (de Winkel van Wolfers Frères), andere delen waren dan weer oubollig. Maar in de collectie zitten zeker zaken die de moeite waard zijn.  \nEr was nog tijd over, dus even Autoworld binnengestapt. Het was weer eens wat anders.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/3e7851b944.jpg\" width=\"600\" height=\"563\" alt=\"Wandtapijt met de kruisafneming van Christus\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/6619c416bd.jpg\" width=\"342\" height=\"600\" alt=\"Ivoren beeldje waar Maria Jezus die gestorven is beweend.\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/0043c1d09e.jpg\" width=\"329\" height=\"600\" alt=\"Egyptisch standbeeld uit zeer lang vervlogen tijden die een of andere god zou uitbeelden.\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/1c6146e6a8.jpg\" width=\"600\" height=\"399\" alt=\"Een geel Volkswagenbusje waar de zijdeur van open staat in Autoworld\">\n",
 				"date_published": "2023-03-19T18:55:49+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/19/vandaag-een-uitstap.html",
+				"url": "https://microblog.prutser.lol/2023/03/19/vandaag-een-uitstap.html",
 				"tags": ["museum"]
 			},
 			{
@@ -199,7 +207,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n<p>Meestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren&hellip;</p>\n",
 				"content_text": "Finished reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\r\n\r\nMeestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren...\n",
 				"date_published": "2023-03-18T10:01:03+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/18/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/03/18/finished-reading-de.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/17/naar-een-hypermarkt.html",
@@ -207,7 +215,7 @@
 				"content_html": "<p>Naar een hypermarkt gaan heeft ook zo zijn nadelen.<br>\nDan kom je onverwacht thuis met een redelijk overbodige Zelda Game and Watch. Daar gaan mijn plannen voor dit weekend&hellip;</p>\n",
 				"content_text": "Naar een hypermarkt gaan heeft ook zo zijn nadelen.  \r\nDan kom je onverwacht thuis met een redelijk overbodige Zelda Game and Watch. Daar gaan mijn plannen voor dit weekend...\n",
 				"date_published": "2023-03-17T21:02:18+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/17/naar-een-hypermarkt.html"
+				"url": "https://microblog.prutser.lol/2023/03/17/naar-een-hypermarkt.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/11/toen-ze-me.html",
@@ -215,7 +223,7 @@
 				"content_html": "<p>Toen ze me vanmorgen vroegen wat we vandaag zouden kunnen gaan doen en ik al lachend zei dat er een carnavalsstoet in Mortsel was, was het niet mijn bedoeling daar ook effectief naar toe te gaan&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Toen ze me vanmorgen vroegen wat we vandaag zouden kunnen gaan doen en ik al lachend zei dat er een carnavalsstoet in Mortsel was, was het niet mijn bedoeling daar ook effectief naar toe te gaan...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/e76aa136dd.jpg\" width=\"400\" height=\"600\" alt=\"Praalwagen met een grote lachende aap erop en twee vreemdsoortige kikkers. Op de tweede wagen is een oranje mens aan het dansen.\">\n",
 				"date_published": "2023-03-11T19:05:55+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/11/toen-ze-me.html"
+				"url": "https://microblog.prutser.lol/2023/03/11/toen-ze-me.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/11/gisteren-was-het.html",
@@ -223,7 +231,7 @@
 				"content_html": "<p>Gisteren was het vrije vrijdag, dus museumdag. Omdat er ook andere verplichtingen waren hielden we het dicht bij huis: het MUHKA.<br>\nJe kan deze periode beter in de namiddag gaan als je de performances van Dora Garciá live wil zien (wat me nu niet gelukt is), maar ook de kleinere tentoonstellingen van Denmark en Slavs and Tatars vond ik de moeite.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Gisteren was het vrije vrijdag, dus museumdag. Omdat er ook andere verplichtingen waren hielden we het dicht bij huis: het MUHKA.  \nJe kan deze periode beter in de namiddag gaan als je de performances van Dora Garciá live wil zien (wat me nu niet gelukt is), maar ook de kleinere tentoonstellingen van Denmark en Slavs and Tatars vond ik de moeite.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/8fdccfb52d.jpg\" width=\"600\" height=\"300\" alt=\"Werk van Denmark, dode letters. Vier boeken liggen er in het midden van een ronde zaal op een standaard. Daarachter hangen allemaal werken die bestaan uit op elkaar geplakte reepje bedrukt papier.\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/9a112287e1.jpg\" width=\"600\" height=\"450\" alt=\"Wandtapijten van Slavs and Tarters met teksten in het Pools, Engels en Perzisch op. Get meest prominente werk zegt: Help the militia, beat yourself up\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/a97d60181f.jpg\" width=\"450\" height=\"600\" alt=\"Met krijt beschreven bord uit een performance van Dora Garciá waar de nabije toekomst op voorspeld wordt. Zo leren we dat in 2032 er nog maar een gebruiker op Facebook zal zijn en dat de ecocolapse in 2050 zal plaatsvinden \">\n",
 				"date_published": "2023-03-11T09:36:49+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/11/gisteren-was-het.html",
+				"url": "https://microblog.prutser.lol/2023/03/11/gisteren-was-het.html",
 				"tags": ["museum"]
 			},
 			{
@@ -232,7 +240,7 @@
 				"content_html": "<p>Na bijna tien jaar met de auto rijden,  eindelijk mijn eerste alcoholcontrole.<br>\nEen schandaal dat het zo lang geduurd heeft.</p>\n",
 				"content_text": "Na bijna tien jaar met de auto rijden,  eindelijk mijn eerste alcoholcontrole.  \r\nEen schandaal dat het zo lang geduurd heeft. \n",
 				"date_published": "2023-03-04T23:33:11+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/03/04/na-bijna-tien.html"
+				"url": "https://microblog.prutser.lol/2023/03/04/na-bijna-tien.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/02/26/gisteren-gezien-le.html",
@@ -240,7 +248,7 @@
 				"content_html": "<p>🎥 Gisteren gezien: Le Otto Montagne.</p>\n<p>Mooie film naar het overbekende boek.<br>\nDe cinematografie was prachtig,  de acteerprestaties ijzersterk,  het verhaal beklijvend.<br>\nDe film had wel iets gebalder gemogen, zeker het middenstuk was net iets te lang. En misschien had het soms allemaal wat subtieler gekund. Maar laat dat je zeker niet tegenhouden om te gaan kijken.</p>\n",
 				"content_text": "🎥 Gisteren gezien: Le Otto Montagne.\r\n\r\nMooie film naar het overbekende boek.   \r\nDe cinematografie was prachtig,  de acteerprestaties ijzersterk,  het verhaal beklijvend.   \r\nDe film had wel iets gebalder gemogen, zeker het middenstuk was net iets te lang. En misschien had het soms allemaal wat subtieler gekund. Maar laat dat je zeker niet tegenhouden om te gaan kijken. \n",
 				"date_published": "2023-02-26T09:17:42+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/26/gisteren-gezien-le.html"
+				"url": "https://microblog.prutser.lol/2023/02/26/gisteren-gezien-le.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/02/25/currently-reading-de.html",
@@ -248,7 +256,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n",
 				"content_text": "Currently reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\n",
 				"date_published": "2023-02-25T09:04:18+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/25/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/02/25/currently-reading-de.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/02/24/vrije-vrijdag-museumdag.html",
@@ -256,7 +264,7 @@
 				"content_html": "<p>Vrije vrijdag,  museumdag.<br>\nDeze keer naar het MSK Gent en de tentoonstelling van Rombouts.<br>\nDe tentoonstelling was kleiner dan ik verwacht had,  maar wel goed gedaan en de schilderijen waren de moeite. Zeker een aanrader. <br>\nOok de rest van het museum, was zeker de moeite van een bezoek waard.<br>\nVijf jaar in Gent op kot gezeten en tot mijn schande was ik er nog nooit geweest.<br>\nHet uitzicht en de geur van de Overpoort op een vrijdagochtend was 20 jaar later wel direct herkenbaar.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Vrije vrijdag,  museumdag.  \nDeze keer naar het MSK Gent en de tentoonstelling van Rombouts.  \nDe tentoonstelling was kleiner dan ik verwacht had,  maar wel goed gedaan en de schilderijen waren de moeite. Zeker een aanrader.    \nOok de rest van het museum, was zeker de moeite van een bezoek waard.   \nVijf jaar in Gent op kot gezeten en tot mijn schande was ik er nog nooit geweest.  \nHet uitzicht en de geur van de Overpoort op een vrijdagochtend was 20 jaar later wel direct herkenbaar. \n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/7b6c6f3866.jpg\" width=\"600\" height=\"400\" alt=\"Vooraanzicht van het museum\">\n",
 				"date_published": "2023-02-24T16:38:27+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/24/vrije-vrijdag-museumdag.html",
+				"url": "https://microblog.prutser.lol/2023/02/24/vrije-vrijdag-museumdag.html",
 				"tags": ["museum"]
 			},
 			{
@@ -265,7 +273,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029506441\">Het leven een gebruiksaanwijzing</a> by Georges Perec 📚<br>\nAan de tijd dat ik nodig had om het boek te lezen kun je niet alleen afleiden dat ik het druk had, maar ook dat het niet altijd even vlot las - ik heb veel heen en weer moeten bladeren. Maar het was een bijzondere leeservaring.<br>\nEen nawoord was welkom geweest, waar bijvoorbeeld enkele zaken werden uitgelegd die bijvoorbeeld <a href=\"https://erikgveld.wordpress.com/2013/09/02/georges-perec-het-leven-een-gebruiksaanwijzing-1978/\">hier</a>  beschreven staan.</p>\n",
 				"content_text": "Finished reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚  \nAan de tijd dat ik nodig had om het boek te lezen kun je niet alleen afleiden dat ik het druk had, maar ook dat het niet altijd even vlot las - ik heb veel heen en weer moeten bladeren. Maar het was een bijzondere leeservaring.  \nEen nawoord was welkom geweest, waar bijvoorbeeld enkele zaken werden uitgelegd die bijvoorbeeld [hier](https://erikgveld.wordpress.com/2013/09/02/georges-perec-het-leven-een-gebruiksaanwijzing-1978/)  beschreven staan.\n",
 				"date_published": "2023-02-23T09:05:34+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/23/finished-reading-het.html",
+				"url": "https://microblog.prutser.lol/2023/02/23/finished-reading-het.html",
 				"tags": ["recensie"]
 			},
 			{
@@ -274,7 +282,7 @@
 				"content_html": "<p>Voor u uitgetest:<br>\nThe Antwerp Story in Het Steen is slechte reclame voor wat Antwerpen te bieden heeft en hiervoor betalen zou je geld weggooien zijn.<br>\nWat muziekinstrumenten met het Vleeshuis te maken heeft weet ik niet,  maar als je dat graag ziet zou het de moeite kunnen zijn.<br>\nAls je van litho&rsquo;s, etsen en gravures houdt is museum De Reede de moeite,  al is 15 euro wel aan de dure kant.</p>\n",
 				"content_text": "Voor u uitgetest:  \nThe Antwerp Story in Het Steen is slechte reclame voor wat Antwerpen te bieden heeft en hiervoor betalen zou je geld weggooien zijn.   \nWat muziekinstrumenten met het Vleeshuis te maken heeft weet ik niet,  maar als je dat graag ziet zou het de moeite kunnen zijn.   \nAls je van litho's, etsen en gravures houdt is museum De Reede de moeite,  al is 15 euro wel aan de dure kant. \n",
 				"date_published": "2023-02-11T17:31:09+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/11/voor-u-uitgetest.html",
+				"url": "https://microblog.prutser.lol/2023/02/11/voor-u-uitgetest.html",
 				"tags": ["museum"]
 			},
 			{
@@ -283,7 +291,7 @@
 				"content_html": "<p>Ik kan wel wennen aan deze vrije vrijdagen.<br>\nEen half dagje Verborgen Parels in Mechelen was leuker dan werken.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Ik kan wel wennen aan deze vrije vrijdagen.   \nEen half dagje Verborgen Parels in Mechelen was leuker dan werken. \n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/e72f68eeda.jpg\" width=\"600\" height=\"600\" alt=\"Vijf grote,  beetje creepy kijkende,  poppen. Gerangschikt van klein naar groot\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/3048fe8b90.jpg\" width=\"600\" height=\"600\" alt=\"Een hoop (barok) schilderijen aan palen in een depot \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/ebf8f34f92.jpg\" width=\"600\" height=\"337\" alt=\"Nog meer schilderijen,  sommige 20ste eeuw, in hetzelfde depot \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/c8de30a019.jpg\" width=\"410\" height=\"600\" alt=\"Interieur van de Sint Jan kerk in Mechelen,  met een monumentaal altaarstuk van Rubens\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/65a61c060d.jpg\" width=\"400\" height=\"600\" alt=\"Overdadig interieur van de Begijnhofkerk in Mechelen\">\n",
 				"date_published": "2023-02-10T18:17:59+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/02/10/ik-kan-wel.html",
+				"url": "https://microblog.prutser.lol/2023/02/10/ik-kan-wel.html",
 				"tags": ["museum"]
 			},
 			{
@@ -292,7 +300,7 @@
 				"content_html": "<p>Finished Star Trek 🖖Strange New Worlds a couple days ago.<br>\nWhile I was not convinced at first, by the end I was a fan&hellip;</p>\n",
 				"content_text": "Finished Star Trek 🖖Strange New Worlds a couple days ago.  \r\nWhile I was not convinced at first, by the end I was a fan...\n",
 				"date_published": "2023-01-26T12:25:27+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/26/finished-star-trek.html"
+				"url": "https://microblog.prutser.lol/2023/01/26/finished-star-trek.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/25/net-de-eindafrekening.html",
@@ -300,7 +308,7 @@
 				"content_html": "<p>Net de eindafrekening energie 2022 gekregen.<br>\nDe helft van de betaalde voorschotten moeten ze ons terugstorten -met een vast contract. Er werd minder verbruikt, maar zeker niet de helft minder. \nDieven zijn het die energiebedrijven&hellip;.<br>\nDaar bestaan geen andere woorden meer voor.</p>\n",
 				"content_text": "Net de eindafrekening energie 2022 gekregen.  \r\nDe helft van de betaalde voorschotten moeten ze ons terugstorten -met een vast contract. Er werd minder verbruikt, maar zeker niet de helft minder. \r\nDieven zijn het die energiebedrijven....  \r\nDaar bestaan geen andere woorden meer voor.\r\n\r\n",
 				"date_published": "2023-01-25T16:33:44+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/25/net-de-eindafrekening.html"
+				"url": "https://microblog.prutser.lol/2023/01/25/net-de-eindafrekening.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/20/the-boy-next.html",
@@ -308,7 +316,7 @@
 				"content_html": "<p>The boy next door doesn&rsquo;t understand what is happening&hellip;.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The boy next door doesn't understand what is happening....\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/9c0051555b.jpg\" width=\"600\" height=\"450\" alt=\"Orange cat wondering why our garden is suddenly white\">\n",
 				"date_published": "2023-01-20T11:25:58+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/20/the-boy-next.html"
+				"url": "https://microblog.prutser.lol/2023/01/20/the-boy-next.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/08/turnhout.html",
@@ -316,7 +324,7 @@
 				"content_html": "<p>Wat doet een mens op zondag? Turnhout eens gaan bekijken met de museumpas.<br>\nDe stad zelf heeft zeker zijn charme, alleen reden er wel wat teveel auto&rsquo;s rond en is het er redelijk dood op een zondag.<br>\nHet begijnhof was heel mooi en het Begijnhofmuseum was een leuk klein museum waar bijna niemand komt.<br>\nHet museum Taxandria kon er nog mee door, maar het speelkaartenmuseum was oninteressant.</p>\n",
 				"content_text": "Wat doet een mens op zondag? Turnhout eens gaan bekijken met de museumpas.  \nDe stad zelf heeft zeker zijn charme, alleen reden er wel wat teveel auto's rond en is het er redelijk dood op een zondag.  \nHet begijnhof was heel mooi en het Begijnhofmuseum was een leuk klein museum waar bijna niemand komt.  \nHet museum Taxandria kon er nog mee door, maar het speelkaartenmuseum was oninteressant.\n",
 				"date_published": "2023-01-08T18:24:31+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/08/turnhout.html",
+				"url": "https://microblog.prutser.lol/2023/01/08/turnhout.html",
 				"tags": ["museum"]
 			},
 			{
@@ -325,7 +333,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789029506441\">Het leven een gebruiksaanwijzing</a> by Georges Perec 📚\nEen boek dat me altijd geïntrigeerd heeft.</p>\n",
 				"content_text": "Currently reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚\r\nEen boek dat me altijd geïntrigeerd heeft. \n",
 				"date_published": "2023-01-07T09:53:58+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/07/currently-reading-het.html"
+				"url": "https://microblog.prutser.lol/2023/01/07/currently-reading-het.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/04/ill-be-glad.html",
@@ -333,7 +341,7 @@
 				"content_html": "<p>I&rsquo;ll be glad when I finish Star Trek Enterpise. More time to live my life again.\nBut I will be sad when I have to miss great episodes like In A Mirror Darkly again for another few years. 🖖</p>\n",
 				"content_text": "I'll be glad when I finish Star Trek Enterpise. More time to live my life again.\r\nBut I will be sad when I have to miss great episodes like In A Mirror Darkly again for another few years. 🖖\n",
 				"date_published": "2023-01-04T21:54:52+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/04/ill-be-glad.html"
+				"url": "https://microblog.prutser.lol/2023/01/04/ill-be-glad.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/02/finished-reading-gorki.html",
@@ -341,7 +349,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9024513839\">Gorki Park</a> by Martin Cruz Smith 📚\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.</p>\n",
 				"content_text": "Finished reading: [Gorki Park](https://micro.blog/books/9024513839) by Martin Cruz Smith 📚\r\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.\n",
 				"date_published": "2023-01-02T14:27:41+02:00",
-				"url": "https://microblog.dehaeck.eu/2023/01/02/finished-reading-gorki.html"
+				"url": "https://microblog.prutser.lol/2023/01/02/finished-reading-gorki.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/12/11/jonathan-kvs.html",
@@ -349,7 +357,7 @@
 				"content_html": "<p>Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.<br>\nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.</p>\n",
 				"content_text": "Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.  \nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.\n",
 				"date_published": "2022-12-11T14:21:31+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/12/11/jonathan-kvs.html",
+				"url": "https://microblog.prutser.lol/2022/12/11/jonathan-kvs.html",
 				"tags": ["theater","recensie"]
 			},
 			{
@@ -358,7 +366,7 @@
 				"content_html": "<p>Wandeling in het fort van Edegem</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Wandeling in het fort van Edegem\r\n\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/765f8a2245.jpg\" width=\"569\" height=\"600\" alt=\"Verlaten roeiboot op door bladeren bedekt water in het fort\"><img src=\"https://cdn.uploads.micro.blog/54739/2022/9221707471.jpg\" width=\"600\" height=\"600\" alt=\"Rustende ijsvogel\"><img src=\"https://cdn.uploads.micro.blog/54739/2022/159aa17131.jpg\" width=\"600\" height=\"450\" alt=\"Zonnebadende aalscholver\"><img src=\"https://cdn.uploads.micro.blog/54739/2022/7e09b15d45.jpg\" width=\"600\" height=\"450\" alt=\"Rustende reiger op een tak in het water\">\n",
 				"date_published": "2022-12-03T18:31:31+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/12/03/wandeling-in-het.html"
+				"url": "https://microblog.prutser.lol/2022/12/03/wandeling-in-het.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/27/finished-reading-the.html",
@@ -366,7 +374,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671537838\">The Murdered Sun (Star Trek Voyager, No 6)</a> by Christie Golden 📚\nWhen you need a silly Voyager adventure, but don&rsquo;t want to rewatch an episode. 🖖</p>\n",
 				"content_text": "Finished reading: [The Murdered Sun (Star Trek Voyager, No 6)](https://micro.blog/books/9780671537838) by Christie Golden 📚\r\nWhen you need a silly Voyager adventure, but don't want to rewatch an episode. 🖖\n",
 				"date_published": "2022-11-27T10:22:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/27/finished-reading-the.html"
+				"url": "https://microblog.prutser.lol/2022/11/27/finished-reading-the.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/24/i-wonder-if.html",
@@ -374,7 +382,7 @@
 				"content_html": "<p>I wonder if I should retain all my digital photos, or make a drastic selection and delete a lot of them.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I wonder if I should retain all my digital photos, or make a drastic selection and delete a lot of them.\n\n#mbnov\n",
 				"date_published": "2022-11-24T22:37:37+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/24/i-wonder-if.html"
+				"url": "https://microblog.prutser.lol/2022/11/24/i-wonder-if.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/23/i-always-wonder.html",
@@ -382,7 +390,7 @@
 				"content_html": "<p>I always wonder why I have to manually update an app from Fdroid?\nThey never seem to be able to get downloaded automatically.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I always wonder why I have to manually update an app from Fdroid? \nThey never seem to be able to get downloaded automatically.\n\n#mbnov\n",
 				"date_published": "2022-11-23T23:23:50+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/23/i-always-wonder.html"
+				"url": "https://microblog.prutser.lol/2022/11/23/i-always-wonder.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/22/graze-grazendidnt-know.html",
@@ -390,7 +398,7 @@
 				"content_html": "<p>Graze = grazen.\nDidn&rsquo;t know that without context or looking up. \nNever to old to learn that my english isn&rsquo;t so good 😐</p>\n<p>#mbnov</p>\n",
 				"content_text": "Graze = grazen.\r\nDidn't know that without context or looking up. \r\nNever to old to learn that my english isn't so good 😐\r\n\r\n#mbnov\n",
 				"date_published": "2022-11-22T22:53:07+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/22/graze-grazendidnt-know.html"
+				"url": "https://microblog.prutser.lol/2022/11/22/graze-grazendidnt-know.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/21/ice-ice-baby.html",
@@ -398,7 +406,7 @@
 				"content_html": "<p>Ice, Ice baby. Our dancing Christmas penguin sings it on repeat. To the despair of my housemates.</p>\n<p>#mbnov</p>\n",
 				"content_text": "Ice, Ice baby. Our dancing Christmas penguin sings it on repeat. To the despair of my housemates.\n\n#mbnov\n",
 				"date_published": "2022-11-21T20:23:29+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/21/ice-ice-baby.html"
+				"url": "https://microblog.prutser.lol/2022/11/21/ice-ice-baby.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/20/wat-doet-een.html",
@@ -406,7 +414,7 @@
 				"content_html": "<p>Wat doet een mens op een druilerige zondag? Naar een museum gaan.\nDeze keer het Mercatormuseum in Sint-Niklaas. Een beetje verwaarloosd museum over Mercator, met daarin de aard- en hemelglobe van hem.<br>\nVeel facsimile kaarten en niet alles werkte zoals het zou moeten.<br>\nAls je iets met cartografie hebt zal het wel de moeite zijn, ik vroeg me wel een beetje af wat ik daar deed.</p>\n",
 				"content_text": "Wat doet een mens op een druilerige zondag? Naar een museum gaan.\nDeze keer het Mercatormuseum in Sint-Niklaas. Een beetje verwaarloosd museum over Mercator, met daarin de aard- en hemelglobe van hem.  \nVeel facsimile kaarten en niet alles werkte zoals het zou moeten.  \nAls je iets met cartografie hebt zal het wel de moeite zijn, ik vroeg me wel een beetje af wat ik daar deed. \n",
 				"date_published": "2022-11-20T17:33:31+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/20/wat-doet-een.html",
+				"url": "https://microblog.prutser.lol/2022/11/20/wat-doet-een.html",
 				"tags": ["museum"]
 			},
 			{
@@ -415,7 +423,7 @@
 				"content_html": "<p>Coming up with a novel thing to write for #mbnov every day is more difficult than I imagined.</p>\n",
 				"content_text": "Coming up with a novel thing to write for #mbnov every day is more difficult than I imagined.\n",
 				"date_published": "2022-11-19T20:39:55+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/19/coming-up-with.html"
+				"url": "https://microblog.prutser.lol/2022/11/19/coming-up-with.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/19/hoe-sommige-kringloopwinkels.html",
@@ -423,7 +431,7 @@
 				"content_html": "<p>Hoe sommige kringloopwinkels de selectie van hun te verkopen spullen doen zal me altijd een raadsel blijven.<br>\nMaar als je volgeschreven adresboekjes wilt hebben met nog zescijferige telefoonnummers in, ik weet een adres</p>\n",
 				"content_text": "Hoe sommige kringloopwinkels de selectie van hun te verkopen spullen doen zal me altijd een raadsel blijven.   \nMaar als je volgeschreven adresboekjes wilt hebben met nog zescijferige telefoonnummers in, ik weet een adres\n",
 				"date_published": "2022-11-19T13:29:31+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/19/hoe-sommige-kringloopwinkels.html"
+				"url": "https://microblog.prutser.lol/2022/11/19/hoe-sommige-kringloopwinkels.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/18/the-mbnov-word.html",
@@ -431,7 +439,7 @@
 				"content_html": "<p>The #mbnov word of the day is tire.<br>\nI&rsquo;m a bit tired of searching to write something about tires.\nMaybe I should retire to bed so I can start again tomorrow with a fresh mind.</p>\n",
 				"content_text": "The #mbnov word of the day is tire.  \nI'm a bit tired of searching to write something about tires. \nMaybe I should retire to bed so I can start again tomorrow with a fresh mind.\n",
 				"date_published": "2022-11-18T20:15:17+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/18/the-mbnov-word.html"
+				"url": "https://microblog.prutser.lol/2022/11/18/the-mbnov-word.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/17/im-wondering-if.html",
@@ -439,7 +447,7 @@
 				"content_html": "<p>I&rsquo;m wondering if a Duvel Barrel Aged is worth the price?<br>\nHow different is it from a regular Duvel&hellip; 🍺🍻<br>\n#mbnov</p>\n",
 				"content_text": "I'm wondering if a Duvel Barrel Aged is worth the price?   \r\nHow different is it from a regular Duvel... 🍺🍻  \r\n#mbnov\r\n",
 				"date_published": "2022-11-17T15:16:12+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/17/im-wondering-if.html"
+				"url": "https://microblog.prutser.lol/2022/11/17/im-wondering-if.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/17/meetings-in-english.html",
@@ -447,7 +455,7 @@
 				"content_html": "<p>Meetings in English, terwijl iedereen Nederlandstalig is. Why? 😫</p>\n",
 				"content_text": "Meetings in English, terwijl iedereen Nederlandstalig is. Why? 😫\n",
 				"date_published": "2022-11-17T12:31:17+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/17/meetings-in-english.html"
+				"url": "https://microblog.prutser.lol/2022/11/17/meetings-in-english.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/16/the-mbnov-word.html",
@@ -455,7 +463,7 @@
 				"content_html": "<p>The #mbnov word of the day seems to be franchise.<br>\nToo tired to think if I want to write something about de belachelijke franchise van mijn hospitalisatieverzekering or my love for the Star Trek franchise 🖖</p>\n",
 				"content_text": "The #mbnov word of the day seems to be franchise.  \r\nToo tired to think if I want to write something about de belachelijke franchise van mijn hospitalisatieverzekering or my love for the Star Trek franchise 🖖\n",
 				"date_published": "2022-11-16T21:59:27+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/16/the-mbnov-word.html"
+				"url": "https://microblog.prutser.lol/2022/11/16/the-mbnov-word.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/15/i-have-a.html",
@@ -463,7 +471,7 @@
 				"content_html": "<p>I have a very good lunch box, yet half the time I still wrap my lunch in aluminum foil.<br>\nWhy? no idea&hellip;<br>\nI do know that&rsquo;s one of the reasons why I consider myself an idiot from time to time.</p>\n<p>#mbnov</p>\n",
 				"content_text": "I have a very good lunch box, yet half the time I still wrap my lunch in aluminum foil.   \r\nWhy? no idea...   \r\nI do know that's one of the reasons why I consider myself an idiot from time to time.\r\n\r\n#mbnov\n",
 				"date_published": "2022-11-15T20:06:35+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/15/i-have-a.html"
+				"url": "https://microblog.prutser.lol/2022/11/15/i-have-a.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/14/i-didnt-leave.html",
@@ -471,7 +479,7 @@
 				"content_html": "<p>I didn&rsquo;t leave the house today. \nUsually these days are days to forget easily&hellip;.\n#mbnov</p>\n",
 				"content_text": "I didn't leave the house today. \r\nUsually these days are days to forget easily....\r\n#mbnov\n",
 				"date_published": "2022-11-14T21:56:42+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/14/i-didnt-leave.html"
+				"url": "https://microblog.prutser.lol/2022/11/14/i-didnt-leave.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/13/sometimes-i-dont.html",
@@ -479,7 +487,7 @@
 				"content_html": "<p>Sometimes I don&rsquo;t want to adjust to the rest of the world. #mbnov</p>\n",
 				"content_text": "Sometimes I don't want to adjust to the rest of the world. #mbnov\n",
 				"date_published": "2022-11-13T21:34:39+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/13/sometimes-i-dont.html"
+				"url": "https://microblog.prutser.lol/2022/11/13/sometimes-i-dont.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/13/finished-reading-van.html",
@@ -487,7 +495,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061317708\">Van het westelijk front geen nieuws</a> by Erich Maria Remarque 📚 \nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\nBenieuwd of de recente verfilming het boek eer aan doet.</p>\n",
 				"content_text": "Finished reading: [Van het westelijk front geen nieuws](https://micro.blog/books/9789061317708) by Erich Maria Remarque 📚 \r\nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\r\nBenieuwd of de recente verfilming het boek eer aan doet.\n",
 				"date_published": "2022-11-13T14:53:20+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/13/finished-reading-van.html"
+				"url": "https://microblog.prutser.lol/2022/11/13/finished-reading-van.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/13/aalscholvers-fotografie-natuur.html",
@@ -495,7 +503,7 @@
 				"content_html": "<p>Aalscholvers</p>\n<p>#fotografie #natuur #vogel #edegem</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Aalscholvers   \r\n\r\n#fotografie #natuur #vogel #edegem\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/d6dc4501c5.jpg\" width=\"600\" height=\"450\" alt=\"Aalscholver met uitgevouwen vleugels in de zon.\"><img src=\"https://cdn.uploads.micro.blog/54739/2022/149796b5be.jpg\" width=\"600\" height=\"600\" alt=\"Aalscholver op een tak in het water.\">\n",
 				"date_published": "2022-11-13T13:47:21+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/13/aalscholvers-fotografie-natuur.html"
+				"url": "https://microblog.prutser.lol/2022/11/13/aalscholvers-fotografie-natuur.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/12/i-have-a.html",
@@ -503,7 +511,7 @@
 				"content_html": "<p>I have a suspicion that dinner is going to be fantastic. Fries, salad and vegetarian chicken pieces in front of the television. #mbnov</p>\n",
 				"content_text": "I have a suspicion that dinner is going to be fantastic. Fries, salad and vegetarian chicken pieces in front of the television. #mbnov\n",
 				"date_published": "2022-11-12T18:56:26+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/12/i-have-a.html"
+				"url": "https://microblog.prutser.lol/2022/11/12/i-have-a.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/11/always-wondered-why.html",
@@ -511,7 +519,7 @@
 				"content_html": "<p>Always wondered why a display on an alarm clock use bright red numbers that light up the entire room&hellip; #mbnov</p>\n",
 				"content_text": "Always wondered why a display on an alarm clock use bright red numbers that light up the entire room... #mbnov \n",
 				"date_published": "2022-11-11T22:43:52+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/11/always-wondered-why.html"
+				"url": "https://microblog.prutser.lol/2022/11/11/always-wondered-why.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/10/can-you-participate.html",
@@ -519,7 +527,7 @@
 				"content_html": "<p>Can you participate at #mbnov in another language?\nBecause minister is even goed een Nederlandstalig woord als een Engelstalig</p>\n",
 				"content_text": "Can you participate at #mbnov in another language?\r\nBecause minister is even goed een Nederlandstalig woord als een Engelstalig\n",
 				"date_published": "2022-11-10T21:37:11+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/10/can-you-participate.html"
+				"url": "https://microblog.prutser.lol/2022/11/10/can-you-participate.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/09/im-certain-i.html",
@@ -527,7 +535,7 @@
 				"content_html": "<p>I&rsquo;m certain I need a vacation. Soon. #mbnov</p>\n",
 				"content_text": "I'm certain I need a vacation. Soon. #mbnov\n",
 				"date_published": "2022-11-09T17:12:58+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/09/im-certain-i.html"
+				"url": "https://microblog.prutser.lol/2022/11/09/im-certain-i.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/08/looking-at-everyone.html",
@@ -535,7 +543,7 @@
 				"content_html": "<p>Looking at everyone wearing a coat in my office, we can conclude that the consensus among my colleagues is that 19 degrees is just too cold to sit at your desk for an entire day. #mbnov</p>\n",
 				"content_text": "Looking at everyone wearing a coat in my office, we can conclude that the consensus among my colleagues is that 19 degrees is just too cold to sit at your desk for an entire day. #mbnov\n",
 				"date_published": "2022-11-08T20:33:32+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/08/looking-at-everyone.html"
+				"url": "https://microblog.prutser.lol/2022/11/08/looking-at-everyone.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/07/after-a-day.html",
@@ -543,7 +551,7 @@
 				"content_html": "<p>After a day at work, I am too tired to share any useful insight of mine. #mbnov</p>\n",
 				"content_text": "After a day at work, I am too tired to share any useful insight of mine. #mbnov\n",
 				"date_published": "2022-11-07T20:45:53+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/07/after-a-day.html"
+				"url": "https://microblog.prutser.lol/2022/11/07/after-a-day.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/06/i-had-an.html",
@@ -551,7 +559,7 @@
 				"content_html": "<p>I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\nNow I like to do it also, probably embarrassing others around me but it&rsquo;s just a lot of fun. #mbnov</p>\n",
 				"content_text": "I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\r\nNow I like to do it also, probably embarrassing others around me but it's just a lot of fun. #mbnov\n",
 				"date_published": "2022-11-06T19:01:29+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/06/i-had-an.html"
+				"url": "https://microblog.prutser.lol/2022/11/06/i-had-an.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/05/im-giving-myself.html",
@@ -559,7 +567,7 @@
 				"content_html": "<p>I&rsquo;m giving myself an exemption today so I don&rsquo;t have to think about a text for #mbnov</p>\n",
 				"content_text": "I'm giving myself an exemption today so I don't have to think about a text for #mbnov\n",
 				"date_published": "2022-11-05T18:53:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/05/im-giving-myself.html"
+				"url": "https://microblog.prutser.lol/2022/11/05/im-giving-myself.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/05/net-met-een.html",
@@ -567,7 +575,7 @@
 				"content_html": "<p>Net met een houten vogel in #Lier mogen gooien. Waar die #Museumpas al niet goed voor is.\nMaar alle gekheid op een stokje, voor een stadsmuseum was het #StadsmuseumLier nog leuk gedaan.</p>\n",
 				"content_text": "Net met een houten vogel in #Lier mogen gooien. Waar die #Museumpas al niet goed voor is.\r\nMaar alle gekheid op een stokje, voor een stadsmuseum was het #StadsmuseumLier nog leuk gedaan.\n",
 				"date_published": "2022-11-05T17:01:35+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/05/net-met-een.html"
+				"url": "https://microblog.prutser.lol/2022/11/05/net-met-een.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/04/we-went-to.html",
@@ -575,7 +583,7 @@
 				"content_html": "<p>We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov</p>\n",
 				"content_text": "We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov\n",
 				"date_published": "2022-11-04T20:45:57+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/04/we-went-to.html"
+				"url": "https://microblog.prutser.lol/2022/11/04/we-went-to.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/03/never-wanted-to.html",
@@ -583,7 +591,7 @@
 				"content_html": "<p>Never wanted to have a driving licence, but now that I have one I still wonder from time to time how I could do without one. Unfortunately, you get to too few places if you can only use public transport&hellip;</p>\n",
 				"content_text": "Never wanted to have a driving licence, but now that I have one I still wonder from time to time how I could do without one. Unfortunately, you get to too few places if you can only use public transport...\n",
 				"date_published": "2022-11-03T20:44:02+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/03/never-wanted-to.html"
+				"url": "https://microblog.prutser.lol/2022/11/03/never-wanted-to.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/03/bladblazers-bladblazers-bladblazers.html",
@@ -591,7 +599,7 @@
 				"content_html": "<p>Bladblazers, bladblazers, bladblazers overal.\nWat een #herrie en #lawaai.\nLieve mensen laat de bladeren liggen waar ze liggen - insecten(eters) zullen je dankbaar zijn.\nMoet er toch wat weg, #watisermismetbezems of gebruik een #bladhark</p>\n",
 				"content_text": "Bladblazers, bladblazers, bladblazers overal.\r\nWat een #herrie en #lawaai.\r\nLieve mensen laat de bladeren liggen waar ze liggen - insecten(eters) zullen je dankbaar zijn.\r\nMoet er toch wat weg, #watisermismetbezems of gebruik een #bladhark \n",
 				"date_published": "2022-11-03T10:28:47+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/03/bladblazers-bladblazers-bladblazers.html"
+				"url": "https://microblog.prutser.lol/2022/11/03/bladblazers-bladblazers-bladblazers.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/02/preparing-for-my.html",
@@ -599,7 +607,7 @@
 				"content_html": "<p>Preparing for my first family feast in three years, I&rsquo;m not sure I&rsquo;m going to know who everybody is anymore :-)</p>\n",
 				"content_text": "Preparing for my first family feast in three years, I'm not sure I'm going to know who everybody is anymore :-) \n",
 				"date_published": "2022-11-02T13:05:42+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/02/preparing-for-my.html"
+				"url": "https://microblog.prutser.lol/2022/11/02/preparing-for-my.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/02/instax-mimi-of.html",
@@ -607,7 +615,7 @@
 				"content_html": "<p>instax mini of the day ( or yesterday to be more precise).\n<!-- raw HTML omitted --></p>\n",
 				"content_text": "instax mini of the day ( or yesterday to be more precise). \n<img src=\"https://cdn.uploads.micro.blog/54739/2022/66145189d6.png\" width=\"600\" height=\"375\" alt=\"four pigeons in black and white on a tram station\" />\n",
 				"date_published": "2022-11-02T10:38:32+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/02/instax-mimi-of.html"
+				"url": "https://microblog.prutser.lol/2022/11/02/instax-mimi-of.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/02/zoeken-om-iets.html",
@@ -615,7 +623,7 @@
 				"content_html": "<p>Zoeken om iets te gaan doen met de puber deze vrijdag, wat een ramp&hellip;</p>\n",
 				"content_text": "Zoeken om iets te gaan doen met de puber deze vrijdag, wat een ramp...\n",
 				"date_published": "2022-11-02T09:40:28+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/02/zoeken-om-iets.html"
+				"url": "https://microblog.prutser.lol/2022/11/02/zoeken-om-iets.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/01/should-i-start.html",
@@ -623,7 +631,7 @@
 				"content_html": "<p>Should I start watching some #startrek fan series now that I&rsquo;ve seen the (for now) final episode of Lower Decks? 🤔🖖</p>\n",
 				"content_text": "Should I start watching some #startrek fan series now that I've seen the (for now) final episode of Lower Decks? 🤔🖖\n",
 				"date_published": "2022-11-01T16:33:21+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/01/should-i-start.html"
+				"url": "https://microblog.prutser.lol/2022/11/01/should-i-start.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/01/trams-die-haasje.html",
@@ -631,7 +639,7 @@
 				"content_html": "<p>Trams die haasje over doen, het blijft een wonderbaarlijk gegeven.</p>\n",
 				"content_text": "Trams die haasje over doen, het blijft een wonderbaarlijk gegeven.\n",
 				"date_published": "2022-11-01T11:06:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/01/trams-die-haasje.html"
+				"url": "https://microblog.prutser.lol/2022/11/01/trams-die-haasje.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/01/my-girlfriend-would.html",
@@ -639,7 +647,7 @@
 				"content_html": "<p>My girlfriend would rather go to a flea market than to a museum about old farm carts. Go figure.<br>\n#mbnov</p>\n",
 				"content_text": "My girlfriend would rather go to a flea market than to a museum about old farm carts. Go figure.  \n#mbnov\n",
 				"date_published": "2022-11-01T09:28:46+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/11/01/my-girlfriend-would.html"
+				"url": "https://microblog.prutser.lol/2022/11/01/my-girlfriend-would.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/10/31/enkele-kinderen-in.html",
@@ -647,7 +655,7 @@
 				"content_html": "<p>🎃 Enkele kinderen in de war gebracht met de vraag of het al zes januari was&hellip;\nGelukkig hadden we nog ergens snoep liggen om het goed te maken 🎃😀</p>\n",
 				"content_text": "🎃 Enkele kinderen in de war gebracht met de vraag of het al zes januari was...\r\nGelukkig hadden we nog ergens snoep liggen om het goed te maken 🎃😀\n",
 				"date_published": "2022-10-31T20:44:09+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/10/31/enkele-kinderen-in.html"
+				"url": "https://microblog.prutser.lol/2022/10/31/enkele-kinderen-in.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/10/23/finished-reading-de.html",
@@ -655,7 +663,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024544523\">De Bezoeker (poema Pocket)</a> by Lee Child 📚</p>\n",
 				"content_text": "Finished reading: [De Bezoeker (poema Pocket)](https://micro.blog/books/9789024544523) by Lee Child 📚\n",
 				"date_published": "2022-10-23T19:57:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/10/23/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/10/23/finished-reading-de.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/10/11/finished-reading-mysterin.html",
@@ -663,7 +671,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029518789\">Mysteriën</a> by Knut Hamsun 📚</p>\n",
 				"content_text": "Finished reading: [Mysteriën](https://micro.blog/books/9789029518789) by Knut Hamsun 📚\n",
 				"date_published": "2022-10-11T13:45:06+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/10/11/finished-reading-mysterin.html"
+				"url": "https://microblog.prutser.lol/2022/10/11/finished-reading-mysterin.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/09/11/finished-reading-spqr.html",
@@ -671,7 +679,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041714282\">SPQR </a> by Mary Beard 📚</p>\n",
 				"content_text": "Finished reading: [SPQR ](https://micro.blog/books/9789041714282) by Mary Beard 📚\n",
 				"date_published": "2022-09-11T09:32:48+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/09/11/finished-reading-spqr.html"
+				"url": "https://microblog.prutser.lol/2022/09/11/finished-reading-spqr.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/08/13/finished-reading-dictator.html",
@@ -679,7 +687,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307957962\">Dictator: A novel (Ancient Rome Trilogy Book 3)</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Dictator: A novel (Ancient Rome Trilogy Book 3)](https://micro.blog/books/9780307957962) by Robert Harris 📚\n",
 				"date_published": "2022-08-13T13:44:50+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/08/13/finished-reading-dictator.html"
+				"url": "https://microblog.prutser.lol/2022/08/13/finished-reading-dictator.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/07/31/finished-reading-lustrum.html",
@@ -687,7 +695,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099406327\">Lustrum</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Lustrum](https://micro.blog/books/9780099406327) by Robert Harris 📚\n",
 				"date_published": "2022-07-31T15:31:30+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/07/31/finished-reading-lustrum.html"
+				"url": "https://microblog.prutser.lol/2022/07/31/finished-reading-lustrum.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/07/18/lost-in-genoa.html",
@@ -695,7 +703,7 @@
 				"content_html": "<p>Lost in Genoa</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Lost in Genoa\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/ea9d8dac4a.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-18T12:42:21+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/07/18/lost-in-genoa.html"
+				"url": "https://microblog.prutser.lol/2022/07/18/lost-in-genoa.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/07/18/finished-reading-imperium.html",
@@ -703,7 +711,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023443544\">Imperium</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Imperium](https://micro.blog/books/9789023443544) by Robert Harris 📚\n",
 				"date_published": "2022-07-18T12:27:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/07/18/finished-reading-imperium.html"
+				"url": "https://microblog.prutser.lol/2022/07/18/finished-reading-imperium.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/18/finished-reading-laatste.html",
@@ -711,7 +719,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by Harlan Coben 📚, wat een, eh, slecht boek.</p>\n",
 				"content_text": "Finished reading: [Laatste Kans](https://micro.blog/books/9789022551677) by Harlan Coben 📚, wat een, eh, slecht boek.\n",
 				"date_published": "2022-06-18T16:11:20+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/06/18/finished-reading-laatste.html"
+				"url": "https://microblog.prutser.lol/2022/06/18/finished-reading-laatste.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/12/currently-reading-laatste.html",
@@ -719,7 +727,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by  Harlan Coben 📚</p>\n",
 				"content_text": "Currently reading: [Laatste Kans](https://micro.blog/books/9789022551677) by  Harlan Coben 📚\n",
 				"date_published": "2022-06-12T08:04:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/06/12/currently-reading-laatste.html"
+				"url": "https://microblog.prutser.lol/2022/06/12/currently-reading-laatste.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/12/finished-reading-een.html",
@@ -727,7 +735,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Finished reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
 				"date_published": "2022-06-12T08:02:55+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/06/12/finished-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/06/12/finished-reading-een.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/05/on-my-walk.html",
@@ -735,7 +743,7 @@
 				"content_html": "<p>On my walk yesterday, I found a little elf house&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "On my walk yesterday, I found a little elf house...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/64b6b8f0f6.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-05T18:36:42+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/06/05/on-my-walk.html"
+				"url": "https://microblog.prutser.lol/2022/06/05/on-my-walk.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/05/28/currently-reading-een.html",
@@ -743,7 +751,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Currently reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
 				"date_published": "2022-05-28T19:32:13+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/28/currently-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/05/28/currently-reading-een.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/05/27/finished-reading-land.html",
@@ -751,7 +759,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.\n",
 				"date_published": "2022-05-27T15:25:35+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/27/finished-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/27/finished-reading-land.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/22/finished-reading-de.html",
@@ -759,7 +767,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.</p>\n",
 				"content_text": "Finished reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.\n",
 				"date_published": "2022-05-22T18:54:28+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/22/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/05/22/finished-reading-de.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/16/currently-reading-de.html",
@@ -767,7 +775,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar Sundstøl 📚\n",
 				"date_published": "2022-05-16T22:00:37+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/16/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/05/16/currently-reading-de.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/16/finished-reading-land.html",
@@ -775,7 +783,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl  📚.<br>\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl  📚.  \r\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.\n",
 				"date_published": "2022-05-16T21:59:16+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/16/finished-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/16/finished-reading-land.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/11/currently-reading-land.html",
@@ -783,7 +791,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl 📚\n",
 				"date_published": "2022-05-11T19:19:46+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/05/11/currently-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/11/currently-reading-land.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/30/last-night-of.html",
@@ -791,7 +799,7 @@
 				"content_html": "<p>Last night of quarantine, last night to binge watch Voyager 🖖</p>\n",
 				"content_text": "Last night of quarantine, last night to binge watch Voyager 🖖\n",
 				"date_published": "2022-04-30T21:09:02+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/30/last-night-of.html"
+				"url": "https://microblog.prutser.lol/2022/04/30/last-night-of.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/30/finished-reading-de.html",
@@ -799,7 +807,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper een vertelling</a> by  Kader Abdolah 📚</p>\n",
 				"content_text": "Finished reading: [De boodschapper een vertelling](https://micro.blog/books/9789044509137) by  Kader Abdolah 📚\n",
 				"date_published": "2022-04-30T20:37:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/30/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/04/30/finished-reading-de.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/17/finished-reading-debatfiches.html",
@@ -807,7 +815,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches Van De Vlaamse Elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n<p>In heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\nEen must-read voor iedereen.</p>\n",
 				"content_text": "Finished reading: [Debatfiches Van De Vlaamse Elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\r\n\r\nIn heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\r\nEen must-read voor iedereen.\n",
 				"date_published": "2022-04-17T09:54:52+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/17/finished-reading-debatfiches.html"
+				"url": "https://microblog.prutser.lol/2022/04/17/finished-reading-debatfiches.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/12/currently-reading-debatfiches.html",
@@ -815,7 +823,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches van de Vlaamse elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n",
 				"content_text": "Currently reading: [Debatfiches van de Vlaamse elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\n",
 				"date_published": "2022-04-12T06:46:52+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/12/currently-reading-debatfiches.html"
+				"url": "https://microblog.prutser.lol/2022/04/12/currently-reading-debatfiches.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/10/currently-reading-de.html",
@@ -823,7 +831,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper: een vertelling</a> by Kader Abdolah 📚</p>\n",
 				"content_text": "Currently reading: [De boodschapper: een vertelling](https://micro.blog/books/9789044509137) by Kader Abdolah 📚\n",
 				"date_published": "2022-04-10T09:46:19+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/10/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/04/10/currently-reading-de.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/04/09/211300.html",
@@ -831,7 +839,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.</p>\n",
 				"content_text": "Finished reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.\n",
 				"date_published": "2022-04-09T21:13:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/09/211300.html"
+				"url": "https://microblog.prutser.lol/2022/04/09/211300.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/03/currently-reading-cromagnon.html",
@@ -839,7 +847,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚</p>\n",
 				"content_text": "Currently reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚\n",
 				"date_published": "2022-04-03T08:48:07+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/03/currently-reading-cromagnon.html"
+				"url": "https://microblog.prutser.lol/2022/04/03/currently-reading-cromagnon.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/03/finished-reading-i.html",
@@ -847,7 +855,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖\nIt could have been a fun but silly episode of early TNG.</p>\n",
 				"content_text": "Finished reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖 \nIt could have been a fun but silly episode of early TNG.\n",
 				"date_published": "2022-04-03T08:38:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/04/03/finished-reading-i.html"
+				"url": "https://microblog.prutser.lol/2022/04/03/finished-reading-i.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/26/currently-reading-i.html",
@@ -855,7 +863,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖</p>\n",
 				"content_text": "Currently reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖\n",
 				"date_published": "2022-03-26T08:48:14+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/26/currently-reading-i.html"
+				"url": "https://microblog.prutser.lol/2022/03/26/currently-reading-i.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/19/finished-reading-zelfverwoestingsboek.html",
@@ -863,7 +871,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789492478917\">Zelfverwoestingsboek</a> by Marian Donner 📚</p>\n",
 				"content_text": "Finished reading: [Zelfverwoestingsboek](https://micro.blog/books/9789492478917) by Marian Donner 📚\n",
 				"date_published": "2022-03-19T09:30:34+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/19/finished-reading-zelfverwoestingsboek.html"
+				"url": "https://microblog.prutser.lol/2022/03/19/finished-reading-zelfverwoestingsboek.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/18/finished-reading-liefhebben.html",
@@ -871,7 +879,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben / Druk 19</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Finished reading: [Liefhebben / Druk 19](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
 				"date_published": "2022-03-18T21:43:43+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/18/finished-reading-liefhebben.html"
+				"url": "https://microblog.prutser.lol/2022/03/18/finished-reading-liefhebben.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/13/he-looks-so.html",
@@ -879,7 +887,7 @@
 				"content_html": "<p>He looks so sad&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "He looks so sad...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/c903c291fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-13T23:16:55+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/13/he-looks-so.html"
+				"url": "https://microblog.prutser.lol/2022/03/13/he-looks-so.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/10/we-had-some.html",
@@ -887,7 +895,7 @@
 				"content_html": "<p>We had some visitors today 🐈</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "We had some visitors today 🐈\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/a4d0ca6276.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/54739/2022/f2399da018.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-10T21:51:10+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/10/we-had-some.html"
+				"url": "https://microblog.prutser.lol/2022/03/10/we-had-some.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/08/spring-is-near.html",
@@ -895,7 +903,7 @@
 				"content_html": "<p>Spring is near</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spring is near\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/a0f071d77a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-03-08T22:32:01+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/08/spring-is-near.html"
+				"url": "https://microblog.prutser.lol/2022/03/08/spring-is-near.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/04/currently-reading-liefhebben.html",
@@ -903,7 +911,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben een kunst, een kunde</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Currently reading: [Liefhebben een kunst, een kunde](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
 				"date_published": "2022-03-04T13:39:18+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/03/04/currently-reading-liefhebben.html"
+				"url": "https://microblog.prutser.lol/2022/03/04/currently-reading-liefhebben.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/28/finished-reading-de.html",
@@ -911,7 +919,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789002145124\">De zeer schone uren van Juffrouw Symforosa, begijntjen</a> by Felix Timmermans 📚</p>\n",
 				"content_text": "Finished reading: [De zeer schone uren van Juffrouw Symforosa, begijntjen](https://micro.blog/books/9789002145124) by Felix Timmermans 📚\n",
 				"date_published": "2022-02-28T11:00:17+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/28/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/02/28/finished-reading-de.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/27/finished-reading-anomalie.html",
@@ -919,7 +927,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Finished reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
 				"date_published": "2022-02-27T19:40:33+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/27/finished-reading-anomalie.html"
+				"url": "https://microblog.prutser.lol/2022/02/27/finished-reading-anomalie.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/24/piran-by-day.html",
@@ -927,7 +935,7 @@
 				"content_html": "<p>Piran by Day</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Piran by Day\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/f5cc88620c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
 				"date_published": "2022-02-24T15:39:20+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/24/piran-by-day.html"
+				"url": "https://microblog.prutser.lol/2022/02/24/piran-by-day.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/24/brussels-by-night.html",
@@ -935,7 +943,7 @@
 				"content_html": "<p>Brussels by Night</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Brussels by Night\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/2e34ebd59e.jpg\" width=\"600\" height=\"299\" alt=\"\" />\n",
 				"date_published": "2022-02-24T15:08:36+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/24/brussels-by-night.html"
+				"url": "https://microblog.prutser.lol/2022/02/24/brussels-by-night.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/21/currently-reading-anomalie.html",
@@ -943,7 +951,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Currently reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
 				"date_published": "2022-02-21T09:07:04+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/21/currently-reading-anomalie.html"
+				"url": "https://microblog.prutser.lol/2022/02/21/currently-reading-anomalie.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/14/finished-reading-een.html",
@@ -951,7 +959,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by  📚</p>\n",
 				"content_text": "Finished reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by  📚\n",
 				"date_published": "2022-02-14T13:46:09+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/14/finished-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/02/14/finished-reading-een.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/09/two-pigeons-with.html",
@@ -959,7 +967,7 @@
 				"content_html": "<p>Two pigeons, with their own preferences for a resting place</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Two pigeons, with their own preferences for a resting place\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/327441a205.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/54739/2022/c61000048d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-09T16:31:15+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/02/09/two-pigeons-with.html"
+				"url": "https://microblog.prutser.lol/2022/02/09/two-pigeons-with.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/31/220346.html",
@@ -967,7 +975,7 @@
 				"content_html": "<p>🐏🐑</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🐏🐑\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/690e01d493.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2022-01-31T23:03:46+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/31/220346.html"
+				"url": "https://microblog.prutser.lol/2022/01/31/220346.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/31/a-i-think.html",
@@ -975,7 +983,7 @@
 				"content_html": "<p>A, I think, sad donkey</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A, I think, sad donkey\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/5f6f3e2b5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-31T23:03:16+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/31/a-i-think.html"
+				"url": "https://microblog.prutser.lol/2022/01/31/a-i-think.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/25/currently-reading-een.html",
@@ -983,7 +991,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by John le Carré 📚</p>\n",
 				"content_text": "Currently reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by John le Carré 📚\n",
 				"date_published": "2022-01-25T16:00:13+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/25/currently-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/01/25/currently-reading-een.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/20/bird-in-a.html",
@@ -991,7 +999,7 @@
 				"content_html": "<p>Bird in a tree</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Bird in a tree\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/aa1a35795d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-20T22:31:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/20/bird-in-a.html"
+				"url": "https://microblog.prutser.lol/2022/01/20/bird-in-a.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/14/seagulls-having-a.html",
@@ -999,7 +1007,7 @@
 				"content_html": "<p>Seagulls having a conversation 🐤</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Seagulls having a conversation 🐤\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/d22b6aac31.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-01-14T13:50:45+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/14/seagulls-having-a.html"
+				"url": "https://microblog.prutser.lol/2022/01/14/seagulls-having-a.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/11/the-neighbors-cat.html",
@@ -1007,7 +1015,7 @@
 				"content_html": "<p>The neighbor&rsquo;s cat in front of our window🐱</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The neighbor's cat in front of our window🐱\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/658e1541fc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-11T22:19:09+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/11/the-neighbors-cat.html"
+				"url": "https://microblog.prutser.lol/2022/01/11/the-neighbors-cat.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/09/meerhout.html",
@@ -1015,7 +1023,7 @@
 				"content_html": "<p>Meerhout</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Meerhout\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/c0f4857350.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-09T20:30:11+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/09/meerhout.html"
+				"url": "https://microblog.prutser.lol/2022/01/09/meerhout.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/08/echternach.html",
@@ -1023,7 +1031,7 @@
 				"content_html": "<p>Echternach, 2019</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Echternach, 2019\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/f79bbfa540.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2022-01-08T20:19:11+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/08/echternach.html"
+				"url": "https://microblog.prutser.lol/2022/01/08/echternach.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/03/nice-day-for.html",
@@ -1031,7 +1039,7 @@
 				"content_html": "<p>Nice day for a walk 🚶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nice day for a walk 🚶\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/6d1cc9e99b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-03T21:11:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/03/nice-day-for.html"
+				"url": "https://microblog.prutser.lol/2022/01/03/nice-day-for.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/02/de-kat-van.html",
@@ -1039,7 +1047,7 @@
 				"content_html": "<p>De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "De kat van de buren kwam gisteren zijn nieuwjaarswensen overbrengen 😻\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2022/d9160f5d43.jpg\" width=\"600\" height=\"479\" alt=\"Orange cat in a dark garden\" />\n",
 				"date_published": "2022-01-02T10:52:19+02:00",
-				"url": "https://microblog.dehaeck.eu/2022/01/02/de-kat-van.html"
+				"url": "https://microblog.prutser.lol/2022/01/02/de-kat-van.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/20/maar-heel-de.html",
@@ -1047,7 +1055,7 @@
 				"content_html": "<p>Maar heel de campagne was zo mogelijk nog beter georganiseerd dan deze zomer. Voor je het wist stond je weer buiten.\nDikke merci aan de vrijwilligers in Antwerpen Expo vandaag.💉💉💉</p>\n",
 				"content_text": "Maar heel de campagne was zo mogelijk nog beter georganiseerd dan deze zomer. Voor je het wist stond je weer buiten. \nDikke merci aan de vrijwilligers in Antwerpen Expo vandaag.💉💉💉\n",
 				"date_published": "2021-12-20T21:42:23+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/20/maar-heel-de.html"
+				"url": "https://microblog.prutser.lol/2021/12/20/maar-heel-de.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/20/vandaag-mijn-boosterprik.html",
@@ -1055,7 +1063,7 @@
 				"content_html": "<p>Vandaag mijn boosterprik gekregen, beetje teleurgesteld dat ik niet ineens een afspraak kon maken voor booster 2. 💉💉</p>\n",
 				"content_text": "Vandaag mijn boosterprik gekregen, beetje teleurgesteld dat ik niet ineens een afspraak kon maken voor booster 2. 💉💉\n",
 				"date_published": "2021-12-20T21:35:52+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/20/vandaag-mijn-boosterprik.html"
+				"url": "https://microblog.prutser.lol/2021/12/20/vandaag-mijn-boosterprik.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/19/142112.html",
@@ -1063,7 +1071,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/45691fa4cd.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
 				"date_published": "2021-12-19T15:21:12+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/19/142112.html"
+				"url": "https://microblog.prutser.lol/2021/12/19/142112.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/19/135824.html",
@@ -1071,7 +1079,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/b1a00bb9e1.jpg\" width=\"600\" height=\"315\" alt=\"\" />\n",
 				"date_published": "2021-12-19T14:58:24+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/19/135824.html"
+				"url": "https://microblog.prutser.lol/2021/12/19/135824.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/15/soms-voel-je.html",
@@ -1079,7 +1087,7 @@
 				"content_html": "<p>Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱</p>\n",
 				"content_text": "Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱\n",
 				"date_published": "2021-12-15T21:25:09+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/15/soms-voel-je.html",
+				"url": "https://microblog.prutser.lol/2021/12/15/soms-voel-je.html",
 				"tags": ["dagelijks"]
 			},
 			{
@@ -1088,8 +1096,7 @@
 				"content_html": "<p>Na het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.</p>\n<p>Van Riki tot waar ze vorig jaar ook geraakt zouden zijn.</p>\n<p>Van elk album zal ik hier kort - zeer kort noteren wat ik er van vond op <a href=\"https://blog.simon.dehaeck.eu\">blog.simon.dehaeck.eu</a></p>\n",
 				"content_text": "Na het kopen en ontvangen van de volledige Suske en Wiske collectie (de rode reeks) lijkt het me wel iets om alle albums in chronologische volgorde te lezen.\n\nVan Riki tot waar ze vorig jaar ook geraakt zouden zijn.\n\nVan elk album zal ik hier kort - zeer kort noteren wat ik er van vond op [blog.simon.dehaeck.eu](https://blog.simon.dehaeck.eu)\n",
 				"date_published": "2021-12-11T16:52:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/05/suske-en-wiske.html",
-				"tags": ["Suske en Wiske"]
+				"url": "https://microblog.prutser.lol/2021/12/05/suske-en-wiske.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/03/als-we-straks.html",
@@ -1097,8 +1104,7 @@
 				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
 				"date_published": "2021-12-03T13:41:00+02:00",
-				"url": "https://microblog.dehaeck.eu/2021/12/03/als-we-straks.html",
-				"tags": ["Suske en Wiske"]
+				"url": "https://microblog.prutser.lol/2021/12/03/als-we-straks.html"
 			}
 	]
 }
