@@ -7,12 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/06/06/neighbors-visiting.html",
+				
+				"content_html": "<p>Neighbors visiting&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Neighbors visiting...\n\n<img src=\"uploads/2023/f0f3dc4963.jpg\" width=\"600\" height=\"337\" alt=\"Two cats in our chairs... :-)\">\n",
+				"date_published": "2023-06-06T20:55:15+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/06/neighbors-visiting.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/06/134615.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/72d02d7b7c.jpg\" width=\"600\" height=\"600\" alt=\"Giant rubber duck, Bonapartedok, Antwerp\">\n",
+				"date_published": "2023-06-06T13:46:15+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/06/134615.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/04/todays-hike-bike.html",
+				
+				"content_html": "<p>Today&rsquo;s hike, bike ride</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Today's hike, bike ride\n\n\n<img src=\"uploads/2023/3bf5c0df1e.jpg\" width=\"600\" height=\"399\" alt=\"Abandoned playground \"><img src=\"uploads/2023/0f9161277d.jpg\" width=\"600\" height=\"600\" alt=\"Waterslot Cleydael\"><img src=\"uploads/2023/9f4d1cf030.jpg\" width=\"600\" height=\"300\" alt=\"Dog in a farm\">\n",
+				"date_published": "2023-06-04T18:49:48+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/04/todays-hike-bike.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/02/vandaag-vogelepik-gedaan.html",
 				
 				"content_html": "<p>Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.<br>\nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.<br>\nDe tentoonstelling met de collectie van Neirynck was ook de moeite.<br>\nHerl het museum is een aanrader.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.  \r\nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.   \r\nDe tentoonstelling met de collectie van Neirynck was ook de moeite.  \r\nHerl het museum is een aanrader. \r\n\n\n<img src=\"uploads/2023/c8301c3b66.jpg\" width=\"600\" height=\"400\" alt=\"Schilderij Daglichten: De Avond\"><img src=\"uploads/2023/f0373c15df.jpg\" width=\"400\" height=\"600\" alt=\"kleinere werken van De Boeck\"><img src=\"uploads/2023/75baadf52e.jpg\" width=\"400\" height=\"600\" alt=\"Atelier van Felix De Boeck\"><img src=\"uploads/2023/dacf8de4e2.jpg\" width=\"600\" height=\"400\" alt=\"Koe in de boomgaard van Felix De Boeck\">\n",
+				"content_text": "Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.  \nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.   \nDe tentoonstelling met de collectie van Neirynck was ook de moeite.  \nHerl het museum is een aanrader. \n\n\n<img src=\"uploads/2023/c8301c3b66.jpg\" width=\"600\" height=\"400\" alt=\"Schilderij Daglichten: De Avond\"><img src=\"uploads/2023/f0373c15df.jpg\" width=\"400\" height=\"600\" alt=\"kleinere werken van De Boeck\"><img src=\"uploads/2023/75baadf52e.jpg\" width=\"400\" height=\"600\" alt=\"Atelier van Felix De Boeck\"><img src=\"uploads/2023/dacf8de4e2.jpg\" width=\"600\" height=\"400\" alt=\"Koe in de boomgaard van Felix De Boeck\">\n",
 				"date_published": "2023-06-02T21:31:21+02:00",
-				"url": "https://microblog.prutser.lol/2023/06/02/vandaag-vogelepik-gedaan.html"
+				"url": "https://microblog.prutser.lol/2023/06/02/vandaag-vogelepik-gedaan.html",
+				"tags": ["museum"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/27/finished-reading-de.html",
@@ -26,7 +51,7 @@
 				"id": "http://simondh.micro.blog/2023/05/18/whos-looking-at.html",
 				
 				"content_html": "<p>Who&rsquo;s looking at whom?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who's looking at whom?\n\n<img src=\"uploads/2023/d6627cea93.jpg\" width=\"600\" height=\"600\" alt=\"A family of wild deer looking at the camera\">\n",
+				"content_text": "Who's looking at whom?\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/d6627cea93.jpg\" width=\"600\" height=\"600\" alt=\"A family of wild deer looking at the camera\">\n",
 				"date_published": "2023-05-18T15:13:02+02:00",
 				"url": "https://microblog.prutser.lol/2023/05/18/whos-looking-at.html"
 			},
@@ -34,7 +59,7 @@
 				"id": "http://simondh.micro.blog/2023/05/18/meerhout.html",
 				
 				"content_html": "<p>Meerhout&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meerhout...\n\n<img src=\"uploads/2023/f08f033bc8.jpg\" width=\"600\" height=\"450\" alt=\"Bomen, een beek en een landweggetje\">\n",
+				"content_text": "Meerhout...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/f08f033bc8.jpg\" width=\"600\" height=\"450\" alt=\"Bomen, een beek en een landweggetje\">\n",
 				"date_published": "2023-05-18T13:38:51+02:00",
 				"url": "https://microblog.prutser.lol/2023/05/18/meerhout.html"
 			},
@@ -42,7 +67,7 @@
 				"id": "http://simondh.micro.blog/2023/05/16/evening-walk.html",
 				
 				"content_html": "<p>Evening walk</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Evening walk\n\n<img src=\"uploads/2023/45502e8886.jpg\" width=\"600\" height=\"450\" alt=\"water surrounded by very green trees\">\n",
+				"content_text": "Evening walk\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/45502e8886.jpg\" width=\"600\" height=\"450\" alt=\"water surrounded by very green trees\">\n",
 				"date_published": "2023-05-16T19:17:24+02:00",
 				"url": "https://microblog.prutser.lol/2023/05/16/evening-walk.html"
 			},
