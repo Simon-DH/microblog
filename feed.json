@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/06/10/family-with-little.html",
+				
+				"content_html": "<p>Family with little birds in our old, unused mailbox 😍</p>\n",
+				"content_text": "Family with little birds in our old, unused mailbox 😍\n",
+				"date_published": "2023-06-10T11:23:48+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/10/family-with-little.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/07/finished-reading-tweede.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041709714\">Tweede leven</a> by Michael Connelly 📚</p>\n<p>Eigenlijk is de tv-serie beter&hellip;\nmaar onderhoudend was het boek wel</p>\n",
+				"content_text": "Finished reading: [Tweede leven](https://micro.blog/books/9789041709714) by Michael Connelly 📚\r\n\r\nEigenlijk is de tv-serie beter...\r\nmaar onderhoudend was het boek wel\n",
+				"date_published": "2023-06-07T21:32:45+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/07/finished-reading-tweede.html",
+				"tags": ["boeken"]
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/06/neighbors-visiting.html",
 				
 				"content_html": "<p>Neighbors visiting&hellip;</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +51,7 @@
 				"id": "http://simondh.micro.blog/2023/06/02/vandaag-vogelepik-gedaan.html",
 				
 				"content_html": "<p>Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.<br>\nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.<br>\nDe tentoonstelling met de collectie van Neirynck was ook de moeite.<br>\nHerl het museum is een aanrader.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.  \nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.   \nDe tentoonstelling met de collectie van Neirynck was ook de moeite.  \nHerl het museum is een aanrader. \n\n\n<img src=\"uploads/2023/c8301c3b66.jpg\" width=\"600\" height=\"400\" alt=\"Schilderij Daglichten: De Avond\"><img src=\"uploads/2023/f0373c15df.jpg\" width=\"400\" height=\"600\" alt=\"kleinere werken van De Boeck\"><img src=\"uploads/2023/75baadf52e.jpg\" width=\"400\" height=\"600\" alt=\"Atelier van Felix De Boeck\"><img src=\"uploads/2023/dacf8de4e2.jpg\" width=\"600\" height=\"400\" alt=\"Koe in de boomgaard van Felix De Boeck\">\n",
+				"content_text": "Vandaag vogelepik gedaan op de site van museumpas en zo naar FelixArt te Drogenbos gegaan. Het museum over Felix De Boeck.  \nIk kende de man niet,  maar na bezoek van het museum (waar ook zijn huis staat) ben ik een fan. Het contrast tussen de keuterboer en de schilder van abstracte schilderijen was mooi om te zien.   \nDe tentoonstelling met de collectie van Neirynck was ook de moeite.  \nHerl het museum is een aanrader. \n\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/c8301c3b66.jpg\" width=\"600\" height=\"400\" alt=\"Schilderij Daglichten: De Avond\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/f0373c15df.jpg\" width=\"400\" height=\"600\" alt=\"kleinere werken van De Boeck\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/75baadf52e.jpg\" width=\"400\" height=\"600\" alt=\"Atelier van Felix De Boeck\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/dacf8de4e2.jpg\" width=\"600\" height=\"400\" alt=\"Koe in de boomgaard van Felix De Boeck\">\n",
 				"date_published": "2023-06-02T21:31:21+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/02/vandaag-vogelepik-gedaan.html",
 				"tags": ["museum"]
@@ -153,6 +170,14 @@
 				"url": "https://microblog.prutser.lol/2023/04/17/ziekenhuiskamer-zijn-niet.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2023/04/17/back-to-work.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😵‍💫 Back to work...</p>\n",
+				"date_published": "2023-04-17T07:49:46+02:00",
+				"url": "https://microblog.prutser.lol/2023/04/17/back-to-work.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/04/15/finished-reading-waterschapsheuvel.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781439176122\">Waterschapsheuvel</a> by Richard Adams 📚</p>\n<p>Ooit als kind gelezen,  en het was me altijd bijgebleven als een bijzondere leeservaring.<br>\nHet boek blijkt ook voor volwassenen te werken.  Ik zal de avonturen van Hazelaar en de zijnen missen.</p>\n",
@@ -208,6 +233,14 @@
 				"content_text": "🖖 After six episodes, I'm still not disappointed in 'Star Trek Picard'.\n",
 				"date_published": "2023-03-27T10:45:47+02:00",
 				"url": "https://microblog.prutser.lol/2023/03/27/after-six-episodes.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/03/26/moe-maar-voldaan.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😺 Moe maar voldaan weer thuis</p>\n",
+				"date_published": "2023-03-26T19:20:50+02:00",
+				"url": "https://microblog.prutser.lol/2023/03/26/moe-maar-voldaan.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/24/rotterdam-na-een.html",
@@ -377,13 +410,45 @@
 				"url": "https://microblog.prutser.lol/2023/01/02/finished-reading-gorki.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/12/28/ardennnen.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>➡ Ardennnen  🌳🌲</p>\n",
+				"date_published": "2022-12-28T09:05:36+02:00",
+				"url": "https://microblog.prutser.lol/2022/12/28/ardennnen.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/12/24/095050.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎅 🎁🎄</p>\n",
+				"date_published": "2022-12-24T09:50:50+02:00",
+				"url": "https://microblog.prutser.lol/2022/12/24/095050.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/12/23/friday-making-dessert.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>👽 Friday<br />\nMaking dessert for the Christmas party tomorrow 👾</p>\n",
+				"date_published": "2022-12-23T09:04:39+02:00",
+				"url": "https://microblog.prutser.lol/2022/12/23/friday-making-dessert.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/12/21/enig-voordeel-van.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💡 Enig voordeel van om half vier wakker te worden.<br />\nDe laatste werkdag van het jaar zit er bijna op voordat ze echt begonnen is. 🥳</p>\n",
+				"date_published": "2022-12-21T09:11:30+02:00",
+				"url": "https://microblog.prutser.lol/2022/12/21/enig-voordeel-van.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/12/11/jonathan-kvs.html",
 				"title": "Jonathan - KVS",
 				"content_html": "<p>Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.<br>\nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.</p>\n",
 				"content_text": "Veel naar het theater gaan we niet, maar gisteren wel.\nJonathan van de KVS met Bruno Vanden Broecke, Valentijn Dhaenens en de stem van Gilda De Bal.  \nWe kijken naar een uitvaartdienst van iemand die in eenzaamheid tijdens corona gestorven was. Na een wat ongemakkelijk begin, was het bij momenten grappig en eindigde je met vragen over sociale censuur, de grens tussen palliatieve zorg en moord en de gevaren van artificiële intelligentie.\nIk vond het een aanrader.\n",
 				"date_published": "2022-12-11T14:21:31+02:00",
 				"url": "https://microblog.prutser.lol/2022/12/11/jonathan-kvs.html",
-				"tags": ["theater","recensie"]
+				"tags": ["recensie"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/12/03/wandeling-in-het.html",
@@ -441,6 +506,14 @@
 				"date_published": "2022-11-20T17:33:31+02:00",
 				"url": "https://microblog.prutser.lol/2022/11/20/wat-doet-een.html",
 				"tags": ["museum"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/19/op-weg-naar.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😬 Op weg naar een trouwfeest in het duurste hotel van de stad. \nWie bedenkt zoiets en wie denkt dat het een goed idee is om mij uit te nodigen 😆🙇🤷</p>\n",
+				"date_published": "2022-11-19T20:42:22+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/19/op-weg-naar.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/19/coming-up-with.html",
@@ -515,6 +588,14 @@
 				"url": "https://microblog.prutser.lol/2022/11/13/sometimes-i-dont.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/13/ijsje-in-het.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🍧 IJsje in het park, want zelfs midden november is het daar jammer genoeg warm genoeg voor.</p>\n",
+				"date_published": "2022-11-13T16:59:27+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/13/ijsje-in-het.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/13/finished-reading-van.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061317708\">Van het westelijk front geen nieuws</a> by Erich Maria Remarque 📚 \nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\nBenieuwd of de recente verfilming het boek eer aan doet.</p>\n",
@@ -539,6 +620,14 @@
 				"url": "https://microblog.prutser.lol/2022/11/12/i-have-a.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/12/wie-heeft-ooit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😑 Wie heeft ooit de hel van een mega-tuincentrum uitgevonden, gelukkig was de fietstocht ernaar toe mooi.</p>\n",
+				"date_published": "2022-11-12T14:57:28+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/12/wie-heeft-ooit.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/11/always-wondered-why.html",
 				
 				"content_html": "<p>Always wondered why a display on an alarm clock use bright red numbers that light up the entire room&hellip; #mbnov</p>\n",
@@ -555,12 +644,52 @@
 				"url": "https://microblog.prutser.lol/2022/11/10/can-you-participate.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/10/sleutels-sleutels-waar.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🗝 Sleutels, sleutels, waar zijn mijn sleutels. Dat gaat gedonder worden in huis als we alle sloten moeten veranderen 🙈🙉🙊</p>\n",
+				"date_published": "2022-11-10T21:24:11+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/10/sleutels-sleutels-waar.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/10/drie-dagen-op.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😩 Drie dagen op een week naar kantoor - hoe hielden we het vroeger vol om elke dag te komen.</p>\n",
+				"date_published": "2022-11-10T09:46:20+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/10/drie-dagen-op.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/09/im-certain-i.html",
 				
 				"content_html": "<p>I&rsquo;m certain I need a vacation. Soon. #mbnov</p>\n",
 				"content_text": "I'm certain I need a vacation. Soon. #mbnov\n",
 				"date_published": "2022-11-09T17:12:58+02:00",
 				"url": "https://microblog.prutser.lol/2022/11/09/im-certain-i.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/09/de-kat-van.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😹 De kat van de buren is weer een hele show aan het geven op het terras. Zo trots dat hij een stokje heeft gevangen.</p>\n",
+				"date_published": "2022-11-09T12:11:18+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/09/de-kat-van.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/09/ik-vrees-dat.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥶 Ik vrees dat ik de verwarming thuis toch eens ga testen, 16 graden in de bureau ⛄</p>\n",
+				"date_published": "2022-11-09T09:17:41+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/09/ik-vrees-dat.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/08/wat-startrek-enterprise.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🖖 Wat #StarTrek Enterprise in de avond, om een veel te drukke dag af te sluiten. #LLAP</p>\n",
+				"date_published": "2022-11-08T22:19:05+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/08/wat-startrek-enterprise.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/08/looking-at-everyone.html",
@@ -571,6 +700,14 @@
 				"url": "https://microblog.prutser.lol/2022/11/08/looking-at-everyone.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/07/221516.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥱 🥱</p>\n",
+				"date_published": "2022-11-07T22:15:16+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/07/221516.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/07/after-a-day.html",
 				
 				"content_html": "<p>After a day at work, I am too tired to share any useful insight of mine. #mbnov</p>\n",
@@ -579,12 +716,36 @@
 				"url": "https://microblog.prutser.lol/2022/11/07/after-a-day.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/07/monday-is-here.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😣 Monday is here</p>\n",
+				"date_published": "2022-11-07T09:56:27+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/07/monday-is-here.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/06/monday-is-near.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😵‍💫 Monday is near</p>\n",
+				"date_published": "2022-11-06T22:29:26+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/06/monday-is-near.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/06/i-had-an.html",
 				
 				"content_html": "<p>I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\nNow I like to do it also, probably embarrassing others around me but it&rsquo;s just a lot of fun. #mbnov</p>\n",
 				"content_text": "I had an uncle who likes to sing/make noise under bridges and in churches just to hear the echo. I was always embarrassed as a kid.\r\nNow I like to do it also, probably embarrassing others around me but it's just a lot of fun. #mbnov\n",
 				"date_published": "2022-11-06T19:01:29+02:00",
 				"url": "https://microblog.prutser.lol/2022/11/06/i-had-an.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/05/191600.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😋 🥣</p>\n",
+				"date_published": "2022-11-05T19:16:00+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/05/191600.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/05/im-giving-myself.html",
@@ -603,12 +764,36 @@
 				"url": "https://microblog.prutser.lol/2022/11/05/net-met-een.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/05/ochtendkoffie.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>☕ Ochtendkoffie</p>\n",
+				"date_published": "2022-11-05T10:09:17+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/05/ochtendkoffie.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/04/we-went-to.html",
 				
 				"content_html": "<p>We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov</p>\n",
 				"content_text": "We went to the Rubens House today to admire some works of art, including Jacob Jordaens' impressive Neptunus and Amphitrite, before the museum closes for four years. #mbnov\n",
 				"date_published": "2022-11-04T20:45:57+02:00",
 				"url": "https://microblog.prutser.lol/2022/11/04/we-went-to.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/04/gift-shopping-maybe.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🧑‍🎄 Gift shopping... Maybe with a museum in between</p>\n",
+				"date_published": "2022-11-04T13:35:12+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/04/gift-shopping-maybe.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/11/03/234157.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💤 😴</p>\n",
+				"date_published": "2022-11-03T23:41:57+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/03/234157.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/03/never-wanted-to.html",
@@ -651,6 +836,14 @@
 				"url": "https://microblog.prutser.lol/2022/11/02/zoeken-om-iets.html"
 			},
 			{
+				"id": "http://simondh.micro.blog/2022/11/01/221450.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🦕 🧟🦑🐲🦎🐉🦖🦕🐢</p>\n",
+				"date_published": "2022-11-01T22:14:50+02:00",
+				"url": "https://microblog.prutser.lol/2022/11/01/221450.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2022/11/01/should-i-start.html",
 				
 				"content_html": "<p>Should I start watching some #startrek fan series now that I&rsquo;ve seen the (for now) final episode of Lower Decks? 🤔🖖</p>\n",
@@ -689,6 +882,14 @@
 				"content_text": "Finished reading: [De Bezoeker (poema Pocket)](https://micro.blog/books/9789024544523) by Lee Child 📚\n",
 				"date_published": "2022-10-23T19:57:00+02:00",
 				"url": "https://microblog.prutser.lol/2022/10/23/finished-reading-de.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2022/10/14/enterprise.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🖖 Enterprise</p>\n",
+				"date_published": "2022-10-14T20:55:51+02:00",
+				"url": "https://microblog.prutser.lol/2022/10/14/enterprise.html"
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/10/11/finished-reading-mysterin.html",
@@ -1112,8 +1313,7 @@
 				"content_html": "<p>Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱</p>\n",
 				"content_text": "Soms voel je je de babysitter van dienst, zeker als je in de kelder gaat zitten om de katten uit de buurt gezelschap te houden die je kattenluik ontdekt hebben. 🐱\n",
 				"date_published": "2021-12-15T21:25:09+02:00",
-				"url": "https://microblog.prutser.lol/2021/12/15/soms-voel-je.html",
-				"tags": ["dagelijks"]
+				"url": "https://microblog.prutser.lol/2021/12/15/soms-voel-je.html"
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2021/12/05/suske-en-wiske.html",
