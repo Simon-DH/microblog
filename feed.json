@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/06/17/vandaag-zijn-we.html",
+				
+				"content_html": "<p>Vandaag zijn we even naar het Design Museum Brussel gegaan. \nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Vandaag zijn we even naar het Design Museum Brussel gegaan. \r\nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.\n\n<img src=\"uploads/2023/dsc02541.jpg\" width=\"600\" height=\"400\" alt=\"stoelen van Belgische ontwerpers,  met een felgele plastieken stoel als blikvanger\"><img src=\"uploads/2023/dsc02550.jpg\" width=\"600\" height=\"336\" alt=\"rare plastic halfronde bureaus, met een in fel oranje\"><img src=\"uploads/2023/dsc02547.jpg\" width=\"600\" height=\"293\" alt=\"plastic felgekleurde telefoons,  de voorste was in de vorm van een soort vliegtuig \"><img src=\"uploads/2023/dsc02556.jpg\" width=\"600\" height=\"301\" alt=\"radical design zetels,  een grote witte baseball handschoen,  eentje bestaande uit allemaal groene pieken waar je in zou kunnen liggen\">\n",
+				"date_published": "2023-06-17T18:04:34+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/17/vandaag-zijn-we.html",
+				"tags": ["museum"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/17/tourist-at-home.html",
+				
+				"content_html": "<p>Tourist at home</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tourist at home\n\n<img src=\"uploads/2023/dsc025402.jpg\" width=\"473\" height=\"600\" alt=\"atomium, Brussels. Weird building of big metal balls \">\n",
+				"date_published": "2023-06-17T17:26:21+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/17/tourist-at-home.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/16/an-old-abandoned.html",
+				
+				"content_html": "<p>An old abandoned cemetery I just discovered in my neighborhood</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "An old abandoned cemetery I just discovered in my neighborhood\n\n<img src=\"uploads/2023/c9cacb5346.jpg\" width=\"600\" height=\"599\" alt=\"White flowers and long grass in front of some neglected graves under a brilliant blue sky\">\n",
+				"date_published": "2023-06-16T09:30:02+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/16/an-old-abandoned.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/10/family-with-little.html",
 				
 				"content_html": "<p>Family with little birds in our old, unused mailbox 😍</p>\n",
@@ -27,7 +52,7 @@
 				"id": "http://simondh.micro.blog/2023/06/06/neighbors-visiting.html",
 				
 				"content_html": "<p>Neighbors visiting&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Neighbors visiting...\n\n<img src=\"uploads/2023/f0f3dc4963.jpg\" width=\"600\" height=\"337\" alt=\"Two cats in our chairs... :-)\">\n",
+				"content_text": "Neighbors visiting...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/f0f3dc4963.jpg\" width=\"600\" height=\"337\" alt=\"Two cats in our chairs... :-)\">\n",
 				"date_published": "2023-06-06T20:55:15+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/06/neighbors-visiting.html"
 			},
@@ -35,7 +60,7 @@
 				"id": "http://simondh.micro.blog/2023/06/06/134615.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/72d02d7b7c.jpg\" width=\"600\" height=\"600\" alt=\"Giant rubber duck, Bonapartedok, Antwerp\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/72d02d7b7c.jpg\" width=\"600\" height=\"600\" alt=\"Giant rubber duck, Bonapartedok, Antwerp\">\n",
 				"date_published": "2023-06-06T13:46:15+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/06/134615.html"
 			},
@@ -43,7 +68,7 @@
 				"id": "http://simondh.micro.blog/2023/06/04/todays-hike-bike.html",
 				
 				"content_html": "<p>Today&rsquo;s hike, bike ride</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today's hike, bike ride\n\n\n<img src=\"uploads/2023/3bf5c0df1e.jpg\" width=\"600\" height=\"399\" alt=\"Abandoned playground \"><img src=\"uploads/2023/0f9161277d.jpg\" width=\"600\" height=\"600\" alt=\"Waterslot Cleydael\"><img src=\"uploads/2023/9f4d1cf030.jpg\" width=\"600\" height=\"300\" alt=\"Dog in a farm\">\n",
+				"content_text": "Today's hike, bike ride\n\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/3bf5c0df1e.jpg\" width=\"600\" height=\"399\" alt=\"Abandoned playground \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/0f9161277d.jpg\" width=\"600\" height=\"600\" alt=\"Waterslot Cleydael\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/9f4d1cf030.jpg\" width=\"600\" height=\"300\" alt=\"Dog in a farm\">\n",
 				"date_published": "2023-06-04T18:49:48+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/04/todays-hike-bike.html"
 			},
