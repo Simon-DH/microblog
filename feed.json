@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/06/22/snw-ad-astra.html",
+				
+				"content_html": "<p>🖖 SNW: &ldquo;Ad Astra per Aspera&rdquo; Really loved  the episode.<br>\nStar Trek as Star Trek should be.</p>\n",
+				"content_text": "🖖 SNW: \"Ad Astra per Aspera\" Really loved  the episode.  \nStar Trek as Star Trek should be.\n",
+				"date_published": "2023-06-22T21:42:26+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/22/snw-ad-astra.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/21/week-day-it.html",
+				
+				"content_html": "<p>🏃‍♂️Week 4 day 1, it feels like I&rsquo;m getting somewhere&hellip;.<br>\nThe cat next door seems unimpressed 😺</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🏃‍♂️Week 4 day 1, it feels like I'm getting somewhere....  \r\nThe cat next door seems unimpressed 😺\n\n<img src=\"uploads/2023/3fb1dfa266.jpeg\" width=\"600\" height=\"600\" alt=\"Orange cat looking in the camera in a Fitbit run screenshot (32 min 4,04 km, 7'50'' tempo)\">\n",
+				"date_published": "2023-06-21T08:37:35+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/21/week-day-it.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/17/vandaag-zijn-we.html",
 				
 				"content_html": "<p>Vandaag zijn we even naar het Design Museum Brussel gegaan. \nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -87,7 +103,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023499626\">De bekeerlinge</a> by Stefan Hertmans 📚</p>\n<p>Prachtig boek, zeker een aanrader om te lezen.</p>\n",
 				"content_text": "Finished reading: [De bekeerlinge](https://micro.blog/books/9789023499626) by Stefan Hertmans 📚\r\n\r\nPrachtig boek, zeker een aanrader om te lezen.\n",
 				"date_published": "2023-05-27T18:27:53+02:00",
-				"url": "https://microblog.prutser.lol/2023/05/27/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/05/27/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/18/whos-looking-at.html",
@@ -135,7 +152,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780006482055\">Whirlwind</a> by Charles Grant 📚</p>\n<p>Not as good as Goblins, but entertaining enough.</p>\n",
 				"content_text": "Finished reading: [Whirlwind](https://micro.blog/books/9780006482055) by Charles Grant 📚\r\n\r\nNot as good as Goblins, but entertaining enough.\n",
 				"date_published": "2023-05-07T11:54:24+02:00",
-				"url": "https://microblog.prutser.lol/2023/05/07/finished-reading-whirlwind.html"
+				"url": "https://microblog.prutser.lol/2023/05/07/finished-reading-whirlwind.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/05/05/plantin-moretus-van.html",
@@ -168,7 +186,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780006482048\">Goblins</a> by Charles Grant 📚</p>\n<p>Always had a soft spot for the X-files.\nMaybe not very highbrow, but it was a fun read</p>\n",
 				"content_text": "Finished reading: [Goblins](https://micro.blog/books/9780006482048) by Charles Grant 📚\r\n\r\nAlways had a soft spot for the X-files.\r\nMaybe not very highbrow, but it was a fun read\n",
 				"date_published": "2023-04-22T11:52:34+02:00",
-				"url": "https://microblog.prutser.lol/2023/04/22/finished-reading-goblins.html"
+				"url": "https://microblog.prutser.lol/2023/04/22/finished-reading-goblins.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/21/just-watched-the.html",
@@ -195,20 +214,13 @@
 				"url": "https://microblog.prutser.lol/2023/04/17/ziekenhuiskamer-zijn-niet.html"
 			},
 			{
-				"id": "http://simondh.micro.blog/2023/04/17/back-to-work.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>😵‍💫 Back to work...</p>\n",
-				"date_published": "2023-04-17T07:49:46+02:00",
-				"url": "https://microblog.prutser.lol/2023/04/17/back-to-work.html"
-			},
-			{
 				"id": "http://simondh.micro.blog/2023/04/15/finished-reading-waterschapsheuvel.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781439176122\">Waterschapsheuvel</a> by Richard Adams 📚</p>\n<p>Ooit als kind gelezen,  en het was me altijd bijgebleven als een bijzondere leeservaring.<br>\nHet boek blijkt ook voor volwassenen te werken.  Ik zal de avonturen van Hazelaar en de zijnen missen.</p>\n",
 				"content_text": "Finished reading: [Waterschapsheuvel](https://micro.blog/books/9781439176122) by Richard Adams 📚\r\n\r\nOoit als kind gelezen,  en het was me altijd bijgebleven als een bijzondere leeservaring.   \r\nHet boek blijkt ook voor volwassenen te werken.  Ik zal de avonturen van Hazelaar en de zijnen missen.\r\n",
 				"date_published": "2023-04-15T09:13:32+02:00",
-				"url": "https://microblog.prutser.lol/2023/04/15/finished-reading-waterschapsheuvel.html"
+				"url": "https://microblog.prutser.lol/2023/04/15/finished-reading-waterschapsheuvel.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/04/14/star-trek-picard.html",
@@ -290,7 +302,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n<p>Meestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren&hellip;</p>\n",
 				"content_text": "Finished reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\r\n\r\nMeestal lees ik Le Carré wel graag, maar dit boek kon me om de een of andere reden niet bekoren...\n",
 				"date_published": "2023-03-18T10:01:03+02:00",
-				"url": "https://microblog.prutser.lol/2023/03/18/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/03/18/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/03/17/naar-een-hypermarkt.html",
@@ -339,7 +352,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789024525904\">De kleermaker van Panama</a> by John Le Carré 📚</p>\n",
 				"content_text": "Currently reading: [De kleermaker van Panama](https://micro.blog/books/9789024525904) by John Le Carré 📚\n",
 				"date_published": "2023-02-25T09:04:18+02:00",
-				"url": "https://microblog.prutser.lol/2023/02/25/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2023/02/25/currently-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/02/24/vrije-vrijdag-museumdag.html",
@@ -357,7 +371,7 @@
 				"content_text": "Finished reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚  \nAan de tijd dat ik nodig had om het boek te lezen kun je niet alleen afleiden dat ik het druk had, maar ook dat het niet altijd even vlot las - ik heb veel heen en weer moeten bladeren. Maar het was een bijzondere leeservaring.  \nEen nawoord was welkom geweest, waar bijvoorbeeld enkele zaken werden uitgelegd die bijvoorbeeld [hier](https://erikgveld.wordpress.com/2013/09/02/georges-perec-het-leven-een-gebruiksaanwijzing-1978/)  beschreven staan.\n",
 				"date_published": "2023-02-23T09:05:34+02:00",
 				"url": "https://microblog.prutser.lol/2023/02/23/finished-reading-het.html",
-				"tags": ["recensie"]
+				"tags": ["recensie","boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/02/11/voor-u-uitgetest.html",
@@ -416,7 +430,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789029506441\">Het leven een gebruiksaanwijzing</a> by Georges Perec 📚\nEen boek dat me altijd geïntrigeerd heeft.</p>\n",
 				"content_text": "Currently reading: [Het leven een gebruiksaanwijzing](https://micro.blog/books/9789029506441) by Georges Perec 📚\r\nEen boek dat me altijd geïntrigeerd heeft. \n",
 				"date_published": "2023-01-07T09:53:58+02:00",
-				"url": "https://microblog.prutser.lol/2023/01/07/currently-reading-het.html"
+				"url": "https://microblog.prutser.lol/2023/01/07/currently-reading-het.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2023/01/04/ill-be-glad.html",
@@ -432,7 +447,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9024513839\">Gorki Park</a> by Martin Cruz Smith 📚\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.</p>\n",
 				"content_text": "Finished reading: [Gorki Park](https://micro.blog/books/9024513839) by Martin Cruz Smith 📚\r\nHet boek begon sfeervol en goed, maar ergens halverwege begint de constructie in duigen te vallen om tegen het einde helemaal een zootje geworden te zijn.\n",
 				"date_published": "2023-01-02T14:27:41+02:00",
-				"url": "https://microblog.prutser.lol/2023/01/02/finished-reading-gorki.html"
+				"url": "https://microblog.prutser.lol/2023/01/02/finished-reading-gorki.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/12/28/ardennnen.html",
@@ -489,7 +505,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671537838\">The Murdered Sun (Star Trek Voyager, No 6)</a> by Christie Golden 📚\nWhen you need a silly Voyager adventure, but don&rsquo;t want to rewatch an episode. 🖖</p>\n",
 				"content_text": "Finished reading: [The Murdered Sun (Star Trek Voyager, No 6)](https://micro.blog/books/9780671537838) by Christie Golden 📚\r\nWhen you need a silly Voyager adventure, but don't want to rewatch an episode. 🖖\n",
 				"date_published": "2022-11-27T10:22:23+02:00",
-				"url": "https://microblog.prutser.lol/2022/11/27/finished-reading-the.html"
+				"url": "https://microblog.prutser.lol/2022/11/27/finished-reading-the.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/24/i-wonder-if.html",
@@ -626,7 +643,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061317708\">Van het westelijk front geen nieuws</a> by Erich Maria Remarque 📚 \nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\nBenieuwd of de recente verfilming het boek eer aan doet.</p>\n",
 				"content_text": "Finished reading: [Van het westelijk front geen nieuws](https://micro.blog/books/9789061317708) by Erich Maria Remarque 📚 \r\nPrachtige beschrijving van de gruwel van de oorlog en de impact op de soldaten.\r\nBenieuwd of de recente verfilming het boek eer aan doet.\n",
 				"date_published": "2022-11-13T14:53:20+02:00",
-				"url": "https://microblog.prutser.lol/2022/11/13/finished-reading-van.html"
+				"url": "https://microblog.prutser.lol/2022/11/13/finished-reading-van.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/11/13/aalscholvers-fotografie-natuur.html",
@@ -906,7 +924,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024544523\">De Bezoeker (poema Pocket)</a> by Lee Child 📚</p>\n",
 				"content_text": "Finished reading: [De Bezoeker (poema Pocket)](https://micro.blog/books/9789024544523) by Lee Child 📚\n",
 				"date_published": "2022-10-23T19:57:00+02:00",
-				"url": "https://microblog.prutser.lol/2022/10/23/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/10/23/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/10/14/enterprise.html",
@@ -922,7 +941,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789029518789\">Mysteriën</a> by Knut Hamsun 📚</p>\n",
 				"content_text": "Finished reading: [Mysteriën](https://micro.blog/books/9789029518789) by Knut Hamsun 📚\n",
 				"date_published": "2022-10-11T13:45:06+02:00",
-				"url": "https://microblog.prutser.lol/2022/10/11/finished-reading-mysterin.html"
+				"url": "https://microblog.prutser.lol/2022/10/11/finished-reading-mysterin.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/09/11/finished-reading-spqr.html",
@@ -930,7 +950,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041714282\">SPQR </a> by Mary Beard 📚</p>\n",
 				"content_text": "Finished reading: [SPQR ](https://micro.blog/books/9789041714282) by Mary Beard 📚\n",
 				"date_published": "2022-09-11T09:32:48+02:00",
-				"url": "https://microblog.prutser.lol/2022/09/11/finished-reading-spqr.html"
+				"url": "https://microblog.prutser.lol/2022/09/11/finished-reading-spqr.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/08/13/finished-reading-dictator.html",
@@ -938,7 +959,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307957962\">Dictator: A novel (Ancient Rome Trilogy Book 3)</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Dictator: A novel (Ancient Rome Trilogy Book 3)](https://micro.blog/books/9780307957962) by Robert Harris 📚\n",
 				"date_published": "2022-08-13T13:44:50+02:00",
-				"url": "https://microblog.prutser.lol/2022/08/13/finished-reading-dictator.html"
+				"url": "https://microblog.prutser.lol/2022/08/13/finished-reading-dictator.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/07/31/finished-reading-lustrum.html",
@@ -946,7 +968,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099406327\">Lustrum</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Lustrum](https://micro.blog/books/9780099406327) by Robert Harris 📚\n",
 				"date_published": "2022-07-31T15:31:30+02:00",
-				"url": "https://microblog.prutser.lol/2022/07/31/finished-reading-lustrum.html"
+				"url": "https://microblog.prutser.lol/2022/07/31/finished-reading-lustrum.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/07/18/lost-in-genoa.html",
@@ -962,7 +985,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789023443544\">Imperium</a> by Robert Harris 📚</p>\n",
 				"content_text": "Finished reading: [Imperium](https://micro.blog/books/9789023443544) by Robert Harris 📚\n",
 				"date_published": "2022-07-18T12:27:24+02:00",
-				"url": "https://microblog.prutser.lol/2022/07/18/finished-reading-imperium.html"
+				"url": "https://microblog.prutser.lol/2022/07/18/finished-reading-imperium.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/18/finished-reading-laatste.html",
@@ -970,7 +994,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by Harlan Coben 📚, wat een, eh, slecht boek.</p>\n",
 				"content_text": "Finished reading: [Laatste Kans](https://micro.blog/books/9789022551677) by Harlan Coben 📚, wat een, eh, slecht boek.\n",
 				"date_published": "2022-06-18T16:11:20+02:00",
-				"url": "https://microblog.prutser.lol/2022/06/18/finished-reading-laatste.html"
+				"url": "https://microblog.prutser.lol/2022/06/18/finished-reading-laatste.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/12/currently-reading-laatste.html",
@@ -978,7 +1003,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789022551677\">Laatste Kans</a> by  Harlan Coben 📚</p>\n",
 				"content_text": "Currently reading: [Laatste Kans](https://micro.blog/books/9789022551677) by  Harlan Coben 📚\n",
 				"date_published": "2022-06-12T08:04:24+02:00",
-				"url": "https://microblog.prutser.lol/2022/06/12/currently-reading-laatste.html"
+				"url": "https://microblog.prutser.lol/2022/06/12/currently-reading-laatste.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/12/finished-reading-een.html",
@@ -986,7 +1012,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Finished reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
 				"date_published": "2022-06-12T08:02:55+02:00",
-				"url": "https://microblog.prutser.lol/2022/06/12/finished-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/06/12/finished-reading-een.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/06/05/on-my-walk.html",
@@ -1002,7 +1029,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044545593\">Een Revolverschot</a> by Virginie Loveling 📚</p>\n",
 				"content_text": "Currently reading: [Een Revolverschot](https://micro.blog/books/9789044545593) by Virginie Loveling 📚\n",
 				"date_published": "2022-05-28T19:32:13+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/28/currently-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/05/28/currently-reading-een.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/05/27/finished-reading-land.html",
@@ -1010,7 +1038,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstol 📚. Een pak beter dan het tweede boek - maar eigenlijk had de trilogie na het eerste boek mogen stoppen.\n",
 				"date_published": "2022-05-27T15:25:35+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/27/finished-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/27/finished-reading-land.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/22/finished-reading-de.html",
@@ -1018,7 +1047,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.</p>\n",
 				"content_text": "Finished reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar  Sundstøl 📚. Teleurstellend tweede deel, een verkorte versie had gewerkt als epiloog bij deel één.  Hopelijk is deel drie beter.\n",
 				"date_published": "2022-05-22T18:54:28+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/22/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/05/22/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/16/currently-reading-de.html",
@@ -1026,7 +1056,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041415431\">De Doden (minnesota Trilogy, #2)</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [De Doden (minnesota Trilogy, #2)](https://micro.blog/books/9789041415431) by Vidar Sundstøl 📚\n",
 				"date_published": "2022-05-16T22:00:37+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/16/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/05/16/currently-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/16/finished-reading-land.html",
@@ -1034,7 +1065,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl  📚.<br>\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.</p>\n",
 				"content_text": "Finished reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl  📚.  \r\nVoor een boek uit een minibib gehaald te hebben, verbazend goed.\n",
 				"date_published": "2022-05-16T21:59:16+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/16/finished-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/16/finished-reading-land.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/05/11/currently-reading-land.html",
@@ -1042,7 +1074,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789041418203\">Land van dromen</a> by Vidar Sundstøl 📚</p>\n",
 				"content_text": "Currently reading: [Land van dromen](https://micro.blog/books/9789041418203) by Vidar Sundstøl 📚\n",
 				"date_published": "2022-05-11T19:19:46+02:00",
-				"url": "https://microblog.prutser.lol/2022/05/11/currently-reading-land.html"
+				"url": "https://microblog.prutser.lol/2022/05/11/currently-reading-land.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/30/last-night-of.html",
@@ -1058,7 +1091,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper een vertelling</a> by  Kader Abdolah 📚</p>\n",
 				"content_text": "Finished reading: [De boodschapper een vertelling](https://micro.blog/books/9789044509137) by  Kader Abdolah 📚\n",
 				"date_published": "2022-04-30T20:37:23+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/30/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/04/30/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/17/finished-reading-debatfiches.html",
@@ -1066,7 +1100,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches Van De Vlaamse Elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n<p>In heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\nEen must-read voor iedereen.</p>\n",
 				"content_text": "Finished reading: [Debatfiches Van De Vlaamse Elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\r\n\r\nIn heldere korte stukjes worden de (extreem-)rechtse debatfiches gefileerd.\r\nEen must-read voor iedereen.\n",
 				"date_published": "2022-04-17T09:54:52+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/17/finished-reading-debatfiches.html"
+				"url": "https://microblog.prutser.lol/2022/04/17/finished-reading-debatfiches.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/12/currently-reading-debatfiches.html",
@@ -1074,7 +1109,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789462673670\">Debatfiches van de Vlaamse elite</a> by Robrecht Vanderbeeken &amp; Karim Zahidi (red.) 📚</p>\n",
 				"content_text": "Currently reading: [Debatfiches van de Vlaamse elite](https://micro.blog/books/9789462673670) by Robrecht Vanderbeeken & Karim Zahidi (red.) 📚\n",
 				"date_published": "2022-04-12T06:46:52+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/12/currently-reading-debatfiches.html"
+				"url": "https://microblog.prutser.lol/2022/04/12/currently-reading-debatfiches.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/10/currently-reading-de.html",
@@ -1082,7 +1118,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044509137\">De boodschapper: een vertelling</a> by Kader Abdolah 📚</p>\n",
 				"content_text": "Currently reading: [De boodschapper: een vertelling](https://micro.blog/books/9789044509137) by Kader Abdolah 📚\n",
 				"date_published": "2022-04-10T09:46:19+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/10/currently-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/04/10/currently-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://simondh.micro.blog/2022/04/09/211300.html",
@@ -1090,7 +1127,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.</p>\n",
 				"content_text": "Finished reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚 Vlot lezende pulp, klaar voor de niet meer bestaande minibib.\n",
 				"date_published": "2022-04-09T21:13:00+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/09/211300.html"
+				"url": "https://microblog.prutser.lol/2022/04/09/211300.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/03/currently-reading-cromagnon.html",
@@ -1098,7 +1136,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789044608823\">Cro-Magnon</a> by Jef Geeraerts 📚</p>\n",
 				"content_text": "Currently reading: [Cro-Magnon](https://micro.blog/books/9789044608823) by Jef Geeraerts 📚\n",
 				"date_published": "2022-04-03T08:48:07+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/03/currently-reading-cromagnon.html"
+				"url": "https://microblog.prutser.lol/2022/04/03/currently-reading-cromagnon.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/04/03/finished-reading-i.html",
@@ -1106,7 +1145,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖\nIt could have been a fun but silly episode of early TNG.</p>\n",
 				"content_text": "Finished reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖 \nIt could have been a fun but silly episode of early TNG.\n",
 				"date_published": "2022-04-03T08:38:00+02:00",
-				"url": "https://microblog.prutser.lol/2022/04/03/finished-reading-i.html"
+				"url": "https://microblog.prutser.lol/2022/04/03/finished-reading-i.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/26/currently-reading-i.html",
@@ -1114,7 +1154,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780671024444\">I, Q (Star Trek: The Next Generation)</a> by John De Lancie and Peter David 📚 🖖</p>\n",
 				"content_text": "Currently reading: [I, Q (Star Trek: The Next Generation)](https://micro.blog/books/9780671024444) by John De Lancie and Peter David 📚 🖖\n",
 				"date_published": "2022-03-26T08:48:14+02:00",
-				"url": "https://microblog.prutser.lol/2022/03/26/currently-reading-i.html"
+				"url": "https://microblog.prutser.lol/2022/03/26/currently-reading-i.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/19/finished-reading-zelfverwoestingsboek.html",
@@ -1122,7 +1163,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789492478917\">Zelfverwoestingsboek</a> by Marian Donner 📚</p>\n",
 				"content_text": "Finished reading: [Zelfverwoestingsboek](https://micro.blog/books/9789492478917) by Marian Donner 📚\n",
 				"date_published": "2022-03-19T09:30:34+02:00",
-				"url": "https://microblog.prutser.lol/2022/03/19/finished-reading-zelfverwoestingsboek.html"
+				"url": "https://microblog.prutser.lol/2022/03/19/finished-reading-zelfverwoestingsboek.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/18/finished-reading-liefhebben.html",
@@ -1130,7 +1172,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben / Druk 19</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Finished reading: [Liefhebben / Druk 19](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
 				"date_published": "2022-03-18T21:43:43+02:00",
-				"url": "https://microblog.prutser.lol/2022/03/18/finished-reading-liefhebben.html"
+				"url": "https://microblog.prutser.lol/2022/03/18/finished-reading-liefhebben.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/03/13/he-looks-so.html",
@@ -1162,7 +1205,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789061315841\">Liefhebben een kunst, een kunde</a> by Erich Pinchas Fromm 📚</p>\n",
 				"content_text": "Currently reading: [Liefhebben een kunst, een kunde](https://micro.blog/books/9789061315841) by Erich Pinchas Fromm 📚\n",
 				"date_published": "2022-03-04T13:39:18+02:00",
-				"url": "https://microblog.prutser.lol/2022/03/04/currently-reading-liefhebben.html"
+				"url": "https://microblog.prutser.lol/2022/03/04/currently-reading-liefhebben.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/28/finished-reading-de.html",
@@ -1170,7 +1214,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789002145124\">De zeer schone uren van Juffrouw Symforosa, begijntjen</a> by Felix Timmermans 📚</p>\n",
 				"content_text": "Finished reading: [De zeer schone uren van Juffrouw Symforosa, begijntjen](https://micro.blog/books/9789002145124) by Felix Timmermans 📚\n",
 				"date_published": "2022-02-28T11:00:17+02:00",
-				"url": "https://microblog.prutser.lol/2022/02/28/finished-reading-de.html"
+				"url": "https://microblog.prutser.lol/2022/02/28/finished-reading-de.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/27/finished-reading-anomalie.html",
@@ -1178,7 +1223,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Finished reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
 				"date_published": "2022-02-27T19:40:33+02:00",
-				"url": "https://microblog.prutser.lol/2022/02/27/finished-reading-anomalie.html"
+				"url": "https://microblog.prutser.lol/2022/02/27/finished-reading-anomalie.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/24/piran-by-day.html",
@@ -1202,7 +1248,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789401615891\">Anomalie</a> by Hervé Le Tellier 📚</p>\n",
 				"content_text": "Currently reading: [Anomalie](https://micro.blog/books/9789401615891) by Hervé Le Tellier 📚\n",
 				"date_published": "2022-02-21T09:07:04+02:00",
-				"url": "https://microblog.prutser.lol/2022/02/21/currently-reading-anomalie.html"
+				"url": "https://microblog.prutser.lol/2022/02/21/currently-reading-anomalie.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/14/finished-reading-een.html",
@@ -1210,7 +1257,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by  📚</p>\n",
 				"content_text": "Finished reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by  📚\n",
 				"date_published": "2022-02-14T13:46:09+02:00",
-				"url": "https://microblog.prutser.lol/2022/02/14/finished-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/02/14/finished-reading-een.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/02/09/two-pigeons-with.html",
@@ -1242,7 +1290,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789021840628\">Een volmaakte spion</a> by John le Carré 📚</p>\n",
 				"content_text": "Currently reading: [Een volmaakte spion](https://micro.blog/books/9789021840628) by John le Carré 📚\n",
 				"date_published": "2022-01-25T16:00:13+02:00",
-				"url": "https://microblog.prutser.lol/2022/01/25/currently-reading-een.html"
+				"url": "https://microblog.prutser.lol/2022/01/25/currently-reading-een.html",
+				"tags": ["boeken"]
 			},
 			{
 				"id": "http://SimonDH.micro.blog/2022/01/20/bird-in-a.html",
@@ -1354,7 +1403,8 @@
 				"content_html": "<p>Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Als we straks opnieuw in lockdown zouden gaan heb ik in ieder geval mijn bezigheid 📚\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/7f7d9f4d31.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/54739/2021/fa31232d58.jpg\" width=\"266\" height=\"200\" alt=\"\" />\n\n",
 				"date_published": "2021-12-03T13:41:00+02:00",
-				"url": "https://microblog.prutser.lol/2021/12/03/als-we-straks.html"
+				"url": "https://microblog.prutser.lol/2021/12/03/als-we-straks.html",
+				"tags": ["boeken"]
 			}
 	]
 }
