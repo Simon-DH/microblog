@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/06/27/sinksenfoor-yesterday.html",
+				
+				"content_html": "<p>Sinksenfoor, yesterday</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sinksenfoor, yesterday \n\n<img src=\"uploads/2023/dsc02581.jpg\" width=\"600\" height=\"389\" alt=\"A rollercoaster\r&10;before a yellow crane  used by the Belgian railways \">\n",
+				"date_published": "2023-06-27T21:40:39+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/27/sinksenfoor-yesterday.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/26/sinksenfoor.html",
+				
+				"content_html": "<p>Sinksenfoor</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sinksenfoor \n\n<img src=\"uploads/2023/dsc02573.jpg\" width=\"600\" height=\"400\" alt=\"a luna parkbon a fair called play city with no people on it. Everything has bright colors, inside the luna park it is dark\">\n",
+				"date_published": "2023-06-26T21:51:16+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/26/sinksenfoor.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/06/24/finished-reading-moedervlekken.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789048819133\">Moedervlekken</a> by Arnon Grunberg 📚</p>\n<p>Ik weet eigenlijk niet goed of ik dit wel zo&rsquo;n goed boek vond&hellip;\nIk weet in het geheel niet wat ik er van moest vinden.</p>\n",
+				"content_text": "Finished reading: [Moedervlekken](https://micro.blog/books/9789048819133) by Arnon Grunberg 📚\r\n\r\nIk weet eigenlijk niet goed of ik dit wel zo'n goed boek vond...\r\nIk weet in het geheel niet wat ik er van moest vinden.\n",
+				"date_published": "2023-06-24T10:38:14+02:00",
+				"url": "https://microblog.prutser.lol/2023/06/24/finished-reading-moedervlekken.html",
+				"tags": ["boeken"]
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/22/snw-ad-astra.html",
 				
 				"content_html": "<p>🖖 SNW: &ldquo;Ad Astra per Aspera&rdquo; Really loved  the episode.<br>\nStar Trek as Star Trek should be.</p>\n",
@@ -26,7 +51,7 @@
 				"id": "http://simondh.micro.blog/2023/06/17/vandaag-zijn-we.html",
 				
 				"content_html": "<p>Vandaag zijn we even naar het Design Museum Brussel gegaan. \nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vandaag zijn we even naar het Design Museum Brussel gegaan. \r\nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.\n\n<img src=\"uploads/2023/dsc02541.jpg\" width=\"600\" height=\"400\" alt=\"stoelen van Belgische ontwerpers,  met een felgele plastieken stoel als blikvanger\"><img src=\"uploads/2023/dsc02550.jpg\" width=\"600\" height=\"336\" alt=\"rare plastic halfronde bureaus, met een in fel oranje\"><img src=\"uploads/2023/dsc02547.jpg\" width=\"600\" height=\"293\" alt=\"plastic felgekleurde telefoons,  de voorste was in de vorm van een soort vliegtuig \"><img src=\"uploads/2023/dsc02556.jpg\" width=\"600\" height=\"301\" alt=\"radical design zetels,  een grote witte baseball handschoen,  eentje bestaande uit allemaal groene pieken waar je in zou kunnen liggen\">\n",
+				"content_text": "Vandaag zijn we even naar het Design Museum Brussel gegaan. \r\nAlhoewel het onderwerp me nu niet direct aanspreekt stonden er toch enkele objecten die het bezoek de moeite waard maken. Zeker the Plastic Design Collection was leuk om te zien.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/dsc02541.jpg\" width=\"600\" height=\"400\" alt=\"stoelen van Belgische ontwerpers,  met een felgele plastieken stoel als blikvanger\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/dsc02550.jpg\" width=\"600\" height=\"336\" alt=\"rare plastic halfronde bureaus, met een in fel oranje\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/dsc02547.jpg\" width=\"600\" height=\"293\" alt=\"plastic felgekleurde telefoons,  de voorste was in de vorm van een soort vliegtuig \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/dsc02556.jpg\" width=\"600\" height=\"301\" alt=\"radical design zetels,  een grote witte baseball handschoen,  eentje bestaande uit allemaal groene pieken waar je in zou kunnen liggen\">\n",
 				"date_published": "2023-06-17T18:04:34+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/17/vandaag-zijn-we.html",
 				"tags": ["museum"]
@@ -35,7 +60,7 @@
 				"id": "http://simondh.micro.blog/2023/06/17/tourist-at-home.html",
 				
 				"content_html": "<p>Tourist at home</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tourist at home\n\n<img src=\"uploads/2023/dsc025402.jpg\" width=\"473\" height=\"600\" alt=\"atomium, Brussels. Weird building of big metal balls \">\n",
+				"content_text": "Tourist at home\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/dsc025402.jpg\" width=\"473\" height=\"600\" alt=\"atomium, Brussels. Weird building of big metal balls \">\n",
 				"date_published": "2023-06-17T17:26:21+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/17/tourist-at-home.html"
 			},
@@ -43,7 +68,7 @@
 				"id": "http://simondh.micro.blog/2023/06/16/an-old-abandoned.html",
 				
 				"content_html": "<p>An old abandoned cemetery I just discovered in my neighborhood</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An old abandoned cemetery I just discovered in my neighborhood\n\n<img src=\"uploads/2023/c9cacb5346.jpg\" width=\"600\" height=\"599\" alt=\"White flowers and long grass in front of some neglected graves under a brilliant blue sky\">\n",
+				"content_text": "An old abandoned cemetery I just discovered in my neighborhood\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/c9cacb5346.jpg\" width=\"600\" height=\"599\" alt=\"White flowers and long grass in front of some neglected graves under a brilliant blue sky\">\n",
 				"date_published": "2023-06-16T09:30:02+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/16/an-old-abandoned.html"
 			},
