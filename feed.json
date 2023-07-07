@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/07/07/star-trek-strange.html",
+				
+				"content_html": "<p>Star Trek Strange New Worlds 🖖 is getting better and better with each episode&hellip;</p>\n",
+				"content_text": "Star Trek Strange New Worlds 🖖 is getting better and better with each episode...\n",
+				"date_published": "2023-07-07T20:14:38+02:00",
+				"url": "https://microblog.prutser.lol/2023/07/07/star-trek-strange.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/07/02/half-dagje-gent.html",
+				
+				"content_html": "<p>Half dagje Gent.<br>\nHet Huis van Alijn: als kind/tiener van de jaren negentig was de tentoonstelling over de Nineties wel leuk, maar eigenlijk hadden we de puber moeten meenemen&hellip;<br>\nIn het Industriemuseum stonden enkele indrukwekkende machines, maar het onderwerp was niet geheel ons ding.<br>\nOok hebben we, als echte toeristen, een boottocht gemaakt. Leuk, al verstonden we niets van de gids.<br>\nAl met al wel een leuke namiddag in onze oude studentenstad.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Half dagje Gent.   \nHet Huis van Alijn: als kind/tiener van de jaren negentig was de tentoonstelling over de Nineties wel leuk, maar eigenlijk hadden we de puber moeten meenemen...  \nIn het Industriemuseum stonden enkele indrukwekkende machines, maar het onderwerp was niet geheel ons ding.  \nOok hebben we, als echte toeristen, een boottocht gemaakt. Leuk, al verstonden we niets van de gids.  \nAl met al wel een leuke namiddag in onze oude studentenstad.\n\n\n<img src=\"uploads/2023/dsc02607.jpg\" width=\"600\" height=\"399\" alt=\"Het Huis van Alijn\"><img src=\"uploads/2023/dsc02606.jpg\" width=\"600\" height=\"399\" alt=\"Achtertuintje dat uitkijkt op het water\"><img src=\"uploads/2023/dsc02600.jpg\" width=\"600\" height=\"399\" alt=\"Bibliotheek van Gent\"><img src=\"uploads/2023/dbc6da8067.jpg\" width=\"443\" height=\"600\" alt=\"eennof ander vreemdsoortige machine \">\n",
+				"date_published": "2023-07-02T20:23:33+02:00",
+				"url": "https://microblog.prutser.lol/2023/07/02/half-dagje-gent.html",
+				"tags": ["museum"]
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/06/27/sinksenfoor-yesterday.html",
 				
 				"content_html": "<p>Sinksenfoor, yesterday</p>\n<!-- raw HTML omitted -->\n",
@@ -43,7 +60,7 @@
 				"id": "http://simondh.micro.blog/2023/06/21/week-day-it.html",
 				
 				"content_html": "<p>🏃‍♂️Week 4 day 1, it feels like I&rsquo;m getting somewhere&hellip;.<br>\nThe cat next door seems unimpressed 😺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🏃‍♂️Week 4 day 1, it feels like I'm getting somewhere....  \r\nThe cat next door seems unimpressed 😺\n\n<img src=\"uploads/2023/3fb1dfa266.jpeg\" width=\"600\" height=\"600\" alt=\"Orange cat looking in the camera in a Fitbit run screenshot (32 min 4,04 km, 7'50'' tempo)\">\n",
+				"content_text": "🏃‍♂️Week 4 day 1, it feels like I'm getting somewhere....  \r\nThe cat next door seems unimpressed 😺\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/3fb1dfa266.jpeg\" width=\"600\" height=\"600\" alt=\"Orange cat looking in the camera in a Fitbit run screenshot (32 min 4,04 km, 7'50'' tempo)\">\n",
 				"date_published": "2023-06-21T08:37:35+02:00",
 				"url": "https://microblog.prutser.lol/2023/06/21/week-day-it.html"
 			},
