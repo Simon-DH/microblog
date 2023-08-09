@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/08/08/tijdens-de-atvwandelrally.html",
+				
+				"content_html": "<p>Tijdens de ATV-wandelrally met de museumpas even in DIVA, museum voor diamant binnengesprongen.<br>\nTotaal oninteressant in mijn ogen, blij dat ik hier geen geld aan heb gegeven.</p>\n",
+				"content_text": "Tijdens de ATV-wandelrally met de museumpas even in DIVA, museum voor diamant binnengesprongen.  \nTotaal oninteressant in mijn ogen, blij dat ik hier geen geld aan heb gegeven.\n",
+				"date_published": "2023-08-08T13:56:06+02:00",
+				"url": "https://microblog.prutser.lol/2023/08/08/tijdens-de-atvwandelrally.html",
+				"tags": ["museum"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/08/07/finished-reading-stoner.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099561545\">Stoner</a> by John Williams 📚</p>\n<p>Very beautiful book</p>\n",
+				"content_text": "Finished reading: [Stoner](https://micro.blog/books/9780099561545) by John Williams 📚\r\n\r\nVery beautiful book\n",
+				"date_published": "2023-08-07T09:30:56+02:00",
+				"url": "https://microblog.prutser.lol/2023/08/07/finished-reading-stoner.html",
+				"tags": ["boeken"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/08/05/last-full-day.html",
+				
+				"content_html": "<p>Last full day in Germany, first full day with good weather.<br>\nI&rsquo;m going to miss Germany.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last full day in Germany, first full day with good weather.  \r\nI'm going to miss Germany.\n\n<img src=\"uploads/2023/1060436.jpg\" width=\"600\" height=\"374\" alt=\"View from the tower of St Marien Kirche over Stralsund. Among other things, you can see the towers of the St Nikolai Kirche. On the water between Stralsund and Rüggen are many small sailboats\">\n",
+				"date_published": "2023-08-05T21:29:48+02:00",
+				"url": "https://microblog.prutser.lol/2023/08/05/last-full-day.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/08/04/stralsund-end-of.html",
+				
+				"content_html": "<p>Stralsund, end of the trip&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Stralsund, end of the trip...\n\n<img src=\"uploads/2023/1060371.jpg\" width=\"600\" height=\"337\" alt=\"Bicycle road signs, reading Stralsund 14,1 km pointing to the right\"><img src=\"uploads/2023/1060423.jpg\" width=\"600\" height=\"600\" alt=\"The St. Marien Kirche in Stralsund\">\n",
+				"date_published": "2023-08-04T21:50:56+02:00",
+				"url": "https://microblog.prutser.lol/2023/08/04/stralsund-end-of.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/08/03/a-strange-egg.html",
 				
 				"content_html": "<p>A  strange egg emerges in Zingst</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -18,7 +52,7 @@
 				"id": "http://simondh.micro.blog/2023/08/02/im-a-fan.html",
 				
 				"content_html": "<p>I&rsquo;m a fan of the seagulls at the Baltic Sea</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm a fan of the seagulls at the Baltic Sea\n\n<img src=\"uploads/2023/1050948.jpg\" width=\"600\" height=\"599\" alt=\"A yawning seagull on a pole in the sea\">\n",
+				"content_text": "I'm a fan of the seagulls at the Baltic Sea\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/1050948.jpg\" width=\"600\" height=\"599\" alt=\"A yawning seagull on a pole in the sea\">\n",
 				"date_published": "2023-08-02T17:14:56+02:00",
 				"url": "https://microblog.prutser.lol/2023/08/02/im-a-fan.html"
 			},
@@ -26,7 +60,7 @@
 				"id": "http://simondh.micro.blog/2023/08/01/seagull-in-warnemnde.html",
 				
 				"content_html": "<p>Seagull in Warnemünde</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seagull in Warnemünde\n\n<img src=\"uploads/2023/1050831.jpg\" width=\"600\" height=\"599\" alt=\"An angry looking seagull on the beach at Warnemünde\">\n",
+				"content_text": "Seagull in Warnemünde\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/1050831.jpg\" width=\"600\" height=\"599\" alt=\"An angry looking seagull on the beach at Warnemünde\">\n",
 				"date_published": "2023-08-01T21:30:32+02:00",
 				"url": "https://microblog.prutser.lol/2023/08/01/seagull-in-warnemnde.html"
 			},
@@ -34,7 +68,7 @@
 				"id": "http://simondh.micro.blog/2023/07/31/view-from-our.html",
 				
 				"content_html": "<p>View from our hotel room, the Molli Bahn in Bad Doberan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "View from our hotel room, the Molli Bahn in Bad Doberan.\n\n<img src=\"uploads/2023/9136712f71.jpg\" width=\"600\" height=\"450\" alt=\"An old steam train in a rainy city center\">\n",
+				"content_text": "View from our hotel room, the Molli Bahn in Bad Doberan.\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/9136712f71.jpg\" width=\"600\" height=\"450\" alt=\"An old steam train in a rainy city center\">\n",
 				"date_published": "2023-07-31T18:17:23+02:00",
 				"url": "https://microblog.prutser.lol/2023/07/31/view-from-our.html"
 			},
@@ -42,7 +76,7 @@
 				"id": "http://simondh.micro.blog/2023/07/29/lbeck-is-a.html",
 				
 				"content_html": "<p>Lübeck is a lovely city</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lübeck is a lovely city\n\n<img src=\"uploads/2023/9b35122d34.jpg\" width=\"450\" height=\"600\" alt=\"A typical courtyard with houses where people still live in today. Narrow, lots of green and a bench. \"><img src=\"uploads/2023/d0c23116ce.jpg\" width=\"600\" height=\"599\" alt=\"The Holsten gate\"><img src=\"uploads/2023/1050589.jpg\" width=\"600\" height=\"337\" alt=\"Pieces of a large church bell which lay broken on the floor in the St. Mary’s Church \"><img src=\"uploads/2023/91f3956795.jpg\" width=\"600\" height=\"599\" alt=\"Statues of saints and other religious people in a white hall, part of the museum in the St. Anne's Monastery\">\n",
+				"content_text": "Lübeck is a lovely city\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/9b35122d34.jpg\" width=\"450\" height=\"600\" alt=\"A typical courtyard with houses where people still live in today. Narrow, lots of green and a bench. \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/d0c23116ce.jpg\" width=\"600\" height=\"599\" alt=\"The Holsten gate\"><img src=\"https://cdn.uploads.micro.blog/54739/2023/1050589.jpg\" width=\"600\" height=\"337\" alt=\"Pieces of a large church bell which lay broken on the floor in the St. Mary’s Church \"><img src=\"https://cdn.uploads.micro.blog/54739/2023/91f3956795.jpg\" width=\"600\" height=\"599\" alt=\"Statues of saints and other religious people in a white hall, part of the museum in the St. Anne's Monastery\">\n",
 				"date_published": "2023-07-29T22:00:43+02:00",
 				"url": "https://microblog.prutser.lol/2023/07/29/lbeck-is-a.html"
 			},
