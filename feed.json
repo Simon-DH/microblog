@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2023/10/21/een-nieuwe-tvdecoder.html",
+				
+				"content_html": "<p>Een nieuwe tv-decoder toegestuurd gekregen met de melding dat je binnen de maand moet verwisselen en dat alleen programma&rsquo;s van de afgelopen zestig dagen worden overgezet.<br>\nDat wil dus zeggen dat we elke dag twee films zouden moeten zien 🤯😢</p>\n",
+				"content_text": "Een nieuwe tv-decoder toegestuurd gekregen met de melding dat je binnen de maand moet verwisselen en dat alleen programma's van de afgelopen zestig dagen worden overgezet.  \r\nDat wil dus zeggen dat we elke dag twee films zouden moeten zien 🤯😢\n",
+				"date_published": "2023-10-21T18:59:54+02:00",
+				"url": "https://microblog.prutser.lol/2023/10/21/een-nieuwe-tvdecoder.html"
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/10/16/finished-reading-de.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789464102901\">De Staatsvijand</a> by Johan Op De Beeck 📚</p>\n<p>Geen hoogstaande literatuur, maar ontspannend genoeg.\nEn we leerden een vreemd verhaal over liberale Belgische politici vlak na WO2 kennen: <a href=\"https://archive.ph/gcddY\">archive.ph/gcddY</a></p>\n",
+				"content_text": "Finished reading: [De Staatsvijand](https://micro.blog/books/9789464102901) by Johan Op De Beeck 📚\n\nGeen hoogstaande literatuur, maar ontspannend genoeg.\nEn we leerden een vreemd verhaal over liberale Belgische politici vlak na WO2 kennen: [archive.ph/gcddY](https://archive.ph/gcddY)\n",
+				"date_published": "2023-10-16T20:07:58+02:00",
+				"url": "https://microblog.prutser.lol/2023/10/16/finished-reading-de.html",
+				"tags": ["boeken"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2023/10/14/huh-welke-sport.html",
+				
+				"content_html": "<p>Huh, welke sport zou ik zo volgen volgens Sporza 🙄</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Huh, welke sport zou ik zo volgen volgens Sporza 🙄\n\n<img src=\"uploads/2023/68cb6d9fed.jpg\" width=\"270\" height=\"600\" alt=\"Keuzemenu om sporten te volgen in de Sporza app. Een van de sporten is vrouwenwielrennen, onderverdeling van wielrennen-mannen\">\n",
+				"date_published": "2023-10-14T18:12:20+02:00",
+				"url": "https://microblog.prutser.lol/2023/10/14/huh-welke-sport.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2023/10/11/vaccinated.html",
 				
 				"content_html": "<p>💉 Vaccinated&hellip;</p>\n",
@@ -43,7 +68,7 @@
 				"id": "http://simondh.micro.blog/2023/09/28/boating-in-the.html",
 				
 				"content_html": "<p>Boating in the port of Antwerp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boating in the port of Antwerp\n\n<img src=\"uploads/2023/20230928-130139.jpg\" width=\"600\" height=\"300\" alt=\"barge in the port of antwerp, with a factory  behind it\">\n",
+				"content_text": "Boating in the port of Antwerp\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2023/20230928-130139.jpg\" width=\"600\" height=\"300\" alt=\"barge in the port of antwerp, with a factory  behind it\">\n",
 				"date_published": "2023-09-28T14:31:28+02:00",
 				"url": "https://microblog.prutser.lol/2023/09/28/boating-in-the.html"
 			},
