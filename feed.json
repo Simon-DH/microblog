@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2024/11/14/finished-reading-mijn.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789463930130\">Mijn kleine oorlog</a> by Louis Paul Boon 📚</p>\n",
+				"content_text": "Finished reading: [Mijn kleine oorlog](https://micro.blog/books/9789463930130) by Louis Paul Boon 📚\n",
+				"date_published": "2024-11-14T09:52:28+01:00",
+				"url": "https://microblog.prutser.lol/2024/11/14/finished-reading-mijn.html",
+				"tags": ["boeken"]
+			},
+			{
+				"id": "http://simondh.micro.blog/2024/11/12/sintpietersleeuw-gisteren.html",
+				
+				"content_html": "<p>Sint-Pieters-Leeuw gisteren</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sint-Pieters-Leeuw gisteren\n\n<img src=\"uploads/2024/c1f95cc597.jpg\" width=\"600\" height=\"450\" alt=\"De zendmast van Sint-Pieters-Leeuw omringt door twee elektriciteitsmasten in een groen veld, met omgewoelde aarde op de voorgrond\">\n",
+				"date_published": "2024-11-12T09:57:54+01:00",
+				"url": "https://microblog.prutser.lol/2024/11/12/sintpietersleeuw-gisteren.html"
+			},
+			{
 				"id": "http://simondh.micro.blog/2024/10/31/finished-reading-de.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789493109865\">De kleur van dingen</a> by Martin Panchaud 📚</p>\n<p>Het verhaal was misschien niet helemaal mijn ding, maar hoe het gebracht werd was geweldig.</p>\n",
@@ -46,7 +63,7 @@
 				"id": "http://simondh.micro.blog/2024/09/20/ik-veronderstel-dat.html",
 				
 				"content_html": "<p>Ik veronderstel dat dit nog net als station kan doorgaan&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ik veronderstel dat dit nog net als station kan doorgaan...\n\n<img src=\"uploads/2024/20240920-090452.jpg\" width=\"600\" height=\"450\" alt=\"vervallen, verlaten station van Hever\">\n",
+				"content_text": "Ik veronderstel dat dit nog net als station kan doorgaan...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2024/20240920-090452.jpg\" width=\"600\" height=\"450\" alt=\"vervallen, verlaten station van Hever\">\n",
 				"date_published": "2024-09-20T08:15:22+01:00",
 				"url": "https://microblog.prutser.lol/2024/09/20/ik-veronderstel-dat.html"
 			},
