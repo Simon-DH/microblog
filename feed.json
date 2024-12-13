@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://simondh.micro.blog/2024/11/24/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781409181637\">The Silent Patient</a> by Alex Michaelides 📚</p>\n<p>Een van de betere thrillers die ik de afgelopen jaren gelezen heb. Een aanrader.</p>\n",
+				"content_text": "Finished reading: [The Silent Patient](https://micro.blog/books/9781409181637) by Alex Michaelides 📚\r\n\r\nEen van de betere thrillers die ik de afgelopen jaren gelezen heb. Een aanrader.\n",
+				"date_published": "2024-11-24T10:28:25+01:00",
+				"url": "https://microblog.prutser.lol/2024/11/24/finished-reading-the.html",
+				"tags": ["boeken"]
+			},
+			{
 				"id": "http://simondh.micro.blog/2024/11/14/finished-reading-mijn.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789463930130\">Mijn kleine oorlog</a> by Louis Paul Boon 📚</p>\n",
@@ -122,7 +131,7 @@
 				"id": "http://simondh.micro.blog/2024/07/13/vandaag-naar-het.html",
 				
 				"content_html": "<p>Vandaag naar het museum van Folon in La Hulpe geweest.<br>\nMooi klein museum in een prachtige omgeving,  zeker een aanrader.<br>\nIn de namiddag kun je dan nog een wandeling doen of,  zoals wij deden,  wat in Brussel gaan rondkuieren&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vandaag naar het museum van Folon in La Hulpe geweest.  \nMooi klein museum in een prachtige omgeving,  zeker een aanrader.  \nIn de namiddag kun je dan nog een wandeling doen of,  zoals wij deden,  wat in Brussel gaan rondkuieren...\n\n<img src=\"uploads/2024/20240713-105217.jpg\" width=\"450\" height=\"600\" alt=\"Glas in lood,  zeer blauw.\"><img src=\"uploads/2024/20240713-112624-1.jpg\" width=\"600\" height=\"450\" alt=\"standbeeld van een zittende man in zand  kijkend naar een scherm waar de zee op getoond wordt\"><img src=\"uploads/2024/20240713-112201.jpg\" width=\"450\" height=\"600\" alt=\"fontein,  een man die een paraplu gebruikt. het water komt uit de paraplu en vormt zo het scherm\"><img src=\"uploads/2024/20240713-120718.jpg\" width=\"600\" height=\"450\" alt=\"uitzicht op het domein waar  het museum is gevestigd\">\n",
+				"content_text": "Vandaag naar het museum van Folon in La Hulpe geweest.  \nMooi klein museum in een prachtige omgeving,  zeker een aanrader.  \nIn de namiddag kun je dan nog een wandeling doen of,  zoals wij deden,  wat in Brussel gaan rondkuieren...\n\n<img src=\"https://cdn.uploads.micro.blog/54739/2024/20240713-105217.jpg\" width=\"450\" height=\"600\" alt=\"Glas in lood,  zeer blauw.\"><img src=\"https://cdn.uploads.micro.blog/54739/2024/20240713-112624-1.jpg\" width=\"600\" height=\"450\" alt=\"standbeeld van een zittende man in zand  kijkend naar een scherm waar de zee op getoond wordt\"><img src=\"https://cdn.uploads.micro.blog/54739/2024/20240713-112201.jpg\" width=\"450\" height=\"600\" alt=\"fontein,  een man die een paraplu gebruikt. het water komt uit de paraplu en vormt zo het scherm\"><img src=\"https://cdn.uploads.micro.blog/54739/2024/20240713-120718.jpg\" width=\"600\" height=\"450\" alt=\"uitzicht op het domein waar  het museum is gevestigd\">\n",
 				"date_published": "2024-07-13T17:27:50+01:00",
 				"url": "https://microblog.prutser.lol/2024/07/13/vandaag-naar-het.html",
 				"tags": ["museum"]
